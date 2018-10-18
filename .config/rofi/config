@@ -1,1 +1,30 @@
-/home/john/.config/rofi/config
+rofi.theme: /usr/share/rofi/themes/android_notification.rasi
+
+rofi.modi: drun,window
+rofi.bw: 1
+rofi.fixed-num-lines: true
+rofi.separator-style: none
+rofi.show-icons: true
+rofi.hide-scrollbar: true
+
+rofi.display-drun: Run
+rofi.display-window: Window
+
+rofi.width:              35
+rofi.column:             1
+rofi.location:           0
+rofi.lines:              10
+rofi.padding:            26
+rofi.sidebar-mode:       true
+rofi.fullscreen:         false
+rofi.fake-transparency:  false
+rofi.color-enabled:      true
+
+!!                  bg             border          separator
+rofi.color-window:  argb:bb282a36, argb:bbbd93f9,  argb:bbbd93f9
+
+!!                  bg             fg       bg-alt         hl-bg          hl-fg
+rofi.color-normal:  argb:00282a36, #f8f8f2, argb:00282a36, #bd93f9, #e6e6e6
+rofi.color-active:  argb:00282a36, #282a36, argb:00282a36, #6a9bb9, #282a36
+rofi.color-urgent:  argb:00ff6e67, #282a36, argb:00ff6e67, #ff6e67, #282a36
+rofi.color-urgent:  argb:00282a36, #282a36, argb:00282a36, #282a36, #282a36

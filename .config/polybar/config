@@ -1,1 +1,193 @@
-/home/john/.config/polybar/config
+[bar/bar]
+
+;------------;
+; DIMENSIONS ;
+;------------;
+
+width = 100%
+height = 20
+offset-y = 0
+offset-x = 0
+
+border-size = 5
+
+;----------;
+; LOCATION ;
+;----------;
+
+bottom = true
+monitor = eDP-1
+override-redirect = false
+
+;-------;
+; FONTS ;
+;-------;
+
+font-0 = Hack:size=11;2
+font-1 = "Font Awesome 5 Free:style=Solid:pixelsize=13;3"
+font-2 = "Font Awesome 5 Free:style=Regular:pixelsize=13;3"
+font-3 = "Font Awesome 5 Brands:pixelsize=13;3"
+
+;--------;
+; COLORS ;
+;--------;
+
+background = 0
+foreground = #c5a9f9
+border-color = 0
+
+;---------------;
+; MISCELLANEOUS ;
+;---------------;
+
+fixed-center = true
+padding-left = 2 
+padding-right = 2
+module-margin = 1.5
+
+modules-left = pulseaudio backlight battery spotify mpd
+modules-center = i3
+modules-right = network filesystem cpu date
+
+tray-position = none
+tray-detached = true
+
+;---------;
+; MODULES ;
+;---------;
+
+[module/i3]
+type = internal/i3
+
+pin-workspaces = true
+strip-wsnumbers = true
+enable-scroll = false
+enable-click = false
+
+label-unfocused-foreground = #afafaf
+label-focused-foreground = #c5a9f9
+label-urgent-foreground = #ff0000
+
+label-separator = " "
+
+[module/date]
+type = internal/date
+date =  %Y-%m-%d - %A  %H:%M:%S
+label = %date%
+
+
+[module/battery]
+type = internal/battery
+
+battery = BAT0
+
+poll-interval = 1
+
+full-at = 75
+
+label-discharging = %percentage%%
+label-charging = %percentage%%
+label-full = %percentage%%
+
+format-discharging = <ramp-capacity> <label-discharging>
+format-full = <ramp-capacity> <label-full>
+format-charging =  <label-charging>
+
+ramp-capacity-0 = 
+ramp-capacity-1 = 
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
+
+[module/pulseaudio]
+type = internal/pulseaudio
+
+format-volume = <ramp-volume> <label-volume>
+format-muted =  MUTED
+
+ramp-volume-0 = 
+ramp-volume-1 = 
+ramp-volume-2 = 
+
+[module/spotify]
+type = custom/script
+exec = ~/.config/polybar/spotify.sh \|\   %artist% - %title% \|
+tail = true
+interval = 2
+click-left = playerctl play-pause
+click-middle = playerctl previous
+click-right = playerctl next
+
+[module/mpd]
+type = internal/mpd
+
+host = 127.0.0.1
+port = 6600
+
+format-online = <icon-prev> <icon-stop> <toggle> <icon-next>  <bar-progress> <label-time>  <label-song>
+format-offline = <label-offline>
+label-offline = mpd 
+
+icon-prev = 
+icon-stop = 
+icon-play = 
+icon-pause = 
+icon-next = 
+icon-random = 
+icon-repeat = 
+
+bar-progress-width = 45
+bar-progress-format = %{A4:mpdseek+2: A5:mpdseek-2:}%fill%%indicator%%empty%%{A A}
+bar-progress-indicator = |
+bar-progress-indicator-foreground = #ff
+bar-progress-indicator-font = 3
+bar-progress-fill = ─
+bar-progress-fill-foreground = #bb
+bar-progress-fill-font = 3
+bar-progress-empty = ─
+bar-progress-empty-font = 3
+bar-progress-empty-foreground = #44
+
+[module/backlight]
+type = internal/backlight
+
+; Use the following command to list available cards:
+; $ ls -1 /sys/class/backlight/
+card = intel_backlight
+
+format = <ramp> <label>
+
+label = %percentage%%
+
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
+
+[module/cpu]
+type = internal/cpu
+label =  %percentage%%
+
+[module/memory]
+type = internal/memory
+label =  %gb_used%
+
+[module/network]
+type = internal/network
+
+interface = wlp3s0
+interval = 5
+
+label-connected =  %essid% - %signal%%   %local_ip%
+label-disconnected =  Not Connected
+
+[module/filesystem]
+type = internal/fs
+
+mount-0 = /
+
+label-mounted =  %free%
+
+[module/temperature]
+type = internal/temperature
+
+label =  %temperature-f%

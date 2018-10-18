@@ -1,1 +1,4 @@
-/home/john/.config/polybar/bar.sh
+#!/bin/sh
+
+killall polybar
+polybar bar
