@@ -1,0 +1,1 @@
+/home/john/.config/polybar/launch.sh
