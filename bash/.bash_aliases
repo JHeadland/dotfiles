@@ -14,10 +14,10 @@ alias .....='cd ../../../..'
 
 # Quick config editing
 alias installed='vim ~/Documents/vimwiki/Arch.wiki'
-alias i3config='vim ~/dotfiles/config/i3/config'
+alias i3config='vim ~/dotfiles/config/.config/i3/config'
 alias bashrc='vim ~/dotfiles/bash/.bashrc'
 alias aliases='vim ~/dotfiles/bash/.bash_aliases'
-alias polybarconf='vim ~/dotfiles/config/polybar/config'
+alias polybarconf='vim ~/dotfiles/config/.config/polybar/config'
 
 # Miscellaneous commands
 alias ls='ls --color=auto'

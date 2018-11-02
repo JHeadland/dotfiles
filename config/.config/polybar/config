@@ -49,8 +49,7 @@ modules-left = pulseaudio backlight battery spotify mpd
 modules-center = i3
 modules-right = cpu network filesystem date
 
-tray-position = none
-tray-detached = true
+tray-position = right
 
 ;---------;
 ; MODULES ;

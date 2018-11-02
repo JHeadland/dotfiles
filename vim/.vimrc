@@ -37,3 +37,4 @@ nnoremap <C-H> <C-W><C-H>
 let g:ctrlp_show_hidden = 1
 let g:instant_markdown_autostart = 0
 let g:vimwiki_list = [{'path':'~/Documents/vimwiki', 'path_html':'~/Documents/vimwiki/html'}]
+let g:powerline_pycmd="py3"
