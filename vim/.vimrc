@@ -1,20 +1,33 @@
-" Plugins installed though pacman:
-" vim-nerdtree
-" vim-ctrlp
-" vim-instant-markdown
-" vim-vimwiki
-" Plugins installed	in ~/.vim/pack/plugins/start/:
-" YouCompleteMe
-" vim-autoclose
+" ---- Vundle Settings ------------
 
-syntax on			" syntax coloring
-set number			" show line numbers
-set autoindent		" auto indent upon new line
-set linebreak		" line wrap doesn't wrap mid-word
-set breakindent		" word wrap takes indentation into account
-set hlsearch		" highlights search results	
-set mouse=a			" makes the mouse usable
-set tabstop=4		" tabs are 4 spaces
+"" set the runtime path to include Vundle and initialize
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+
+" let Vundle manage Vundle, required
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'scrooloose/nerdtree'
+Plugin 'suan/vim-instant-markdown'
+Plugin 'ctrlpvim/ctrlp.vim'
+Plugin 'Townk/vim-autoclose'
+Plugin 'xolox/vim-misc'
+Plugin 'xolox/vim-notes'
+"Plugin 'Valloric/YouCompleteMe'
+
+call vundle#end()       
+filetype plugin indent on  
+
+" To install plugins through Vundle, run the command:
+" :PluginInstall
+
+syntax on				" syntax coloring
+set number				" show line numbers
+set autoindent			" auto indent upon new line
+set linebreak			" line wrap doesn't wrap mid-word
+set breakindent			" word wrap takes indentation into account
+set hlsearch			" highlights search results	
+set mouse=a				" makes the mouse usable
+set tabstop=4			" tabs are 4 spaces
 filetype plugin on
 
 set shiftwidth=4	" number of space characters used for indentation
@@ -36,5 +49,18 @@ nnoremap <C-H> <C-W><C-H>
 
 let g:ctrlp_show_hidden = 1
 let g:instant_markdown_autostart = 0
-let g:vimwiki_list = [{'path':'~/Documents/vimwiki', 'path_html':'~/Documents/vimwiki/html'}]
-let g:powerline_pycmd="py3"
+
+" Vim-Notes
+let g:notes_directories = ['~/Documents/Notes']
+let g:notes_suffix = '.note'
+let g:notes_markdown_program = 'markdown_py'
+let g:notes_conceal_url = 0
+
+" Syntastic Settings
+set statusline+=%#warningmsg#
+set statusline+=%{SyntasticStatuslineFlag()}
+set statusline+=%*
+let g:syntastic_always_populate_loc_list = 1
+let g:syntastic_auto_loc_list = 1
+let g:syntastic_check_on_open = 1
+let g:syntastic_check_on_wq = 0
