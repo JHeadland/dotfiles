@@ -18,7 +18,7 @@ font pango:DejaVu Sans Mono 8
 exec_always --no-startup-id feh --bg-scale /home/john/Pictures/Wallpapers/arch2.png
 
 # Compton (reduce screen tearing)
-exec_always --nostartup-id compton -bCG --no-fading-openclose --vsync opengl
+#exec --nostartup-id compton -bCG --no-fading-openclose --vsync opengl
 
 #--------------#
 # Applications #
@@ -39,6 +39,7 @@ bindsym $mod+Shift+q kill
 #bindsym $mod+d exec dmenu_run
 # Start rofi
 bindsym $mod+d exec --no-startup-id rofi -show drun
+bindsym $mod+Shift+d exec --no-startup-id rofi -show run 
 
 # i3lock with background
 #bindsym $mod+Shift+x exec i3lock -i /home/john/Pictures/Wallpapers/arch1.png
@@ -46,6 +47,9 @@ bindsym $mod+Shift+x exec betterlockscreen -l
 
 # chromium (mod+c)
 bindsym $mod+c exec --no-startup-id chromium
+
+# scrot (screenshot) 
+bindsym --release $mod+s exec --no-startup-id scrot ~/Pictures/Screenshots/%Y-%m-%d_%H%M%S.png
 
 #-------------#
 # Keybindings #
@@ -81,7 +85,7 @@ bindsym $mod+v split v
 bindsym $mod+f fullscreen toggle
 
 # Change container layout (stacked, tabbed, toggle split)
-bindsym $mod+s layout stacking
+#bindsym $mod+s layout stacking
 bindsym $mod+w layout tabbed
 bindsym $mod+e layout toggle split
 
@@ -102,13 +106,13 @@ set $workspace1 1: 
 set $workspace2 2: 
 set $workspace3 3: 
 set $workspace4 4: 
-set $workspace5 5
-set $workspace6 6
-set $workspace7 7
-set $workspace8 8
-set $workspace9 9
+set $workspace5 5: 5
+set $workspace6 6: 6
+set $workspace7 7: 7
+set $workspace8 8: 8
+set $workspace9 9: 
 set $workspace10 10: 
-set $wsminus 11: 
+set $wsminus 11: 
 set $wsequal 12: 
 
 # Switch to workspace
@@ -201,6 +205,5 @@ exec --no-startup-id i3-battery-popup
 # Assignments #
 #-------------#
 
-#assign [class="Spotify"] $wsminus
+#assign [class="Chromium"] $workspace2
 for_window [class="Spotify"] move to workspace $wsminus
-

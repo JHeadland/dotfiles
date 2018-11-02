@@ -47,7 +47,7 @@ module-margin = 1.5
 
 modules-left = pulseaudio backlight battery spotify mpd
 modules-center = i3
-modules-right = network filesystem cpu date
+modules-right = cpu network filesystem date
 
 tray-position = none
 tray-detached = true
@@ -72,7 +72,7 @@ label-separator = " "
 
 [module/date]
 type = internal/date
-date =  %Y-%m-%d - %A  %H:%M:%S
+date =  %A - %Y-%m-%d  %H:%M:%S
 label = %date%
 
 

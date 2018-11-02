@@ -23,34 +23,20 @@ shopt -s cdspell
 shopt -s histappend
 # Auto cd by typing directory as command
 shopt -s autocd
+# Recusrive globbing with **
+shopt -s globstar
 
 # Prompt
 #PS1='[\u@\h \W]\$ ' 
 PS1='\[\e[31m\] \h\[\e[m\]  \[\e[38;5;048m\] \u\[\e[m\]  \[\e[38;5;051m\] \w\[\e[m\]\n \[\e[32m\]\$\[\e[m\] '
 
-#---------
-# Aliases
-#---------
+# Add ~/Scripts to PATH
+export PATH="~/Scripts:$PATH"
 
-alias ls='ls --color=auto'
-alias la='ls -a'
-alias ll='ls -alh'
-alias df='df -h'
-alias cp='cp -rvi'
-alias mv='mv -vi'
-alias rm='rm -vI'
-alias mkdir='mkdir -vp'
-alias rmdir='rmdir -v'
-alias grep='grep --color=auto'
-alias feh='feh -B black'
-alias xauto='xrandr --auto'
-alias xabove='xrandr --output HDMI-2 --mode 1360x768 --above eDP-1'
-alias wifi='sudo wifi-menu -o'
-alias ytdl='youtube-dl -x --audio-format mp3'
-alias ..='cd ..'
-alias ...='cd ../..'
-alias ....='cd ../../..'
-alias .....='cd ../../../..'
+# Add bash aliases
+if [ -f ~/.bash_aliases ]; then
+    source ~/.bash_aliases
+fi
 
 #-------------------
 # Readline bindings

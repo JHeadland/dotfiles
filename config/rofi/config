@@ -1,6 +1,6 @@
 rofi.theme: /usr/share/rofi/themes/android_notification.rasi
 
-rofi.modi: drun,window
+rofi.modi: drun,window,run
 rofi.bw: 1
 rofi.fixed-num-lines: true
 rofi.separator-style: none
