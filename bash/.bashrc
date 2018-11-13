@@ -10,21 +10,30 @@ export EDITOR=/usr/bin/vim
 # Set Chromium as default browser
 export BROWSER='chromium'
 # Erase and ignore duplicate lines in history
-export HISCONTROL=ignoreboth:erasedups
+export HISCONTROL="erasedups:ignoreboth"
+# Don't record some commands in history
+export HISTIGNORE="&:[ ]*:exit:ls:history:clear"
 # History length
-export HISTSIZE=10000
-#export PROMPT_COMMAND="history -a;$PROMPT_COMMAND"
+export HISTSIZE=1000000
+# Record each command to history as it gets issued
+export PROMPT_COMMAND='history -a'
 
 # Checks window size after each command to adjust formatting
 shopt -s checkwinsize
-# Corrects spelling errors in cd
+# Corrects spelling errors in arguments for cd
 shopt -s cdspell
-# History list is appended to file rather than overwriting
-shopt -s histappend
+# Correct spelling errors during tab-completion
+shopt -s dirspell
 # Auto cd by typing directory as command
 shopt -s autocd
-# Recusrive globbing with **
-shopt -s globstar
+# History list is appended to file rather than overwriting
+shopt -s histappend
+# Save multi-line commands as one command
+shopt -s cmdhist
+# Recursive globbing through directories with **
+shopt -s globstar 2> /dev/null
+# Case-insensitive globbing
+shopt -s nocaseglob
 
 # Prompt
 #PS1='[\u@\h \W]\$ ' 
@@ -46,12 +55,16 @@ fi
 bind "TAB:menu-complete"
 # Shift+Tab to tab backwards
 bind "\"\e[Z\": menu-complete-backward"
-# Shows all possibilities immediately
+# Shows all possibilities at first tab press
 bind "set show-all-if-ambiguous on"
 # Tab complete doesn't show hidden files
 bind "set match-hidden-files off"
 # Case insensitive tab completion
 bind "set completion-ignore-case on"
+# Treat hyphens and underscores as equivalent
+bind "set completion-map-case on"
+# Immediately add a trailing slash when autocompleting symlinks to directories
+bind "set mark-symlinked-directories on"
 # Searches history for what's already typed
 bind "\"\e[A\":history-search-backward"
 bind "\"\e[B\":history-search-forward"
