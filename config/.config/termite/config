@@ -16,7 +16,7 @@ scrollback_lines = 10000
 #urgent_on_bell = true
 #hyperlinks = false
 
-font = Source Code Pro 12
+font = Source Code Pro 14
 
 # $BROWSER is used by default if set, with xdg-open as a fallback
 #browser = xdg-open
@@ -47,10 +47,11 @@ font = Source Code Pro 12
 
 #foreground = #dcdccc
 #foreground_bold = #ffffff
+
 background = #141021
 
-# 20% background transparency (requires a compositor)
-#background = rgba(63, 63, 63, 0.8)
+# Transparent background
+background = rgba(6, 6, 6, 0.9)
 
 # If unset, will reverse foreground and background
 highlight = #2f2f2f

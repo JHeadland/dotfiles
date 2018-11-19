@@ -13,7 +13,7 @@ alias ....='cd ../../..'
 alias .....='cd ../../../..'
 
 # Quick config editing
-alias installed='vim ~/Documents/Notes/Installed\ Packages.note'
+alias installed='vim ~/Documents/vimwiki/installed-packages.wiki'
 alias i3config='vim ~/dotfiles/config/.config/i3/config'
 alias bashrc='vim ~/dotfiles/bash/.bashrc'
 alias aliases='vim ~/dotfiles/bash/.bash_aliases'
@@ -35,5 +35,5 @@ alias feh='feh -B black'
 alias xauto='xrandr --auto'
 alias xabove='xrandr --output HDMI-2 --mode 1360x768 --above eDP-1'
 alias wifi='sudo wifi-menu -o'
-alias ytdl='youtube-dl -x --audio-format mp3'
+alias ytdl='youtube-dl -x --audio-format flac'
 

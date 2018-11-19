@@ -10,14 +10,13 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'suan/vim-instant-markdown'
 Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'Townk/vim-autoclose'
-Plugin 'xolox/vim-misc'
-Plugin 'xolox/vim-notes'
+Plugin 'vimwiki/vimwiki'
 "Plugin 'Valloric/YouCompleteMe'
 
 call vundle#end()       
 filetype plugin indent on  
 
-" To install plugins through Vundle, run the command:
+" To install plugins through Vundle, run the commands:
 " :PluginInstall
 
 syntax on				" syntax coloring
@@ -51,10 +50,13 @@ let g:ctrlp_show_hidden = 1
 let g:instant_markdown_autostart = 0
 
 " Vim-Notes
-let g:notes_directories = ['~/Documents/Notes']
-let g:notes_suffix = '.note'
-let g:notes_markdown_program = 'markdown_py'
-let g:notes_conceal_url = 0
+"let g:notes_directories = ['~/Documents/Notes']
+"let g:notes_suffix = '.note'
+"let g:notes_markdown_program = 'markdown_py'
+"let g:notes_conceal_url = 0
+
+" Vimwiki
+let g:vimwiki_list = [{'path':'~/Documents/vimwiki', 'path_html':'~/Documents/vimwiki/html'}]
 
 " Syntastic Settings
 set statusline+=%#warningmsg#
