@@ -16,7 +16,7 @@ scrollback_lines = 10000
 #urgent_on_bell = true
 #hyperlinks = false
 
-font = Source Code Pro 14
+font = Source Code Pro 15
 
 # $BROWSER is used by default if set, with xdg-open as a fallback
 #browser = xdg-open

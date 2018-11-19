@@ -1,0 +1,10 @@
+[Unit]
+Description=Background changer with feh
+
+[Timer]
+OnBootSec=1m
+OnUnitActiveSec=15m
+Unit=feh-randombg.service
+
+[Install]
+WantedBy=default.target

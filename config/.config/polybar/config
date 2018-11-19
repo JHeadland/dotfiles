@@ -58,13 +58,32 @@ tray-position = right
 [module/i3]
 type = internal/i3
 
+ws-icon-0 = 1;
+ws-icon-1 = 2;
+ws-icon-2 = 3;
+ws-icon-3 = 4;
+ws-icon-4 = 5;
+ws-icon-5 = 6;
+ws-icon-6 = 7;
+ws-icon-7 = 8;
+ws-icon-8 = 9;
+ws-icon-9 = 10;
+
 pin-workspaces = true
 strip-wsnumbers = true
 enable-scroll = false
 enable-click = false
 
-label-unfocused-foreground = #afafaf
-label-focused-foreground = #c5a9f9
+label-focused = %icon%
+label-focused-foreground = #69f1eb
+label-focused-background = #b3000000
+label-focused-padding = 1
+
+label-unfocused = %icon%
+label-unfocused-foreground = #9d9d9d
+label-unfocused-padding = 1
+
+label-urgent = %icon%
 label-urgent-foreground = #ff0000
 
 label-separator = " "
