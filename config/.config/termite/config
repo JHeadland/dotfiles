@@ -51,7 +51,7 @@ font = Source Code Pro 15
 background = #141021
 
 # Transparent background
-background = rgba(6, 6, 6, 0.9)
+background = rgba(6, 6, 6, 0.85)
 
 # If unset, will reverse foreground and background
 highlight = #2f2f2f
