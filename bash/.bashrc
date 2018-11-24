@@ -37,7 +37,7 @@ shopt -s nocaseglob
 
 # Prompt
 #PS1='[\u@\h \W]\$ ' 
-PS1='\[\e[31m\] \h\[\e[m\]  \[\e[38;5;048m\] \u\[\e[m\]  \[\e[38;5;051m\] \w\[\e[m\]\n \[\e[32m\]\$\[\e[m\] '
+PS1='\[\e[31m\]  \h\[\e[m\]  \[\e[38;5;048m\] \u\[\e[m\]  \[\e[38;5;051m\] \w\[\e[m\]\n \[\e[32m\]\$\[\e[m\] '
 
 # Add ~/Scripts to PATH
 export PATH="~/Scripts:$PATH"

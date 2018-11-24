@@ -7,11 +7,13 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
+Plugin 'scrooloose/nerdcommenter'
 Plugin 'suan/vim-instant-markdown'
 Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'Townk/vim-autoclose'
 Plugin 'vimwiki/vimwiki'
-"Plugin 'Valloric/YouCompleteMe'
+Plugin 'scrooloose/syntastic'
+Plugin 'ervandew/supertab'
 
 call vundle#end()       
 filetype plugin indent on  
@@ -46,7 +48,10 @@ nnoremap <C-L> <C-W><C-L>
 nnoremap <C-H> <C-W><C-H>
 "imap <C-c> <CR><Esc>O
 
+" NERD Commenter add spaces after comment delimiters by default
+let g:NERDSpaceDelims = 1
 let g:ctrlp_show_hidden = 1
+" Use command :InstantMarkdownPreview to view live md preview instead of
 let g:instant_markdown_autostart = 0
 
 " Vim-Notes
