@@ -36,7 +36,7 @@ shopt -s globstar 2> /dev/null
 shopt -s nocaseglob
 
 # Prompt
-#PS1='[\u@\h \W]\$ ' 
+#PS1='[\u@\h \W]\$ '
 PS1='\[\e[31m\]  \h\[\e[m\]  \[\e[38;5;048m\] \u\[\e[m\]  \[\e[38;5;051m\] \w\[\e[m\]\n \[\e[32m\]\$\[\e[m\] '
 
 # Add ~/Scripts to PATH
@@ -44,7 +44,7 @@ export PATH="~/Scripts:$PATH"
 
 # Add bash aliases
 if [ -f ~/.bash_aliases ]; then
-    source ~/.bash_aliases
+	source ~/.bash_aliases
 fi
 
 #-------------------
@@ -97,22 +97,22 @@ man() {
 }
 
 extract () {
-   if [ -f $1 ] ; then
-       case $1 in
-           *.tar.bz2)   tar xvjf $1    ;;
-           *.tar.gz)    tar xvzf $1    ;;
-           *.bz2)       bunzip2 $1     ;;
-           *.rar)       unrar x $1     ;;
-           *.gz)        gunzip $1      ;;
-           *.tar)       tar xvf $1     ;;
-           *.tbz2)      tar xvjf $1    ;;
-           *.tgz)       tar xvzf $1    ;;
-           *.zip)       unzip $1       ;;
-           *.Z)         uncompress $1  ;;
-           *.7z)        7z x $1        ;;
-           *)           echo "'$1'cannot be extracted via >extract<" ;;
-       esac
-   else
-       echo "'$1' is not a valid file!"
-   fi
- }
+	if [ -f $1 ] ; then
+		case $1 in
+			*.tar.bz2)   tar xvjf $1    ;;
+			*.tar.gz)    tar xvzf $1    ;;
+			*.bz2)       bunzip2 $1     ;;
+			*.rar)       unrar x $1     ;;
+			*.gz)        gunzip $1      ;;
+			*.tar)       tar xvf $1     ;;
+			*.tbz2)      tar xvjf $1    ;;
+			*.tgz)       tar xvzf $1    ;;
+			*.zip)       unzip $1       ;;
+			*.Z)         uncompress $1  ;;
+			*.7z)        7z x $1        ;;
+			*)           echo "'$1'cannot be extracted via >extract<" ;;
+		esac
+	else
+		echo "'$1' is not a valid file!"
+	fi
+}
