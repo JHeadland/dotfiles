@@ -10,7 +10,6 @@ alias school='cd ~/Schoolwork'
 alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
-alias .....='cd ../../../..'
 
 # Quick config editing
 alias installed='vim ~/Documents/vimwiki/installed-packages.wiki'

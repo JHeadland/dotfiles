@@ -15,18 +15,20 @@ Plugin 'vimwiki/vimwiki'
 Plugin 'scrooloose/syntastic'
 Plugin 'ervandew/supertab'
 Plugin 'vim-airline/vim-airline'
+Plugin 'mattn/emmet-vim'
 
 call vundle#end()
 filetype plugin indent on
 
 " To install plugins through Vundle, run the commands:
+" :so %
 " :PluginInstall
 
 syntax on						" syntax coloring
 set number						" show line numbers
 set autoindent					" auto indent upon new line
 set linebreak					" line wrap doesn't wrap mid-word
-set breakindent					" word wrap takes indentation into account
+set breakindent 				" word wrap takes indentation into account
 set hlsearch					" highlights search results
 set mouse=a						" makes the mouse usable
 set tabstop=4					" tabs are 4 spaces
@@ -39,7 +41,7 @@ filetype plugin on
 " Ctrl+n toggles the NERDTree side menu
 map <C-n> :NERDTreeToggle<CR>
 
-" Move between open windows
+" Move between tiles
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
 nnoremap <C-L> <C-W><C-L>
@@ -50,7 +52,7 @@ nnoremap <C-H> <C-W><C-H>
 let g:NERDSpaceDelims = 1
 let g:ctrlp_show_hidden = 1
 
-" Use command :InstantMarkdownPreview to view live md preview instead of
+" Use command :InstantMarkdownPreview to view live md preview instead
 let g:instant_markdown_autostart = 0
 
 " Vim-Notes
@@ -72,7 +74,7 @@ let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 
 " Airline
-set noshowmode 	" don't show mode indicator
+set noshowmode 	" don't show mode indicator in command line
 :let g:airline_theme='distinguished' " default theme
 let g:airline_powerline_fonts=1 " set airline to use powerline fonts/symbols
 let g:airline#extensions#tabline#enabled = 1 " display all buffers at top
@@ -86,3 +88,10 @@ if ! has('gui_running')
     au InsertLeave * set timeoutlen=1000
   augroup END
 endif
+
+" Emmet
+" Enable just for html/css
+let g:user_emmet_install_global = 0
+autocmd FileType html,css EmmetInstall
+" Remap trigger key to Ctrl+z , (comma)
+let g:user_emmet_leader_key='<C-Z>'
