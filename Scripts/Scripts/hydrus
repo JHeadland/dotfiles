@@ -1,0 +1,42 @@
+#!/usr/bin/bash
+
+NAME=$(basename "$0")
+
+usage() {
+	cat << _EOF_
+
+	USAGE: 	$NAME [OPTION]
+
+	OPTIONS:
+
+		-h,--help 		Display this message
+
+		-s,--server 	Enable Hydrus Network server
+
+		-c,--client 	Enable Hydrus Network client
+
+_EOF_
+}
+
+hydrus_server() {
+	~/Research/hydrusnetwork/server
+}
+
+hydrus_client() {
+	~/Research/hydrusnetwork/client
+}
+
+# Catch command line options
+case $1 in
+	-h|--help)
+		usage
+		;;
+	-s|--server)
+		hydrus_server
+		;;
+	-c|--client)
+		hydrus_client
+		;;
+	*)
+		echo -e "Option does not exist: $1" && usage && exit 1
+esac

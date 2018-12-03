@@ -1,0 +1,7 @@
+#!/bin/bash
+
+sudo systemctl restart netctl-auto@wlp3s0.service
+systemctl --user start feh-randombg.service
+systemctl --user start feh-randombg.timer
+compton -bCG --no-fading-openclose --vsync opengl
+reloadDunst
