@@ -41,7 +41,7 @@ border-color = 0
 ;---------------;
 
 fixed-center = true
-padding-left = 2 
+padding-left = 2
 padding-right = 2
 module-margin = 1.5
 
