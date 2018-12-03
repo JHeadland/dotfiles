@@ -11,6 +11,7 @@ OPTIONS:
   -h, --help	Display this message
   -s, --server	Enable Hydrus Network server
   -c, --client	Open Hydrus Network client
+  -k, --kill	Kills Hydrus Network server processes
   -g, --github	Open Hydrus Network github.io page in browser
   -8, --8ch	Open Hydrus Network 8ch board in browser
 EOF
@@ -19,13 +20,30 @@ EOF
 hydrus_server() {
 	if [[ $(pidof /home/john/Research/hydrusnetwork/server) ]]; then
 		echo "Hydrus Network server is already running!"
+		echo -n "Would you like to restart the process? [y/n]: "
+		read input 
+		case $input in
+			y|Y)
+				hydrus_kill
+				hydrus_server
+				;;
+			n|N)
+				echo "Okie dokie"
+				;;
+			*)
+				echo "That wasn't an option!"
+		esac
 	else
-		~/Research/hydrusnetwork/server
+		~/Research/hydrusnetwork/server &
 	fi
 }
 
 hydrus_client() {
 	~/Research/hydrusnetwork/client
+}
+
+hydrus_kill() {
+	kill -9 $(pidof /home/john/Research/hydrusnetwork/server)
 }
 
 hydrus_github() {
@@ -46,6 +64,9 @@ case $1 in
 		;;
 	-c|--client)
 		hydrus_client
+		;;
+	-k|--kill)
+		hydrus_kill
 		;;
 	-g|--github)
 		hydrus_github

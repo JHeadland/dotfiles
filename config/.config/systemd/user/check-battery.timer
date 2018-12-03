@@ -3,7 +3,7 @@ Description=Timer to check battery status
 
 [Timer]
 OnActiveSec=1min
-OnUnitActiveSec=5min
+OnUnitActiveSec=10min
 Unit=check-battery.service
 
 [Install]
