@@ -7,4 +7,4 @@ OnUnitActiveSec=10m
 Unit=feh-randombg.service
 
 [Install]
-WantedBy=default.target
+WantedBy=timers.target

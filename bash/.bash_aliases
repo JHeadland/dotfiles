@@ -22,7 +22,7 @@ alias polybarconf='vim ~/dotfiles/config/.config/polybar/config'
 # Miscellaneous commands
 alias ls='ls --color=auto'
 alias la='ls -a'
-alias ll='ls -alh --group-directories-first'
+alias ll='ls -lh --group-directories-first'
 alias df='df -h'
 alias cp='cp -vi'
 alias mv='mv -vi'
@@ -35,4 +35,3 @@ alias xauto='xrandr --auto'
 alias xabove='xrandr --output HDMI-2 --mode 1360x768 --above eDP-1'
 alias wifi='sudo wifi-menu -o'
 alias ytdl='youtube-dl -x --audio-format flac'
-

@@ -1,0 +1,8 @@
+[Unit]
+Description=Checks the battery level and notifies if low
+
+[Service]
+ExecStart=/home/john/Scripts/check_battery
+
+[Install]
+WantedBy=multi-user.target

@@ -3,27 +3,37 @@
 NAME=$(basename "$0")
 
 usage() {
-	cat << _EOF_
+	cat << EOF
 
-	USAGE: 	$NAME [OPTION]
+USAGE: 	$NAME [OPTION]
 
-	OPTIONS:
-
-		-h,--help		Display this message
-
-		-s,--server		Enable Hydrus Network server
-
-		-c,--client		Enable Hydrus Network client
-
-_EOF_
+OPTIONS:
+  -h, --help	Display this message
+  -s, --server	Enable Hydrus Network server
+  -c, --client	Open Hydrus Network client
+  -g, --github	Open Hydrus Network github.io page in browser
+  -8, --8ch	Open Hydrus Network 8ch board in browser
+EOF
 }
 
 hydrus_server() {
-	~/Research/hydrusnetwork/server
+	if [[ $(pidof /home/john/Research/hydrusnetwork/server) ]]; then
+		echo "Hydrus Network server is already running!"
+	else
+		~/Research/hydrusnetwork/server
+	fi
 }
 
 hydrus_client() {
 	~/Research/hydrusnetwork/client
+}
+
+hydrus_github() {
+	$BROWSER https://hydrusnetwork.github.io/hydrus/
+}
+
+hydrus_8ch() {
+	$BROWSER https://8ch.net/hydrus/index.html
 }
 
 # Catch command line options
@@ -36,6 +46,12 @@ case $1 in
 		;;
 	-c|--client)
 		hydrus_client
+		;;
+	-g|--github)
+		hydrus_github
+		;;
+	-8|--8ch)
+		hydrus_8ch
 		;;
 	*)
 		echo -e "Option does not exist: $1" && usage && exit 1

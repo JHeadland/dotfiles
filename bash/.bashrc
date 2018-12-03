@@ -80,7 +80,7 @@ bind "\"\eOc\": forward-word"
 # Auto ls after cd
 cd() { builtin cd "$@" && ls; }
 
-# Command cd after mkdir
+# Auto cd after mkdir
 mkcd() { mkdir -p "$@" && cd "$@"; }
 
 # Color man pages

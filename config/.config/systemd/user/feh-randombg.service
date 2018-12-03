@@ -6,4 +6,4 @@ Type=oneshot
 ExecStart=/usr/bin/feh --randomize --bg-scale /home/john/Pictures/Wallpapers
 
 [Install]
-WantedBy=default.target
+WantedBy=multi-user.target
