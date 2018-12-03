@@ -9,11 +9,11 @@ usage() {
 
 	OPTIONS:
 
-		-h,--help 		Display this message
+		-h,--help		Display this message
 
-		-s,--server 	Enable Hydrus Network server
+		-s,--server		Enable Hydrus Network server
 
-		-c,--client 	Enable Hydrus Network client
+		-c,--client		Enable Hydrus Network client
 
 _EOF_
 }
