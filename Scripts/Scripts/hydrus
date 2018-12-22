@@ -1,11 +1,11 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 NAME=$(basename "$0")
 
 usage() {
 	cat << EOF
 
-USAGE: 	$NAME [OPTION]
+USAGE:	$NAME [OPTION]
 
 OPTIONS:
   -h, --help	Display this message
@@ -21,7 +21,7 @@ hydrus_server() {
 	if [[ $(pidof /home/john/Research/hydrusnetwork/server) ]]; then
 		echo "Hydrus Network server is already running!"
 		echo -n "Would you like to restart the process? [y/n]: "
-		read input 
+		read input
 		case $input in
 			y|Y)
 				hydrus_kill
@@ -43,7 +43,7 @@ hydrus_client() {
 }
 
 hydrus_kill() {
-	kill -9 $(pidof /home/john/Research/hydrusnetwork/server)
+	kill -15 $(pidof /home/john/Research/hydrusnetwork/server)
 }
 
 hydrus_github() {

@@ -1,0 +1,110 @@
+<!--Startpage by Tayumpee-->
+
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>お帰りなさい, John</title>
+		<script type="text/javascript" src="jquery-1.11.3.min.js"></script>
+		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+		<link rel="stylesheet" type="text/css" href="style.css"/>
+		<script type="text/javascript">
+
+			function show( show1 ) {
+				document.getElementById(show1).style.display="block";
+			}
+			function hide( hide1 ) {
+				document.getElementById(hide1).style.display="none";
+			}
+			function tog( tog1 ) {
+				document.getElementById(tog1).style.backgroundColor="#777777";
+			}
+			function toh( toh1 ) {
+				document.getElementById(toh1).style.backgroundColor="#ffffff";
+			}
+		</script>
+	</head>
+	<body>
+		<div class="maincontainer">
+			<div class="bottomcontainer">
+				<div class="button" id="btn1" onclick = "show('main1');hide('main2');tog('btn1');toh('btn2');"></div>
+				<div class="button" id="btn2" onclick = "show('main2');hide('main1');tog('btn2');toh('btn1');"></div>
+
+				<div class="bookmarksbar" id="bookmarksbar">
+					<bookmarks class="bookmarks">
+						<a href="file:///home/john/Documents/vimwiki/html/index.html" class="clink" target="_blank">vimwiki</a> -
+						<a href="file:///home/john/Documents/John_Headland_Resume_2018.pdf" class="clink" target="_blank">resume</a> -
+						<a href="localhost:3000" class="clink" target="_blank">lanraragi</a>
+					</bookmarks>
+				</div>
+				<div class="searchbar">
+					<form name="form1" action="https://duckduckgo.com" target="_blank" method="get" >
+						<input type="text" autocomplete="off" placeholder="duckduckgo search..." name="q" class="searchinput"></input>
+					</form>
+				</div>
+			</div>
+			<div class="time" id="time">
+				<script>
+					//document.getElementById("main").innerHTML = Date();
+					function updateClock() {
+						var days = ['SUNDAY','MONDAY','TUESDAY','WEDNESDAY','THURSDAY','FRIDAY','SATURDAY'];
+						var m = new Date();
+						var dateString =
+							(days[ m.getDay() ]) + " " +
+							("0" + (m.getMonth()+1)).slice(-2) +"/"+
+							("0" + m.getDate()).slice(-2) + "/" +
+							m.getFullYear() +" "+
+							("0" + m.getHours()).slice(-2) + ":" +
+							("0" + m.getMinutes()).slice(-2) + ":" +
+							("0" + m.getSeconds()).slice(-2);
+
+						// set the content of the element with the ID time to the formatted string
+						document.getElementById('time').innerHTML = dateString;
+
+						// call this function again in 1000ms
+						setTimeout(updateClock, 1000);
+					}
+					updateClock(); // initial call
+				</script>
+			</div>
+			<div class="main" id="main1">
+				<div class="sidebar" style="background-image: url(img/m1.png);"></div>
+				<div class="welcome">お帰りなさい</div>
+				<div class="bookmarkscontainer">
+					<ul>
+						<u style=>Chillin'</u><br><br>
+						<li><a href="https://4channel.org/g/" class="clink">/g/</a>
+						<li><a href="https://4channel.org/vg/" class="clink">/vg/</a>
+						<li><a href="https://reddit.com" class="clink">reddit</a>
+						<li><a href="https://reddit.com/r/leagueoflegends" class="clink">r/leagueoflegends</a>
+					</ul>
+					<ul>
+						<u>Work/School</u><br><br>
+						<li><a href="https://d2l.lonestar.edu" class="clink">lone star d2l</a>
+						<li><a href="https://my.lonestar.edu" class="clink">mylonestar</a>
+						<li><a href="https://outlook.office365.com/owa/?realm=my.lonestar.edu&exsvurl=1&ll-cc=1033&modurl=0&path=/mail/inbox" class="clink">lone star email</a>
+						<li><a href="https://protonmail.com" class="clink">protonmail</a>
+						<li><a href="https://mail.google.com" class="clink">gmail</a>
+						<li><a href="https://github.com" class="clink">github</a>
+					</ul>
+					<ul>
+						<u>Media</u><br><br>
+						<li><a href="https://youtube.com" class="clink">youtube</a>
+						<li><a href="https://www.twitch.tv/directory/game/League%20of%20Legends" class="clink">twitch</a>
+						<li><a href="https://netflix.com" class="clink">netflix</a>
+						<li><a href="https://hulu.com" class="clink">hulu</a>
+						<li><a href="https://www.amazon.com/Amazon-Video/b?node=2858778011" class="clink">prime video</a>
+					</ul>
+					<ul>
+						<u>Linux</u><br><br>
+						<li><a href="https://wiki.archlinux.org/" class="clink">archwiki</a>
+						<li><a href="https://aur.archlinux.org/" class="clink">aur</a>
+					</ul>
+				</div>
+			</div>
+			<div class="main" id="main2" style="display:none">
+				<div class="sidebar" style="background-image: url(img/m2.png);"></div>
+				<iframe width="100%" height="100%" src="https://www.youtube.com/embed/UOxkGD8qRB4" frameborder="0" allowfullscreen></iframe>
+			</div>
+		</div>
+	</body>
+</html>
