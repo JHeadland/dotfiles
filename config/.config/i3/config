@@ -30,7 +30,7 @@ floating_modifier $mod
 # Terminal
 #bindsym $mod+Return exec i3-sensible-terminal
 #bindsym $mod+Return exec urxvt
-bindsym $mod+Return exec termite -t termite
+bindsym $mod+Return exec termite -t Termite
 
 # Kill focused window
 bindsym $mod+Shift+q kill

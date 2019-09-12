@@ -102,7 +102,7 @@ adapter = AC
 
 poll-interval = 1
 
-full-at = 75
+full-at = 66
 
 label-discharging = %percentage%%
 label-charging = %percentage%%
@@ -181,7 +181,7 @@ label = %percentage%%
 
 ramp-0 = 
 ramp-1 = 
-ramp-2 = 
+ramp-2 = 
 
 [module/cpu]
 type = internal/cpu

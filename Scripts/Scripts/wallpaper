@@ -1,0 +1,64 @@
+#!/bin/bash
+
+NAME=$(basename "$0")
+
+usage() {
+	cat << EOF
+
+USAGE:	$NAME [OPTION] FILENAME
+
+OPTIONS:
+  -h, --help	Display this message
+  -s, --start	Start the servies and timers for randomly selecting a new wallpaper every 10 minutes
+  -p, --public	Remove the lewd wallpaper folder from the selection
+  -l, --lewd	Add the lewd wallpaper folder to the selection
+EOF
+}
+
+remove_lewd() {
+	if [[ -d ~/Pictures/Wallpapers/lewdpapes ]]; then
+		mv ~/Pictures/Wallpapers/lewdpapes ~/Pictures
+	else
+		echo "The lewd wallpapers directory has already been removed!"
+	fi
+}
+
+add_lewd() {
+	if [[ -d ~/Pictures/lewdpapes ]]; then
+		mv ~/Pictures/lewdpapes ~/Pictures/Wallpapers
+	else
+		echo "The lewd wallpapers directory is already accessible!"
+	fi
+}
+
+set_wallpaper() {
+	if [[ -f ~/Pictures/Wallpapers/"$1" ]]; then
+		feh --bg-scale ~/Pictures/Wallpapers/"$1"
+	elif [[ -f ~/Pictures/Wallpapers/lewdpapes/"$1" ]]; then
+		feh --bg-scale ~/Pictures/Wallpapers/lewdpapes/"$1"
+	else
+		echo "File does not exist."
+	fi
+}
+
+# Catch command line options
+case $1 in
+	-h|--help)
+		usage
+		;;
+	-s|--start)
+		systemctl --user start feh-randombg.service
+		systemctl --user start feh-randombg.timer
+		systemctl --user start check-battery.service
+		systemctl --user start check-battery.timer
+		;;
+	-p|--public)
+		remove_lewd
+		;;
+	-l|--lewd)
+		add_lewd
+		;;
+	*)
+		set_wallpaper
+		;;
+esac

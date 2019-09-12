@@ -5,5 +5,5 @@ systemctl --user start feh-randombg.service
 systemctl --user start feh-randombg.timer
 systemctl --user start check-battery.service
 systemctl --user start check-battery.timer
-compton -bCG --no-fading-openclose --vsync opengl
+compton -b --no-fading-openclose
 reloadDunst

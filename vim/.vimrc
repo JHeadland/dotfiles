@@ -8,14 +8,18 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'scrooloose/nerdcommenter'
+Plugin 'Valloric/YouCompleteMe'
+Plugin 'rdnetto/YCM-Generator'
 Plugin 'suan/vim-instant-markdown'
 Plugin 'ctrlpvim/ctrlp.vim'
-Plugin 'Townk/vim-autoclose'
+Plugin 'Raimondi/delimitMate'
 Plugin 'vimwiki/vimwiki'
 Plugin 'scrooloose/syntastic'
-Plugin 'ervandew/supertab'
 Plugin 'vim-airline/vim-airline'
 Plugin 'mattn/emmet-vim'
+Plugin 'lervag/vimtex'
+Plugin 'sirver/ultisnips'
+Plugin 'itchyny/calendar.vim'
 
 call vundle#end()
 filetype plugin indent on
@@ -38,6 +42,11 @@ filetype plugin on
 
 " ---- Key mappings ---------------------
 
+nnoremap H ^
+nnoremap L $
+nnoremap J <C-d>
+nnoremap K <C-u>
+
 " Ctrl+n toggles the NERDTree side menu
 map <C-n> :NERDTreeToggle<CR>
 
@@ -52,14 +61,11 @@ nnoremap <C-H> <C-W><C-H>
 let g:NERDSpaceDelims = 1
 let g:ctrlp_show_hidden = 1
 
+" YouCompleteMe
+let g:ycm_show_diagnostics_ui = 0 "for compatibility with syntastic
+
 " Use command :InstantMarkdownPreview to view live md preview instead
 let g:instant_markdown_autostart = 0
-
-" Vim-Notes
-"let g:notes_directories = ['~/Documents/Notes']
-"let g:notes_suffix = '.note'
-"let g:notes_markdown_program = 'markdown_py'
-"let g:notes_conceal_url = 0
 
 " Vimwiki directories
 let g:vimwiki_list = [{'path':'~/Documents/vimwiki', 'path_html':'~/Documents/vimwiki/html'}]
@@ -95,3 +101,20 @@ let g:user_emmet_install_global = 0
 autocmd FileType html,css EmmetInstall
 " Remap trigger key to Ctrl+z , (comma)
 let g:user_emmet_leader_key='<C-Z>'
+
+" Vimtex
+let g:tex_flavor='latex'
+let g:vimtex_view_method='zathura'
+"let g:vimtex_quickfix_mode=0
+set conceallevel=1
+let g:tex_conceal='abdmg'
+
+"UltiSnips
+let g:UltiSnipsExpandTrigger="<c-j>"
+let g:UltiSnipsJumpForwardTrigger="<c-j>"
+let g:UltiSnipsJumpBackwardTrigger="<c-k>"
+let g:UltiSnipsSnippetsDir="~/.vim/snips"
+let g:UltiSnipsSnippetDirectories=["snips"]
+
+"Calendar
+:nnoremap <leader>c :Calendar<CR>
