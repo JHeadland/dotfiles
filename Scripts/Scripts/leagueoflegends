@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [[ -f ~/Games/LoL/drive_c/Riot\ Games/League\ of\ Legends/LeagueClient.exe ]]; then
+	WINEPREFIX=~/Games/LoL WINEARCH=win32 /opt/wine-lol/bin/wine ~/Games/LoL/drive_c/Riot\ Games/League\ of\ Legends/LeagueClient.exe
+else
+	echo "LeagueClient.exe not found."
+fi
