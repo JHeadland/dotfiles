@@ -12,7 +12,7 @@ alias ...='cd ../..'
 alias ....='cd ../../..'
 
 # Quick config editing
-alias installed='vim ~/Documents/vimwiki/installed-packages.wiki'
+alias installed='vim ~/Documents/vimwiki/installed-packages.md'
 alias i3config='vim ~/dotfiles/config/.config/i3/config'
 alias bashrc='vim ~/dotfiles/bash/.bashrc'
 alias aliases='vim ~/dotfiles/bash/.bash_aliases'
