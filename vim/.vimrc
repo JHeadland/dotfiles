@@ -17,10 +17,10 @@ Plugin 'scrooloose/nerdcommenter'
 Plugin 'ctrlpvim/ctrlp.vim'
 	let g:ctrlp_show_hidden = 1 " Shows hidden files
 
-Plugin 'Valloric/YouCompleteMe'
+"Plugin 'Valloric/YouCompleteMe'
 	let g:ycm_show_diagnostics_ui = 0 " For compatibility with syntastic
 
-Plugin 'rdnetto/YCM-Generator'
+"Plugin 'rdnetto/YCM-Generator'
 
 Plugin 'scrooloose/syntastic'
 	set statusline+=%#warningmsg#
@@ -68,13 +68,20 @@ Plugin 'sirver/ultisnips'
 	let g:UltiSnipsSnippetsDir="~/.vim/snips"
 	let g:UltiSnipsSnippetDirectories=["snips"]
 
+Plugin 'godlygeek/tabular'
+
+Plugin 'plasticboy/vim-markdown'
+	set conceallevel=0 " set to 2 if you want conceal
+	let g:vim_markdown_folding_disabled = 1
+
 Plugin 'suan/vim-instant-markdown'
 	" Use command :InstantMarkdownPreview to view live md preview instead
 	let g:instant_markdown_autostart = 0
 
-Plugin 'vimwiki/vimwiki'
-	let g:vimwiki_list = [{'path':'~/Documents/Notes', 'syntax': 'markdown', 'ext': '.md'}]
-	let g:vimwiki_global_ext = 0
+Plugin 'lervag/wiki.vim'
+	let g:wiki_root='~/Documents/Notes'
+	let g:wiki_filetypes=['md']
+	let g:wiki_link_target_type='md'
 
 Plugin 'itchyny/calendar.vim'
 	:nnoremap <leader>c :Calendar<CR>

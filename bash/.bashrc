@@ -12,7 +12,7 @@ export BROWSER='chromium'
 # Erase and ignore duplicate lines in history
 export HISCONTROL="erasedups:ignoreboth"
 # Don't record some commands in history
-export HISTIGNORE="&:[ ]*:exit:ls:ranger:history:clear"
+export HISTIGNORE="&:[ ]*:exit:ls:ranger:history:clear:school*"
 # History length
 export HISTSIZE=1000000
 # Record each command to history as it gets issued
@@ -82,6 +82,15 @@ cd() { builtin cd "$@" && ls; }
 
 # Auto cd after mkdir
 mkcd() { mkdir -p "$@" && cd "$@"; }
+
+# cd directly to school course directory
+school() {
+	if [ -z "$1" ]; then
+		cd ~/Schoolwork/UHCourses/SP20
+	else
+		cd ~/Schoolwork/UHCourses/SP20/${1^^}
+	fi
+}
 
 # Color man pages
 man() {

@@ -6,13 +6,12 @@
 alias dots='cd ~/dotfiles'
 alias down='cd ~/Downloads'
 alias docs='cd ~/Documents'
-alias school='cd ~/Schoolwork'
 alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
 
 # Quick config editing
-alias installed='vim ~/Documents/vimwiki/installed-packages.md'
+alias installed='vim ~/Documents/Notes/installed-packages.md'
 alias i3config='vim ~/dotfiles/config/.config/i3/config'
 alias bashrc='vim ~/dotfiles/bash/.bashrc'
 alias aliases='vim ~/dotfiles/bash/.bash_aliases'

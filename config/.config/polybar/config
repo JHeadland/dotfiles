@@ -102,7 +102,7 @@ adapter = AC
 
 poll-interval = 1
 
-full-at = 66
+full-at = 58
 
 label-discharging = %percentage%%
 label-charging = %percentage%%
@@ -111,6 +111,8 @@ label-full = %percentage%%
 format-discharging = <ramp-capacity> <label-discharging>
 format-full = <ramp-capacity> <label-full>
 format-charging =  <label-charging>
+
+time-format = %H:%M
 
 ramp-capacity-0 = 
 ramp-capacity-1 = 
