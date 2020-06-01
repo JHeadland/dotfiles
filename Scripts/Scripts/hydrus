@@ -13,7 +13,7 @@ OPTIONS:
   -c, --client	Open Hydrus Network client
   -k, --kill	Kills Hydrus Network server processes
   -g, --github	Open Hydrus Network github.io page in browser
-  -8, --8ch	Open Hydrus Network 8ch board in browser
+  -8, --8kun	Open Hydrus Network 8kun board in browser
 EOF
 }
 
@@ -50,8 +50,8 @@ hydrus_github() {
 	$BROWSER https://hydrusnetwork.github.io/hydrus/
 }
 
-hydrus_8ch() {
-	$BROWSER https://8ch.net/hydrus/index.html
+hydrus_8kun() {
+	$BROWSER https://8kun.top/hydrus/index.html
 }
 
 # Catch command line options
@@ -71,8 +71,8 @@ case $1 in
 	-g|--github)
 		hydrus_github
 		;;
-	-8|--8ch)
-		hydrus_8ch
+	-8|--8kun)
+		hydrus_8kun
 		;;
 	*)
 		echo -e "Option does not exist: $1" && usage && exit 1
