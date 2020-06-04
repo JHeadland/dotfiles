@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Sometimes the mouse doesn't respond upon waking up from sleep or hibernation, this restarts it
+
+sudo modprobe -r psmouse
+sudo modprobe psmouse

@@ -199,3 +199,5 @@ bindsym $mod+r mode "resize"
 #assign [class="Chromium"] 		$ws2
 for_window [class="Spotify"] 	move to workspace $ws7
 for_window [class="Thunar"] 	floating enable
+for_window [window_role="pop-up"] floating enable
+for_window [class="Hydrus Client" instance="client"] floating enable
