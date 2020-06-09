@@ -10,7 +10,7 @@ export EDITOR=/usr/bin/vim
 # Set Chromium as default browser
 export BROWSER='chromium'
 # Erase and ignore duplicate lines in history
-export HISCONTROL="erasedups:ignoreboth"
+export HISTCONTROL="erasedups:ignoreboth"
 # Don't record some commands in history
 export HISTIGNORE="&:[ ]*:exit:ls:ranger:history:clear:school*"
 # History length
@@ -18,7 +18,7 @@ export HISTSIZE=1000000
 # Record each command to history as it gets issued
 export PROMPT_COMMAND='history -a'
 
-# Checks window size after each command to adjust formatting
+# Checks window size after each command to adjust line wrap 
 shopt -s checkwinsize
 # Corrects spelling errors in arguments for cd
 shopt -s cdspell

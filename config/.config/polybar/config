@@ -90,7 +90,7 @@ label-separator = " "
 
 [module/date]
 type = internal/date
-date =  %a %b %d - %H:%M:%S
+date =  %a %b %d  %H:%M:%S
 label = %date%
 
 
@@ -200,7 +200,7 @@ interface = wlp3s0
 interval = 5
 
 label-connected =  %essid% - %signal%%   %local_ip%
-label-disconnected =  Disconnected
+label-disconnected = 睊 Disconnected
 
 [module/filesystem]
 type = internal/fs
