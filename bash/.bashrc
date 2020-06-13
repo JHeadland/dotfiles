@@ -86,9 +86,9 @@ mkcd() { mkdir -p "$@" && cd "$@"; }
 # cd directly to school course directory
 school() {
 	if [ -z "$1" ]; then
-		cd ~/Schoolwork/UH/SU20
+		cd ~/School/UH/SU20
 	else
-		cd ~/Schoolwork/UH/SU20/${1^^}
+		cd ~/School/UH/SU20/${1^^}
 	fi
 }
 
