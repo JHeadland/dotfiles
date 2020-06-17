@@ -14,7 +14,7 @@ offset-x = 0
 ;----------;
 
 bottom = true
-monitor = eDP-1
+monitor = eDP1
 override-redirect = false
 
 ;-------;
@@ -102,7 +102,7 @@ adapter = AC
 
 poll-interval = 1
 
-full-at = 58
+full-at = 100
 
 label-discharging = %percentage%%
 label-charging = %percentage%%
@@ -196,7 +196,7 @@ label =  %gb_used%
 [module/network]
 type = internal/network
 
-interface = wlp3s0
+interface = wlan0
 interval = 5
 
 label-connected =  %essid% - %signal%%   %local_ip%

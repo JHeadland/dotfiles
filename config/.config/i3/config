@@ -3,9 +3,9 @@
 # Please see http://i3wm.org/docs/userguide.html for a complete reference!
 
 # Set $mod key as Alt key
-set $mod Mod1
+#set $mod Mod1
 # Set $mod key as Super (Windows) key
-# set $mod Mod4
+set $mod Mod4
 
 #------------#
 # Appearance #
@@ -52,6 +52,9 @@ bindsym $mod+c exec --no-startup-id chromium
 # scrot (screenshot)
 bindsym --release $mod+s exec --no-startup-id scrot ~/Pictures/Screenshots/%Y-%m-%d_%H%M%S.png && notify-send --expire-time=2000 -i view-fullscreen 'Screenshot!~' 'Saved to ~/Pictures/Screenshots !' --icon='/home/john/.config/dunst/icons/camera.png' && sleep 0.5
 
+# Automatically switch horizontal/vertical window split (spiral tiling)
+# exec_always --no-startup-id autotiling
+
 #-------------#
 # Keybindings #
 #-------------#
@@ -95,6 +98,9 @@ bindsym $mod+Shift+space floating toggle
 
 # Change focus between tiling / floating windows
 bindsym $mod+space focus mode_toggle
+
+# Jump to urgent window
+bindsym $mod+x [urgent=latest] focus
 
 # Focus the parent container
 bindsym $mod+a focus parent
@@ -145,10 +151,10 @@ bindsym XF86AudioLowerVolume exec --no-startup-id pamixer --allow-boost -d 5
 bindsym XF86AudioMute exec --no-startup-id pamixer -t
 
 # Change brightness
-#bindsym XF86MonBrightnessDown exec --no-startup-id xbacklight -dec 10
-#bindsym XF86MonBrightnessUp exec --no-startup-id xbacklight -inc 10
-bindsym XF86MonBrightnessDown exec --no-startup-id light -U 5
-bindsym XF86MonBrightnessUp exec --no-startup-id light -A 5
+bindsym XF86MonBrightnessDown exec --no-startup-id xbacklight -dec 10
+bindsym XF86MonBrightnessUp exec --no-startup-id xbacklight -inc 10
+#bindsym XF86MonBrightnessDown exec --no-startup-id light -U 5
+#bindsym XF86MonBrightnessUp exec --no-startup-id light -A 5
 
 # Reload the configuration file
 bindsym $mod+Shift+c reload
@@ -196,7 +202,6 @@ bindsym $mod+r mode "resize"
 # Assignments #
 #-------------#
 
-#assign [class="Chromium"] 		$ws2
 for_window [class="Spotify"] 	move to workspace $ws7
 for_window [class="Thunar"] 	floating enable
 for_window [window_role="pop-up"] floating enable
