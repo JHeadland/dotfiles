@@ -1,4 +1,4 @@
-[bar/bar]
+[bar/main]
 
 ;------------;
 ; DIMENSIONS ;
@@ -199,8 +199,8 @@ type = internal/network
 interface = wlan0
 interval = 5
 
-label-connected =  %essid% - %signal%%   %local_ip%
-label-disconnected = 睊 Disconnected
+label-connected =  %essid%   %local_ip%
+label-disconnected = 睊Disconnected
 
 [module/filesystem]
 type = internal/fs

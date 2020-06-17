@@ -18,7 +18,7 @@ EOF
 }
 
 hydrus_server() {
-	if [[ $(pidof /home/john/Research/hydrusnetwork/server) ]]; then
+	if [[ $(pidof /home/john/Programming/Research/hydrusnetwork/server) ]]; then
 		echo "Hydrus Network server is already running!"
 		echo -n "Would you like to restart the process? [y/n]: "
 		read input
@@ -34,16 +34,16 @@ hydrus_server() {
 				echo "That wasn't an option!"
 		esac
 	else
-		~/Research/hydrusnetwork/server &
+		~/Programming/Research/hydrusnetwork/server &
 	fi
 }
 
 hydrus_client() {
-	~/Research/hydrusnetwork/client
+	~/Programming/Research/hydrusnetwork/client
 }
 
 hydrus_kill() {
-	kill -15 $(pidof /home/john/Research/hydrusnetwork/server)
+	kill -15 $(pidof /home/john/Programming/Research/hydrusnetwork/server)
 }
 
 hydrus_github() {

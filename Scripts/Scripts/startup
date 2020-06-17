@@ -1,9 +1,10 @@
 #!/bin/bash
 
-sudo systemctl restart netctl-auto@wlp3s0.service
+#sudo systemctl restart netctl-auto@wlan0.service
 systemctl --user start feh-randombg.service
 systemctl --user start feh-randombg.timer
 systemctl --user start check-battery.service
 systemctl --user start check-battery.timer
-compton -b --no-fading-openclose
+picom -b --no-fading-openclose
 reloadDunst
+sudo ntpd -qg

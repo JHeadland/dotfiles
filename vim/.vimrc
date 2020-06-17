@@ -36,7 +36,6 @@ Plugin 'Raimondi/delimitMate'
 
 Plugin 'vim-airline/vim-airline'
 	set noshowmode 	" don't show mode indicator in command line
-	:let g:airline_theme='distinguished' " default theme
 	let g:airline_powerline_fonts=1 " set airline to use powerline fonts/symbols
 	let g:airline#extensions#tabline#enabled = 1 " display all buffers at top
 	let g:airline#extensions#tabline#buffer_nr_show = 1 " display buffer number
@@ -49,6 +48,9 @@ Plugin 'vim-airline/vim-airline'
 		au InsertLeave * set timeoutlen=1000
 	  augroup END
 	endif
+
+Plugin 'vim-airline/vim-airline-themes'
+	let g:airline_theme='distinguished'
 
 Plugin 'mattn/emmet-vim'
 	let g:user_emmet_install_global = 0 " Enable just for html/css
@@ -88,7 +90,7 @@ Plugin 'itchyny/calendar.vim'
 	:nnoremap <leader>c :Calendar<CR>
 
 Plugin 'ryanoasis/vim-devicons'
-	set guifont=DejavuSansMono\ Nerd\ Font\ 15
+	set guifont=DejavuSansMono\ Nerd\ Font\ 12
 
 Plugin 'tiagofumo/vim-nerdtree-syntax-highlight'
 
