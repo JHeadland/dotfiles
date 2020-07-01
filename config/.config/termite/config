@@ -17,6 +17,7 @@ scrollback_lines = 10000
 #hyperlinks = false
 
 font = Source Code Pro 12
+font = Sauce Code Pro Nerd Font 12
 
 # $BROWSER is used by default if set, with xdg-open as a fallback
 #browser = xdg-open

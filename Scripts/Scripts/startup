@@ -7,4 +7,3 @@ systemctl --user start check-battery.service
 systemctl --user start check-battery.timer
 picom -b --no-fading-openclose
 reloadDunst
-sudo ntpd -qg

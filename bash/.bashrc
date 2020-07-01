@@ -5,6 +5,8 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
+# Set Termite as default terminal emulator
+export TERMINAL=/usr/bin/termite
 # Set Vim as default editor
 export EDITOR=/usr/bin/vim
 # Set Chromium as default browser
@@ -37,7 +39,7 @@ shopt -s nocaseglob
 
 # Prompt
 #PS1='[\u@\h \W]\$ '
-PS1='\[\e[31m\]  \h\[\e[m\]  \[\e[38;5;048m\] \u\[\e[m\]  \[\e[38;5;051m\] \w\[\e[m\]\n \[\e[32m\]\$\[\e[m\] '
+PS1='\[\e[31m\] \h\[\e[m\]  \[\e[38;5;048m\] \u\[\e[m\]  \[\e[38;5;051m\] \w\[\e[m\]\n \[\e[32m\]\$\[\e[m\] '
 
 # Add ~/Scripts to PATH
 export PATH="~/Scripts:$PATH"

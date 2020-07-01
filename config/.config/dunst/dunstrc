@@ -1,3 +1,5 @@
+## Modified By Aditya Shakya ...
+
 [global]
 
 monitor = 0
@@ -30,11 +32,11 @@ icon_position = off
 max_icon_size = 32
 
 ## Paths to default icons.
-icon_folders = ~/.config/dunst/icons
+#icon_folders = /usr/share/icons/gnome/16x16/status/:/usr/share/icons/gnome/16x16/devices/
 sticky_history = yes
 history_length = 20
 dmenu = /usr/bin/dmenu -p dunst:
-browser = /usr/bin/chromium -new-tab
+browser = /usr/bin/firefox -new-tab
 always_run_script = true
 title = Dunst
 class = Dunst
