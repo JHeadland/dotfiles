@@ -44,8 +44,8 @@ border-color = 0
 ;---------------;
 
 fixed-center = true
-padding-left = 2
-padding-right = 2
+padding-left = 1
+padding-right = 1
 module-margin = 1
 
 modules-left = arch i3
@@ -174,7 +174,7 @@ animation-charging-framerate = 750
 
 [module/cpu]
 type = internal/cpu
-label =  %percentage:2%%
+label =  %percentage:2%%
 format-underline = #1793d0
 
 ;==========================================================;
@@ -193,9 +193,9 @@ type = internal/network
 
 interface = wlan0
 interval = 5
-;label-connected =   %essid%
+;label-connected = 直 %essid%
 ;label-disconnected = 睊
-label-connected = "%{A1:networkmanager_dmenu &:}  %essid%%{A}"
+label-connected = "%{A1:networkmanager_dmenu &:}直 %essid%%{A}"
 format-connected-underline = #1793d0
 label-disconnected = "%{A1:networkmanager_dmenu &:}睊 Disconnected%{A}"
 format-disconnected-underline = #cc6666
@@ -204,7 +204,7 @@ format-disconnected-underline = #cc6666
 
 [module/date]
 type = internal/date
-date =   %a %b %d  %H:%M:%S
+date =   %a %b %d  %H:%M
 label = %date%
 format-underline = #1793d0
 

@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#sudo systemctl restart netctl-auto@wlan0.service
 systemctl --user start feh-randombg.service
 systemctl --user start feh-randombg.timer
 systemctl --user start check-battery.service
