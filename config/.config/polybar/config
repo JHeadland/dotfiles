@@ -76,7 +76,6 @@ ws-icon-5 = 6;6
 ws-icon-6 = 7;7
 ws-icon-7 = 8;8
 ws-icon-8 = 9;9
-ws-icon-9 = 10;10
 
 pin-workspaces = false
 strip-wsnumbers = false
@@ -193,11 +192,11 @@ type = internal/network
 
 interface = wlan0
 interval = 5
-;label-connected = 直 %essid%
-;label-disconnected = 睊
-label-connected = "%{A1:networkmanager_dmenu &:}直 %essid%%{A}"
+label-connected = 直 %essid%
+label-disconnected = 睊
+;label-connected = "%{A1:networkmanager_dmenu &:}直 %essid%%{A}"
 format-connected-underline = #1793d0
-label-disconnected = "%{A1:networkmanager_dmenu &:}睊 Disconnected%{A}"
+;label-disconnected = "%{A1:networkmanager_dmenu &:}睊 Disconnected%{A}"
 format-disconnected-underline = #cc6666
 
 ;==========================================================;
@@ -225,7 +224,7 @@ type = internal/mpd
 host = 127.0.0.1
 port = 6600
 
-format-online = <icon-prev> <icon-stop> <toggle> <icon-next> <label-song>
+format-online = <icon-prev> <icon-stop> <toggle> <icon-next>  <label-song>
 
 icon-prev = 
 icon-stop = 
