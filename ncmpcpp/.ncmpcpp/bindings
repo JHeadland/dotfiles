@@ -549,3 +549,7 @@ def_key "h"
   previous_column
 def_key "l"
   next_column
+def_key "L"
+  show_lyrics
+def_key "ctrl-l"
+  toggle_lyrics_fetcher

@@ -49,9 +49,12 @@ bindsym $mod+b exec --no-startup-id $BROWSER
 # chromium (mod+c)
 bindsym $mod+c exec --no-startup-id chromium
 
+# ncmpcpp
+bindsym $mod+m exec --no-startup-id ~/Scripts/music
+
 # scrot (screenshot)
-bindsym --release Print exec --no-startup-id escrotum ~/Pictures/Screenshots/%Y-%m-%d_%H%M%S.png && notify-send --expire-time=2000 -i view-fullscreen 'Screenshot!~' 'Saved to ~/Pictures/Screenshots !' --icon='/home/john/.config/dunst/icons/camera.png' && sleep 0.5
-bindsym --release ctrl+Print exec --no-startup-id escrotum -s ~/Pictures/Screenshots/%Y-%m-%d_%H%M%S.png && notify-send --expire-time=2000 -i view-fullscreen 'Screenshot!~' 'Saved to ~/Pictures/Screenshots !' --icon='/home/john/.config/dunst/icons/camera.png' && sleep 0.5
+bindsym --release Print exec --no-startup-id escrotum ~/Pictures/Screenshots/%Y-%m-%d_%H%M%S.png && notify-send --expire-time=2000 -i view-fullscreen 'Screenshot!~' 'Saved to ~/Pictures/Screenshots !' --icon='/usr/share/icons/Adwaita/16x16/devices/camera-photo-symbolic.symbolic.png' && sleep 0.5
+bindsym --release ctrl+Print exec --no-startup-id escrotum -s ~/Pictures/Screenshots/%Y-%m-%d_%H%M%S.png && notify-send --expire-time=2000 -i view-fullscreen 'Screenshot!~' 'Saved to ~/Pictures/Screenshots !' --icon='/usr/share/icons/Adwaita/16x16/devices/camera-photo-symbolic.symbolic.png' && sleep 0.5
 
 # Automatically switch horizontal/vertical window split (spiral tiling)
 # exec_always --no-startup-id autotiling
@@ -191,7 +194,9 @@ bindsym $mod+r mode "resize"
 # Assignments #
 #-------------#
 
-#for_window [class="Spotify"] 	move to workspace $ws7
-for_window [class="Thunar"] 	floating enable
+#for_window [class="Spotify"] move to workspace $ws7
+for_window [class="Thunar"] floating enable
 for_window [window_role="pop-up"] floating enable
 for_window [class="Hydrus Client" instance="client"] floating enable
+for_window [class="music"] floating enable
+for_window [class="music"] border pixel 1

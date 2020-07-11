@@ -28,11 +28,11 @@ ignore_newline = no
 stack_duplicates = false
 hide_duplicate_count = false
 show_indicators = yes
-icon_position = off
+icon_position = left
 max_icon_size = 32
 
 ## Paths to default icons.
-#icon_folders = /usr/share/icons/gnome/16x16/status/:/usr/share/icons/gnome/16x16/devices/
+icon_folders = /usr/share/icons/Adwaita/32x32/status/:/usr/share/icons/Adwaita/32x32/devices/
 sticky_history = yes
 history_length = 20
 dmenu = /usr/bin/dmenu -p dunst:

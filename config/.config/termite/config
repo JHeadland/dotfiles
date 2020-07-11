@@ -41,15 +41,8 @@ font = Sauce Code Pro Nerd Font 12
 #scrollbar = off
 
 [colors]
-# If both of these are unset, cursor falls back to the foreground color,
-# and cursor_foreground falls back to the background color.
-#cursor = #dcdccc
-#cursor_foreground = #dcdccc
 
-#foreground = #dcdccc
-#foreground_bold = #ffffff
-
-background = #141021
+#background = #262626
 
 # Transparent background
 background = rgba(6, 6, 6, 0.85)

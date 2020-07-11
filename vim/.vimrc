@@ -88,9 +88,6 @@ Plugin 'lervag/wiki.vim'
 	let g:wiki_filetypes=['md']
 	let g:wiki_link_target_type='md'
 
-Plugin 'itchyny/calendar.vim'
-	:nnoremap <leader>c :Calendar<CR>
-
 Plugin 'ryanoasis/vim-devicons'
 	set guifont=DejavuSansMono\ Nerd\ Font\ 12
 

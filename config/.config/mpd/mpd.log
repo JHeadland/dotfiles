@@ -133,3 +133,857 @@ Jul 03 15:05 : client: [49] opened from 127.0.0.1:49280
 Jul 03 15:05 : client: [49] closed
 Jul 03 15:05 : client: [50] opened from 127.0.0.1:49282
 Jul 03 15:05 : client: [50] closed
+Jul 03 15:07 : player: played "Travis Barker - Gimme Brain.flac"
+Jul 03 15:07 : client: [51] opened from 127.0.0.1:49298
+Jul 03 15:07 : client: [51] closed
+Jul 03 15:07 : client: [52] opened from 127.0.0.1:49300
+Jul 03 15:07 : client: [52] closed
+Jul 03 15:07 : client: [53] opened from 127.0.0.1:49302
+Jul 03 15:07 : client: [53] closed
+Jul 03 15:08 : player: played "Nicki Minaj - Good Form.flac"
+Jul 03 15:08 : client: [54] opened from 127.0.0.1:49306
+Jul 03 15:08 : client: [54] closed
+Jul 03 15:08 : client: [55] opened from 127.0.0.1:49310
+Jul 03 15:08 : client: [55] closed
+Jul 03 15:09 : client: [29] closed
+Jul 03 15:09 : client: [56] opened from 127.0.0.1:49314
+Jul 03 15:09 : client: [57] opened from 127.0.0.1:49318
+Jul 03 15:09 : client: [57] closed
+Jul 03 15:09 : client: [58] opened from 127.0.0.1:49322
+Jul 03 15:09 : client: [58] closed
+Jul 03 15:11 : client: [59] opened from 127.0.0.1:49356
+Jul 03 15:11 : client: [59] closed
+Jul 03 15:14 : player: played "Lil Wayne - Watch My Shoes.flac"
+Jul 03 15:14 : client: [60] opened from 127.0.0.1:49484
+Jul 03 15:14 : client: [60] closed
+Jul 03 15:14 : client: [61] opened from 127.0.0.1:49488
+Jul 03 15:14 : client: [61] closed
+Jul 03 15:16 : player: played "Childish Gambino - Bonfire.flac"
+Jul 03 15:17 : client: [62] opened from 127.0.0.1:49492
+Jul 03 15:17 : client: [62] closed
+Jul 03 15:17 : client: [63] opened from 127.0.0.1:49496
+Jul 03 15:17 : client: [63] closed
+Jul 03 15:21 : player: played "Lil Wayne - Watch My Shoes.flac"
+Jul 03 15:21 : client: [64] opened from 127.0.0.1:49556
+Jul 03 15:21 : client: [64] closed
+Jul 03 15:21 : client: [65] opened from 127.0.0.1:49560
+Jul 03 15:21 : client: [65] closed
+Jul 03 15:23 : update: removing MAC MILLER - Smile Back.flac
+Jul 03 15:23 : update: removing MAC MILLER - Loitering.flac
+Jul 03 15:23 : update: removing MAC MILLER - My Team.flac
+Jul 03 15:23 : update: removing Tinie - Written in the Stars (feat. Eric Turner).mp3
+Jul 03 15:23 : update: removing Gorillaz - DARE.flac
+Jul 03 15:23 : update: removing Set It Off - I'll Sleep When I'm Dead.mp3
+Jul 03 15:23 : update: removing Kevin Sherwood, James McCawley, Treyarch Sound, Brian Tuey - 115.mp3
+Jul 03 15:23 : update: removing Zion I & The Grouch - Hit 'Em.mp3
+Jul 03 15:23 : update: removing Yung Redd - Day N Night.mp3
+Jul 03 15:23 : update: removing MAC MILLER - Donald Trump.flac
+Jul 03 15:23 : update: removing Ellie Goulding - Lights (Bassnectar Remix).mp3
+Jul 03 15:23 : update: removing MAC MILLER - Knock Knock.flac
+Jul 03 15:23 : update: removing Empire - Up, Up & Away.mp3
+Jul 03 15:23 : update: removing MAC MILLER - Party On Fifth Ave.mp3
+Jul 03 15:23 : update: removing Immortal Technique - Dance With the Devil.mp3
+Jul 03 15:23 : update: removing Casey Veggies - Can I Live feat. Mac Miller.mp3
+Jul 03 15:23 : update: removing Kurupt - I'm Burnt.mp3
+Jul 03 15:23 : update: removing Asia - Heat Of The Moment.mp3
+Jul 03 15:23 : update: removing The Dean's List - Mainstream.mp3
+Jul 03 15:23 : update: removing Jae Millz featuring Gudda Gudda, Tyga, Lil Twist, Cory Gunz - Green Goblin.mp3
+Jul 03 15:23 : update: removing DMX - I Don't Dance.mp3
+Jul 03 15:23 : update: removing Weezer - Pork And Beans.mp3
+Jul 03 15:23 : update: removing MAC MILLER - O.K. (feat. Tyler, The Creator) [Bonus Track].flac
+Jul 03 15:23 : update: removing The Pack - Wolfpack Party.mp3
+Jul 03 15:23 : update: removing 3 Doors Down - Here Without You.mp3
+Jul 03 15:23 : update: removing Upper West - West Side Stories.mp3
+Jul 03 15:23 : update: removing J Xavier - It’s Going Down (feat. Yung Joc).mp3
+Jul 03 15:23 : update: added /Mac Miller - Knock Knock.flac
+Jul 03 15:23 : update: added /Mac Miller - Smile Back.flac
+Jul 03 15:23 : update: added /Mac Miller - My Team.flac
+Jul 03 15:23 : update: added /Mac Miller - O.K. (feat. Tyler, The Creator) [Bonus Track].flac
+Jul 03 15:23 : update: added /Mac Miller - Donald Trump.flac
+Jul 03 15:23 : update: added /Mac Miller - Loitering.flac
+Jul 03 15:23 : update: added mp3/Upper West - West Side Stories.mp3
+Jul 03 15:23 : update: added mp3/Tinie - Written in the Stars (feat. Eric Turner).mp3
+Jul 03 15:23 : update: added mp3/DMX - I Don't Dance.mp3
+Jul 03 15:23 : update: added mp3/J Xavier - It’s Going Down (feat. Yung Joc).mp3
+Jul 03 15:23 : update: added mp3/Yung Redd - Day N Night.mp3
+Jul 03 15:23 : update: added mp3/The Dean's List - Mainstream.mp3
+Jul 03 15:23 : update: added mp3/Weezer - Pork And Beans.mp3
+Jul 03 15:23 : update: added mp3/Zion I & The Grouch - Hit 'Em.mp3
+Jul 03 15:23 : update: added mp3/Empire - Up, Up & Away.mp3
+Jul 03 15:23 : update: added mp3/Casey Veggies - Can I Live feat. Mac Miller.mp3
+Jul 03 15:23 : update: added mp3/Asia - Heat Of The Moment.mp3
+Jul 03 15:23 : update: added mp3/Set It Off - I'll Sleep When I'm Dead.mp3
+Jul 03 15:23 : update: added mp3/Immortal Technique - Dance With the Devil.mp3
+Jul 03 15:23 : update: added mp3/Kevin Sherwood, James McCawley, Treyarch Sound, Brian Tuey - 115.mp3
+Jul 03 15:23 : update: added mp3/Mac Miller - Party On Fifth Ave.mp3
+Jul 03 15:23 : update: added mp3/The Pack - Wolfpack Party.mp3
+Jul 03 15:23 : update: added mp3/Jae Millz featuring Gudda Gudda, Tyga, Lil Twist, Cory Gunz - Green Goblin.mp3
+Jul 03 15:23 : update: added mp3/3 Doors Down - Here Without You.mp3
+Jul 03 15:23 : update: added mp3/Kurupt - I'm Burnt.mp3
+Jul 03 15:23 : update: added mp3/Ellie Goulding - Lights (Bassnectar Remix).mp3
+Jul 03 15:25 : player: played "Lil Wayne - 6 Foot 7 Foot.flac"
+Jul 03 15:25 : client: [66] opened from 127.0.0.1:49648
+Jul 03 15:25 : client: [66] closed
+Jul 03 15:25 : client: [67] opened from 127.0.0.1:49652
+Jul 03 15:25 : client: [67] closed
+Jul 03 15:26 : client: [68] opened from 127.0.0.1:49654
+Jul 03 15:26 : client: [68] closed
+Jul 03 15:26 : client: [69] opened from 127.0.0.1:49658
+Jul 03 15:26 : client: [69] closed
+Jul 03 15:26 : client: [70] opened from 127.0.0.1:49662
+Jul 03 15:26 : client: [70] closed
+Jul 03 15:26 : client: [71] opened from 127.0.0.1:49664
+Jul 03 15:26 : client: [71] closed
+Jul 03 15:26 : client: [72] opened from 127.0.0.1:49668
+Jul 03 15:26 : client: [72] closed
+Jul 03 15:26 : client: [73] opened from 127.0.0.1:49672
+Jul 03 15:26 : client: [73] closed
+Jul 03 15:26 : client: [74] opened from 127.0.0.1:49674
+Jul 03 15:26 : client: [74] closed
+Jul 03 15:26 : client: [75] opened from 127.0.0.1:49678
+Jul 03 15:26 : client: [75] closed
+Jul 03 15:26 : client: [76] opened from 127.0.0.1:49682
+Jul 03 15:26 : client: [76] closed
+Jul 03 15:27 : client: [77] opened from 127.0.0.1:49686
+Jul 03 15:27 : player: played "Meghan Trainor - NO.flac"
+Jul 03 15:27 : client: [77] closed
+Jul 03 15:27 : client: [56] closed
+Jul 03 15:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 15:28 : config: option 'device' on line 13 was not recognized
+Jul 03 15:28 : client: [0] opened from 127.0.0.1:49702
+Jul 03 15:28 : client: [1] opened from 127.0.0.1:49704
+Jul 03 15:28 : client: [1] closed
+Jul 03 15:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 15:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 15:28 : client: [2] opened from 127.0.0.1:49708
+Jul 03 15:28 : client: [3] opened from 127.0.0.1:49712
+Jul 03 15:28 : client: [3] closed
+Jul 03 15:28 : client: [4] opened from 127.0.0.1:49716
+Jul 03 15:28 : client: [4] closed
+Jul 03 15:28 : client: [5] opened from 127.0.0.1:49720
+Jul 03 15:28 : client: [5] closed
+Jul 03 15:28 : client: [6] opened from 127.0.0.1:49724
+Jul 03 15:28 : client: [6] closed
+Jul 03 15:28 : client: [2] closed
+Jul 03 15:28 : client: [7] opened from 127.0.0.1:49726
+Jul 03 15:28 : player: played "Lil Wayne - Watch My Shoes.flac"
+Jul 03 15:28 : client: [7] closed
+Jul 03 15:32 : client: [8] opened from 127.0.0.1:49730
+Jul 03 15:32 : client: [8] closed
+Jul 03 15:33 : client: [9] opened from 127.0.0.1:49748
+Jul 03 15:33 : client: [10] opened from 127.0.0.1:49752
+Jul 03 15:33 : client: [10] closed
+Jul 03 15:33 : client: [11] opened from 127.0.0.1:49756
+Jul 03 15:33 : client: [11] closed
+Jul 03 15:34 : client: [9] closed
+Jul 03 15:37 : player: played "Lil Wayne - Watch My Shoes.flac"
+Jul 03 15:41 : client: [0] closed
+Jul 03 15:41 : client: [12] opened from 127.0.0.1:49808
+Jul 03 15:41 : player: played "Lil Wayne - 6 Foot 7 Foot.flac"
+Jul 03 15:41 : client: [13] opened from 127.0.0.1:49810
+Jul 03 15:41 : client: [13] closed
+Jul 03 15:41 : client: [14] opened from 127.0.0.1:49812
+Jul 03 15:41 : client: [14] closed
+Jul 03 15:41 : client: [15] opened from 127.0.0.1:49814
+Jul 03 15:41 : client: [15] closed
+Jul 03 15:41 : client: [16] opened from 127.0.0.1:49816
+Jul 03 15:41 : client: [16] closed
+Jul 03 15:42 : client: [17] opened from 127.0.0.1:49842
+Jul 03 15:42 : client: [18] opened from 127.0.0.1:49846
+Jul 03 15:42 : client: [18] closed
+Jul 03 15:42 : client: [19] opened from 127.0.0.1:49850
+Jul 03 15:42 : client: [19] closed
+Jul 03 15:43 : client: [17] closed
+Jul 03 15:43 : client: [20] opened from 127.0.0.1:49856
+Jul 03 15:43 : client: [21] opened from 127.0.0.1:49860
+Jul 03 15:43 : client: [21] closed
+Jul 03 15:43 : client: [22] opened from 127.0.0.1:49864
+Jul 03 15:43 : client: [22] closed
+Jul 03 15:44 : player: played "Lil Wayne - Mahogany.flac"
+Jul 03 15:44 : client: [23] opened from 127.0.0.1:49870
+Jul 03 15:44 : client: [23] closed
+Jul 03 15:44 : client: [24] opened from 127.0.0.1:49874
+Jul 03 15:44 : client: [24] closed
+Jul 03 15:44 : client: [20] closed
+Jul 03 15:46 : player: played "Sum 41 - Some Say.flac"
+Jul 03 15:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 15:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 15:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 15:46 : config: option 'device' on line 13 was not recognized
+Jul 03 15:46 : client: [0] opened from 127.0.0.1:49890
+Jul 03 15:48 : player: played "Sum 41 - Some Say.flac"
+Jul 03 15:48 : client: [1] opened from 127.0.0.1:49896
+Jul 03 15:48 : client: [2] opened from 127.0.0.1:49900
+Jul 03 15:48 : client: [2] closed
+Jul 03 15:48 : client: [3] opened from 127.0.0.1:49904
+Jul 03 15:48 : client: [3] closed
+Jul 03 15:48 : client: [1] closed
+Jul 03 15:48 : player: played "Ini Kamoze - Here Comes the Hotstepper (Heartical Mix).flac"
+Jul 03 15:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 15:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 15:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 15:48 : config: option 'device' on line 13 was not recognized
+Jul 03 15:48 : client: [0] opened from 127.0.0.1:49914
+Jul 03 15:48 : client: [1] opened from 127.0.0.1:49918
+Jul 03 15:48 : client: [2] opened from 127.0.0.1:49922
+Jul 03 15:48 : client: [2] closed
+Jul 03 15:48 : client: [3] opened from 127.0.0.1:49926
+Jul 03 15:48 : client: [3] closed
+Jul 03 15:48 : client: [1] closed
+Jul 03 15:50 : client: [0] closed
+Jul 03 15:50 : client: [4] opened from 127.0.0.1:49994
+Jul 03 15:51 : client: [4] closed
+Jul 03 15:51 : client: [5] opened from 127.0.0.1:49996
+Jul 03 15:51 : client: [6] opened from 127.0.0.1:50000
+Jul 03 15:51 : client: [7] opened from 127.0.0.1:50004
+Jul 03 15:51 : client: [7] closed
+Jul 03 15:51 : client: [8] opened from 127.0.0.1:50008
+Jul 03 15:51 : client: [8] closed
+Jul 03 15:51 : client: [6] closed
+Jul 03 15:52 : client: [5] closed
+Jul 03 15:52 : client: [9] opened from 127.0.0.1:50020
+Jul 03 15:52 : client: [10] opened from 127.0.0.1:50024
+Jul 03 15:52 : client: [11] opened from 127.0.0.1:50028
+Jul 03 15:52 : client: [11] closed
+Jul 03 15:52 : client: [12] opened from 127.0.0.1:50032
+Jul 03 15:52 : client: [12] closed
+Jul 03 15:52 : client: [10] closed
+Jul 03 15:52 : player: played "Ini Kamoze - Here Comes the Hotstepper (Heartical Mix).flac"
+Jul 03 15:55 : client: [9] closed
+Jul 03 15:55 : client: [13] opened from 127.0.0.1:50046
+Jul 03 15:55 : client: [14] opened from 127.0.0.1:50050
+Jul 03 15:55 : client: [15] opened from 127.0.0.1:50054
+Jul 03 15:55 : client: [15] closed
+Jul 03 15:55 : client: [16] opened from 127.0.0.1:50058
+Jul 03 15:55 : client: [16] closed
+Jul 03 15:55 : client: [14] closed
+Jul 03 15:55 : client: [17] opened from 127.0.0.1:50062
+Jul 03 15:55 : client: [18] opened from 127.0.0.1:50066
+Jul 03 15:55 : client: [18] closed
+Jul 03 15:55 : client: [19] opened from 127.0.0.1:50070
+Jul 03 15:55 : client: [19] closed
+Jul 03 15:55 : client: [17] closed
+Jul 03 15:55 : client: [20] opened from 127.0.0.1:50074
+Jul 03 15:55 : client: [21] opened from 127.0.0.1:50078
+Jul 03 15:55 : client: [21] closed
+Jul 03 15:55 : client: [22] opened from 127.0.0.1:50082
+Jul 03 15:55 : client: [22] closed
+Jul 03 15:56 : client: [20] closed
+Jul 03 15:57 : player: played "Huey - Pop, Lock & Drop It (Remix Version).flac"
+Jul 03 15:57 : client: [23] opened from 127.0.0.1:50084
+Jul 03 15:57 : client: [23] closed
+Jul 03 15:57 : client: [13] closed
+Jul 03 15:57 : client: [24] opened from 127.0.0.1:50086
+Jul 03 15:57 : client: [24] closed
+Jul 03 15:57 : client: [25] opened from 127.0.0.1:50088
+Jul 03 15:57 : client: [25] closed
+Jul 03 15:57 : client: [26] opened from 127.0.0.1:50092
+Jul 03 15:58 : client: [26] closed
+Jul 03 15:58 : client: [27] opened from 127.0.0.1:50094
+Jul 03 15:58 : client: [27] closed
+Jul 03 15:58 : client: [28] opened from 127.0.0.1:50096
+Jul 03 15:58 : client: [28] closed
+Jul 03 15:58 : client: [29] opened from 127.0.0.1:50098
+Jul 03 15:58 : client: [29] closed
+Jul 03 15:58 : client: [30] opened from 127.0.0.1:50100
+Jul 03 15:58 : client: [31] opened from 127.0.0.1:50104
+Jul 03 15:58 : client: [32] opened from 127.0.0.1:50108
+Jul 03 15:58 : client: [32] closed
+Jul 03 15:58 : client: [33] opened from 127.0.0.1:50112
+Jul 03 15:58 : client: [33] closed
+Jul 03 15:58 : client: [31] closed
+Jul 03 16:00 : player: played "X Ambassadors - Jungle.flac"
+Jul 03 16:00 : client: [34] opened from 127.0.0.1:50120
+Jul 03 16:00 : client: [35] opened from 127.0.0.1:50124
+Jul 03 16:00 : client: [35] closed
+Jul 03 16:00 : client: [36] opened from 127.0.0.1:50128
+Jul 03 16:00 : client: [36] closed
+Jul 03 16:00 : client: [34] closed
+Jul 03 16:00 : client: [37] opened from 127.0.0.1:50130
+Jul 03 16:00 : client: [37] closed
+Jul 03 16:00 : client: [38] opened from 127.0.0.1:50132
+Jul 03 16:00 : client: [38] closed
+Jul 03 16:00 : client: [39] opened from 127.0.0.1:50136
+Jul 03 16:00 : client: [40] opened from 127.0.0.1:50140
+Jul 03 16:00 : client: [40] closed
+Jul 03 16:00 : client: [41] opened from 127.0.0.1:50144
+Jul 03 16:00 : client: [41] closed
+Jul 03 16:00 : client: [42] opened from 127.0.0.1:50146
+Jul 03 16:00 : player: played "Nelly Furtado - Promiscuous.flac"
+Jul 03 16:00 : client: [42] closed
+Jul 03 16:01 : client: [39] closed
+Jul 03 16:01 : client: [43] opened from 127.0.0.1:50150
+Jul 03 16:01 : client: [44] opened from 127.0.0.1:50154
+Jul 03 16:01 : client: [44] closed
+Jul 03 16:01 : client: [45] opened from 127.0.0.1:50158
+Jul 03 16:01 : client: [45] closed
+Jul 03 16:03 : client: [46] opened from 127.0.0.1:50194
+Jul 03 16:03 : client: [47] opened from 127.0.0.1:50198
+Jul 03 16:03 : client: [47] closed
+Jul 03 16:03 : client: [48] opened from 127.0.0.1:50202
+Jul 03 16:03 : client: [48] closed
+Jul 03 16:03 : client: [46] closed
+Jul 03 16:03 : client: [43] closed
+Jul 03 16:03 : client: [30] closed
+Jul 03 16:03 : client: [49] opened from 127.0.0.1:50204
+Jul 03 16:03 : client: [50] opened from 127.0.0.1:50208
+Jul 03 16:03 : client: [51] opened from 127.0.0.1:50212
+Jul 03 16:03 : client: [51] closed
+Jul 03 16:03 : client: [52] opened from 127.0.0.1:50216
+Jul 03 16:03 : client: [52] closed
+Jul 03 16:03 : client: [50] closed
+Jul 03 16:03 : client: [53] opened from 127.0.0.1:50224
+Jul 03 16:03 : client: [54] opened from 127.0.0.1:50228
+Jul 03 16:03 : client: [54] closed
+Jul 03 16:03 : client: [55] opened from 127.0.0.1:50232
+Jul 03 16:03 : client: [55] closed
+Jul 03 16:03 : client: [53] closed
+Jul 03 16:05 : client: [56] opened from 127.0.0.1:50250
+Jul 03 16:05 : client: [57] opened from 127.0.0.1:50254
+Jul 03 16:05 : client: [57] closed
+Jul 03 16:05 : client: [58] opened from 127.0.0.1:50258
+Jul 03 16:05 : client: [58] closed
+Jul 03 16:05 : client: [59] opened from 127.0.0.1:50262
+Jul 03 16:05 : client: [60] opened from 127.0.0.1:50266
+Jul 03 16:05 : client: [60] closed
+Jul 03 16:05 : client: [61] opened from 127.0.0.1:50270
+Jul 03 16:05 : client: [61] closed
+Jul 03 16:05 : client: [59] closed
+Jul 03 16:05 : client: [56] closed
+Jul 03 16:05 : client: [62] opened from 127.0.0.1:50274
+Jul 03 16:05 : client: [63] opened from 127.0.0.1:50278
+Jul 03 16:05 : client: [63] closed
+Jul 03 16:05 : client: [64] opened from 127.0.0.1:50282
+Jul 03 16:05 : client: [64] closed
+Jul 03 16:06 : client: [62] closed
+Jul 03 16:07 : client: [65] opened from 127.0.0.1:50312
+Jul 03 16:07 : client: [66] opened from 127.0.0.1:50316
+Jul 03 16:07 : client: [66] closed
+Jul 03 16:07 : client: [67] opened from 127.0.0.1:50320
+Jul 03 16:07 : client: [67] closed
+Jul 03 16:08 : client: [65] closed
+Jul 03 16:08 : client: [49] closed
+Jul 03 16:08 : client: [68] opened from 127.0.0.1:50332
+Jul 03 16:08 : client: [69] opened from 127.0.0.1:50336
+Jul 03 16:08 : client: [70] opened from 127.0.0.1:50340
+Jul 03 16:08 : client: [70] closed
+Jul 03 16:08 : client: [71] opened from 127.0.0.1:50344
+Jul 03 16:08 : client: [71] closed
+Jul 03 16:08 : client: [69] closed
+Jul 03 16:09 : client: [68] closed
+Jul 03 16:09 : client: [72] opened from 127.0.0.1:50346
+Jul 03 16:09 : client: [73] opened from 127.0.0.1:50350
+Jul 03 16:09 : client: [74] opened from 127.0.0.1:50354
+Jul 03 16:09 : client: [74] closed
+Jul 03 16:09 : client: [75] opened from 127.0.0.1:50358
+Jul 03 16:09 : client: [75] closed
+Jul 03 16:09 : client: [73] closed
+Jul 03 16:09 : client: [76] opened from 127.0.0.1:50362
+Jul 03 16:09 : client: [77] opened from 127.0.0.1:50366
+Jul 03 16:09 : client: [77] closed
+Jul 03 16:09 : client: [78] opened from 127.0.0.1:50370
+Jul 03 16:09 : client: [78] closed
+Jul 03 16:09 : client: [76] closed
+Jul 03 16:10 : player: played "Lil Wayne - Watch My Shoes.flac"
+Jul 03 16:10 : client: [79] opened from 127.0.0.1:50406
+Jul 03 16:10 : client: [79] closed
+Jul 03 16:10 : client: [80] opened from 127.0.0.1:50410
+Jul 03 16:10 : client: [81] opened from 127.0.0.1:50414
+Jul 03 16:10 : client: [81] closed
+Jul 03 16:10 : client: [82] opened from 127.0.0.1:50418
+Jul 03 16:10 : client: [82] closed
+Jul 03 16:10 : client: [80] closed
+Jul 03 16:11 : client: [83] opened from 127.0.0.1:50422
+Jul 03 16:11 : client: [84] opened from 127.0.0.1:50426
+Jul 03 16:11 : client: [84] closed
+Jul 03 16:11 : client: [85] opened from 127.0.0.1:50430
+Jul 03 16:11 : client: [85] closed
+Jul 03 16:11 : client: [83] closed
+Jul 03 16:13 : client: [86] opened from 127.0.0.1:50466
+Jul 03 16:13 : client: [87] opened from 127.0.0.1:50470
+Jul 03 16:13 : client: [87] closed
+Jul 03 16:13 : client: [88] opened from 127.0.0.1:50474
+Jul 03 16:13 : client: [88] closed
+Jul 03 16:13 : client: [86] closed
+Jul 03 16:14 : player: played "Lil Wayne - Watch My Shoes.flac"
+Jul 03 16:18 : player: played "Waka Flocka Flame - Game On (feat. Good Charlotte).flac"
+Jul 03 16:19 : client: [89] opened from 127.0.0.1:50506
+Jul 03 16:19 : client: [90] opened from 127.0.0.1:50510
+Jul 03 16:19 : client: [90] closed
+Jul 03 16:19 : client: [91] opened from 127.0.0.1:50514
+Jul 03 16:19 : client: [91] closed
+Jul 03 16:19 : client: [89] closed
+Jul 03 16:21 : player: played "Childish Gambino - Bonfire.flac"
+Jul 03 16:23 : client: [92] opened from 127.0.0.1:50536
+Jul 03 16:23 : client: [93] opened from 127.0.0.1:50540
+Jul 03 16:23 : client: [93] closed
+Jul 03 16:23 : client: [94] opened from 127.0.0.1:50544
+Jul 03 16:23 : client: [94] closed
+Jul 03 16:23 : client: [92] closed
+Jul 03 16:25 : player: played "ZAYN - Dusk Till Dawn (Radio Edit).flac"
+Jul 03 16:26 : client: [95] opened from 127.0.0.1:50584
+Jul 03 16:26 : client: [95] closed
+Jul 03 16:26 : client: [96] opened from 127.0.0.1:50586
+Jul 03 16:26 : client: [96] closed
+Jul 03 16:26 : client: [97] opened from 127.0.0.1:50588
+Jul 03 16:26 : client: [97] closed
+Jul 03 16:26 : client: [98] opened from 127.0.0.1:50590
+Jul 03 16:26 : client: [98] closed
+Jul 03 16:26 : client: [99] opened from 127.0.0.1:50592
+Jul 03 16:26 : client: [99] closed
+Jul 03 16:27 : client: [100] opened from 127.0.0.1:50600
+Jul 03 16:27 : client: [101] opened from 127.0.0.1:50604
+Jul 03 16:27 : client: [101] closed
+Jul 03 16:27 : client: [102] opened from 127.0.0.1:50608
+Jul 03 16:27 : client: [102] closed
+Jul 03 16:27 : client: [100] closed
+Jul 03 16:27 : client: [103] opened from 127.0.0.1:50614
+Jul 03 16:27 : client: [104] opened from 127.0.0.1:50618
+Jul 03 16:27 : client: [104] closed
+Jul 03 16:27 : client: [105] opened from 127.0.0.1:50622
+Jul 03 16:27 : client: [105] closed
+Jul 03 16:27 : client: [103] closed
+Jul 03 16:28 : client: [106] opened from 127.0.0.1:50626
+Jul 03 16:28 : client: [107] opened from 127.0.0.1:50630
+Jul 03 16:28 : client: [107] closed
+Jul 03 16:28 : client: [108] opened from 127.0.0.1:50634
+Jul 03 16:28 : client: [108] closed
+Jul 03 16:28 : client: [106] closed
+Jul 03 16:28 : client: [109] opened from 127.0.0.1:50638
+Jul 03 16:28 : client: [110] opened from 127.0.0.1:50642
+Jul 03 16:28 : client: [110] closed
+Jul 03 16:28 : client: [111] opened from 127.0.0.1:50646
+Jul 03 16:28 : client: [111] closed
+Jul 03 16:28 : client: [109] closed
+Jul 03 16:28 : client: [112] opened from 127.0.0.1:50650
+Jul 03 16:28 : client: [113] opened from 127.0.0.1:50654
+Jul 03 16:28 : client: [113] closed
+Jul 03 16:28 : client: [114] opened from 127.0.0.1:50658
+Jul 03 16:28 : client: [114] closed
+Jul 03 16:28 : client: [115] opened from 127.0.0.1:50662
+Jul 03 16:28 : client: [115] closed
+Jul 03 16:28 : client: [116] opened from 127.0.0.1:50666
+Jul 03 16:28 : client: [116] closed
+Jul 03 16:28 : client: [117] opened from 127.0.0.1:50670
+Jul 03 16:28 : client: [117] closed
+Jul 03 16:28 : client: [118] opened from 127.0.0.1:50674
+Jul 03 16:28 : client: [118] closed
+Jul 03 16:28 : client: [119] opened from 127.0.0.1:50678
+Jul 03 16:28 : client: [119] closed
+Jul 03 16:28 : client: [120] opened from 127.0.0.1:50682
+Jul 03 16:28 : client: [120] closed
+Jul 03 16:28 : client: [121] opened from 127.0.0.1:50686
+Jul 03 16:28 : client: [121] closed
+Jul 03 16:28 : client: [122] opened from 127.0.0.1:50690
+Jul 03 16:28 : client: [122] closed
+Jul 03 16:28 : client: [112] closed
+Jul 03 16:28 : client: [123] opened from 127.0.0.1:50694
+Jul 03 16:28 : client: [124] opened from 127.0.0.1:50698
+Jul 03 16:28 : client: [124] closed
+Jul 03 16:28 : client: [125] opened from 127.0.0.1:50702
+Jul 03 16:28 : client: [125] closed
+Jul 03 16:28 : client: [123] closed
+Jul 03 16:28 : client: [126] opened from 127.0.0.1:50706
+Jul 03 16:28 : client: [127] opened from 127.0.0.1:50710
+Jul 03 16:28 : client: [127] closed
+Jul 03 16:28 : client: [128] opened from 127.0.0.1:50714
+Jul 03 16:28 : client: [128] closed
+Jul 03 16:29 : client: [126] closed
+Jul 03 16:30 : client: [129] opened from 127.0.0.1:50718
+Jul 03 16:30 : client: [130] opened from 127.0.0.1:50722
+Jul 03 16:30 : client: [130] closed
+Jul 03 16:30 : client: [131] opened from 127.0.0.1:50726
+Jul 03 16:30 : client: [131] closed
+Jul 03 16:30 : client: [129] closed
+Jul 03 16:30 : client: [132] opened from 127.0.0.1:50730
+Jul 03 16:30 : client: [133] opened from 127.0.0.1:50734
+Jul 03 16:30 : client: [133] closed
+Jul 03 16:30 : client: [134] opened from 127.0.0.1:50738
+Jul 03 16:30 : client: [134] closed
+Jul 03 16:30 : client: [132] closed
+Jul 03 16:31 : client: [135] opened from 127.0.0.1:50752
+Jul 03 16:31 : client: [136] opened from 127.0.0.1:50756
+Jul 03 16:31 : client: [136] closed
+Jul 03 16:31 : client: [137] opened from 127.0.0.1:50760
+Jul 03 16:31 : client: [137] closed
+Jul 03 16:31 : client: [138] opened from 127.0.0.1:50764
+Jul 03 16:31 : client: [138] closed
+Jul 03 16:31 : client: [139] opened from 127.0.0.1:50768
+Jul 03 16:31 : client: [139] closed
+Jul 03 16:31 : client: [135] closed
+Jul 03 16:31 : client: [140] opened from 127.0.0.1:50770
+Jul 03 16:31 : player: played "Lil Wayne - Watch My Shoes.flac"
+Jul 03 16:31 : client: [140] closed
+Jul 03 16:35 : client: [141] opened from 127.0.0.1:50776
+Jul 03 16:37 : client: [141] closed
+Jul 03 16:37 : client: [142] opened from 127.0.0.1:50812
+Jul 03 16:38 : client: [142] closed
+Jul 03 16:38 : client: [143] opened from 127.0.0.1:50818
+Jul 03 16:40 : client: [143] closed
+Jul 03 16:40 : client: [144] opened from 127.0.0.1:50826
+Jul 03 16:43 : client: [144] closed
+Jul 03 16:43 : client: [145] opened from 127.0.0.1:50844
+Jul 03 16:47 : client: [145] closed
+Jul 03 16:47 : client: [146] opened from 127.0.0.1:50922
+Jul 03 16:47 : client: [147] opened from 127.0.0.1:50926
+Jul 03 16:47 : client: [147] closed
+Jul 03 16:47 : client: [148] opened from 127.0.0.1:50930
+Jul 03 16:47 : client: [148] closed
+Jul 03 16:47 : client: [146] closed
+Jul 03 16:48 : client: [149] opened from 127.0.0.1:50940
+Jul 03 16:48 : client: [150] opened from 127.0.0.1:50944
+Jul 03 16:48 : client: [150] closed
+Jul 03 16:48 : client: [151] opened from 127.0.0.1:50948
+Jul 03 16:48 : client: [151] closed
+Jul 03 16:52 : client: [149] closed
+Jul 03 16:52 : client: [152] opened from 127.0.0.1:50962
+Jul 03 16:52 : client: [153] opened from 127.0.0.1:50966
+Jul 03 16:52 : client: [153] closed
+Jul 03 16:52 : client: [154] opened from 127.0.0.1:50970
+Jul 03 16:52 : client: [154] closed
+Jul 03 16:53 : client: [155] opened from 127.0.0.1:50976
+Jul 03 16:53 : client: [155] closed
+Jul 03 16:53 : client: [156] opened from 127.0.0.1:50980
+Jul 03 16:53 : client: [156] closed
+Jul 03 16:56 : client: [152] closed
+Jul 03 16:56 : client: [157] opened from 127.0.0.1:50992
+Jul 03 16:56 : client: [158] opened from 127.0.0.1:50996
+Jul 03 16:56 : client: [158] closed
+Jul 03 16:56 : client: [159] opened from 127.0.0.1:51000
+Jul 03 16:56 : client: [159] closed
+Jul 03 16:56 : client: [160] opened from 127.0.0.1:51004
+Jul 03 16:56 : client: [160] closed
+Jul 03 16:56 : client: [161] opened from 127.0.0.1:51008
+Jul 03 16:56 : client: [161] closed
+Jul 03 16:56 : client: [157] closed
+Jul 03 16:56 : client: [162] opened from 127.0.0.1:51012
+Jul 03 16:56 : client: [163] opened from 127.0.0.1:51016
+Jul 03 16:56 : client: [163] closed
+Jul 03 16:56 : client: [164] opened from 127.0.0.1:51020
+Jul 03 16:56 : client: [164] closed
+Jul 03 16:57 : client: [162] closed
+Jul 03 16:58 : client: [165] opened from 127.0.0.1:51034
+Jul 03 16:58 : client: [166] opened from 127.0.0.1:51038
+Jul 03 16:58 : client: [166] closed
+Jul 03 16:58 : client: [167] opened from 127.0.0.1:51042
+Jul 03 16:58 : client: [167] closed
+Jul 03 16:59 : client: [168] opened from 127.0.0.1:51066
+Jul 03 16:59 : client: [168] closed
+Jul 03 16:59 : client: [169] opened from 127.0.0.1:51070
+Jul 03 16:59 : client: [169] closed
+Jul 03 17:00 : client: [170] opened from 127.0.0.1:51158
+Jul 03 17:00 : client: [170] closed
+Jul 03 17:00 : client: [171] opened from 127.0.0.1:51162
+Jul 03 17:00 : client: [171] closed
+Jul 03 17:00 : client: [172] opened from 127.0.0.1:51166
+Jul 03 17:00 : client: [172] closed
+Jul 03 17:00 : client: [173] opened from 127.0.0.1:51170
+Jul 03 17:00 : client: [173] closed
+Jul 03 17:01 : client: [174] opened from 127.0.0.1:51230
+Jul 03 17:01 : client: [174] closed
+Jul 03 17:01 : client: [175] opened from 127.0.0.1:51234
+Jul 03 17:01 : client: [175] closed
+Jul 03 17:05 : client: [176] opened from 127.0.0.1:51394
+Jul 03 17:05 : client: [176] closed
+Jul 03 17:05 : client: [177] opened from 127.0.0.1:51398
+Jul 03 17:05 : client: [177] closed
+Jul 03 17:06 : client: [178] opened from 127.0.0.1:51490
+Jul 03 17:06 : client: [178] closed
+Jul 03 17:06 : client: [179] opened from 127.0.0.1:51494
+Jul 03 17:06 : client: [179] closed
+Jul 03 17:08 : client: [180] opened from 127.0.0.1:52252
+Jul 03 17:08 : client: [180] closed
+Jul 03 17:08 : client: [181] opened from 127.0.0.1:52256
+Jul 03 17:08 : client: [181] closed
+Jul 03 17:11 : client: [182] opened from 127.0.0.1:53192
+Jul 03 17:11 : client: [182] closed
+Jul 03 17:11 : client: [183] opened from 127.0.0.1:53196
+Jul 03 17:11 : client: [183] closed
+Jul 03 17:11 : client: [184] opened from 127.0.0.1:53254
+Jul 03 17:11 : client: [184] closed
+Jul 03 17:11 : client: [185] opened from 127.0.0.1:53258
+Jul 03 17:11 : client: [185] closed
+Jul 03 17:15 : player: played "Lil Wayne - Watch My Shoes.flac"
+Jul 03 17:15 : client: [186] opened from 127.0.0.1:55250
+Jul 03 17:15 : client: [186] closed
+Jul 03 17:15 : client: [187] opened from 127.0.0.1:55254
+Jul 03 17:15 : client: [187] closed
+Jul 03 17:17 : client: [188] opened from 127.0.0.1:55868
+Jul 03 17:17 : client: [188] closed
+Jul 03 17:17 : client: [189] opened from 127.0.0.1:55872
+Jul 03 17:17 : client: [189] closed
+Jul 03 17:17 : client: [190] opened from 127.0.0.1:56000
+Jul 03 17:17 : client: [190] closed
+Jul 03 17:17 : client: [191] opened from 127.0.0.1:56004
+Jul 03 17:17 : client: [191] closed
+Jul 03 17:18 : client: [165] closed
+Jul 03 17:18 : client: [192] opened from 127.0.0.1:56270
+Jul 03 17:18 : client: [193] opened from 127.0.0.1:56274
+Jul 03 17:18 : client: [193] closed
+Jul 03 17:18 : client: [194] opened from 127.0.0.1:56278
+Jul 03 17:18 : client: [194] closed
+Jul 03 17:21 : player: played "Taking Back Sunday - MakeDamnSure.flac"
+Jul 03 17:21 : client: [195] opened from 127.0.0.1:57358
+Jul 03 17:21 : client: [195] closed
+Jul 03 17:21 : client: [196] opened from 127.0.0.1:57362
+Jul 03 17:21 : client: [196] closed
+Jul 03 17:24 : client: [197] opened from 127.0.0.1:58500
+Jul 03 17:24 : client: [197] closed
+Jul 03 17:30 : update: added /Upper West - West Side Stories.mp3
+Jul 03 17:30 : update: added /Tinie - Written in the Stars (feat. Eric Turner).mp3
+Jul 03 17:30 : update: added /DMX - I Don't Dance.mp3
+Jul 03 17:30 : update: added /J Xavier - It’s Going Down (feat. Yung Joc).mp3
+Jul 03 17:30 : update: added /Yung Redd - Day N Night.mp3
+Jul 03 17:30 : update: added /The Dean's List - Mainstream.mp3
+Jul 03 17:30 : update: added /Weezer - Pork And Beans.mp3
+Jul 03 17:30 : update: added /Zion I & The Grouch - Hit 'Em.mp3
+Jul 03 17:30 : update: added /Empire - Up, Up & Away.mp3
+Jul 03 17:30 : update: added /Casey Veggies - Can I Live feat. Mac Miller.mp3
+Jul 03 17:30 : update: added /Asia - Heat Of The Moment.mp3
+Jul 03 17:30 : update: added /Set It Off - I'll Sleep When I'm Dead.mp3
+Jul 03 17:30 : update: added /Immortal Technique - Dance With the Devil.mp3
+Jul 03 17:30 : update: added /Kevin Sherwood, James McCawley, Treyarch Sound, Brian Tuey - 115.mp3
+Jul 03 17:30 : update: added /Mac Miller - Party On Fifth Ave.mp3
+Jul 03 17:30 : update: added /The Pack - Wolfpack Party.mp3
+Jul 03 17:30 : update: added /Andy Mineo - The Saints.flac
+Jul 03 17:30 : update: added /Jae Millz featuring Gudda Gudda, Tyga, Lil Twist, Cory Gunz - Green Goblin.mp3
+Jul 03 17:30 : update: added /3 Doors Down - Here Without You.mp3
+Jul 03 17:30 : update: added /Kurupt - I'm Burnt.mp3
+Jul 03 17:30 : update: added /Ellie Goulding - Lights (Bassnectar Remix).mp3
+Jul 03 17:30 : update: added mp3/Alan Walker - Lily.mp3
+Jul 03 17:30 : update: added mp3/Belief - Watchu Want.mp3
+Jul 03 17:30 : update: added mp3/Breaking Benjamin - I Will Not Bow.mp3
+Jul 03 17:30 : update: added mp3/A$AP Rocky - Praise The Lord (Da Shine).mp3
+Jul 03 17:30 : update: added mp3/Breaking Benjamin - Never Again.mp3
+Jul 03 17:30 : update: added mp3/All Time Low - Umbrella.mp3
+Jul 03 17:30 : update: added mp3/A$AP Rocky - Everyday.mp3
+Jul 03 17:30 : update: added mp3/B.o.B - Nothin' on You (feat. Bruno Mars).mp3
+Jul 03 17:30 : update: added mp3/B.o.B - HeadBand (feat. 2 Chainz).mp3
+Jul 03 17:30 : update: added mp3/A Static Lullaby - Toxic.mp3
+Jul 03 17:30 : update: added mp3/B.o.B - Airplanes, Pt. II (feat. Eminem & Hayley Williams).mp3
+Jul 03 17:30 : update: added mp3/A$AP Rocky - Goldie.mp3
+Jul 03 17:30 : update: added mp3/Boys Like Girls - The Great Escape.mp3
+Jul 03 17:30 : update: added mp3/A$AP Rocky - Fuckin' Problems.mp3
+Jul 03 17:30 : update: added mp3/Bad Meets Evil - Fast Lane.mp3
+Jul 03 17:30 : update: added mp3/ACDC - You Shook Me All Night Long.mp3
+Jul 03 17:30 : update: added mp3/Ana Tijoux - 1977.mp3
+Jul 03 17:30 : update: added mp3/A$AP Rocky - Lord Pretty Flacko Jodye 2 (LPFJ2).mp3
+Jul 03 17:30 : update: added mp3/Blind Melon - No Rain.mp3
+Jul 03 17:30 : update: added mp3/Big Sean - Beware.mp3
+Jul 03 17:30 : update: added mp3/Boy In Space - On A Prayer.mp3
+Jul 03 17:30 : update: added mp3/Bebe Rexha - Meant to Be (feat. Florida Georgia Line).mp3
+Jul 03 17:30 : update: added mp3/A.S.N. - Made For This.mp3
+Jul 03 17:30 : update: added mp3/Black Eyed Peas - Just Can’t Get Enough.mp3
+Jul 03 17:30 : update: added mp3/blink-182 - First Date (Album Version).mp3
+Jul 03 17:30 : update: added mp3/Breaking Benjamin - Until The End (Album Version).mp3
+Jul 03 17:30 : update: added mp3/Bassnectar - Vava Voom.mp3
+Jul 03 17:30 : update: added mp3/Boys Like Girls - Love Drunk.mp3
+Jul 03 17:30 : update: added mp3/Big Sean - What U Doin' (Explicit Version).mp3
+Jul 03 17:30 : update: added mp3/Bad Meets Evil - Lighters.mp3
+Jul 03 17:30 : update: added mp3/Billie Eilish - bad guy.mp3
+Jul 03 17:30 : update: added mp3/Anilyst - Triple Threat.mp3
+Jul 03 17:30 : update: added mp3/21 Savage - My Choppa Hate Niggas.mp3
+Jul 03 17:30 : update: added mp3/Auli'i Cravalho - How Far I'll Go.mp3
+Jul 03 17:30 : update: added mp3/A$AP Ferg - Plain Jane.mp3
+Jul 03 17:30 : update: added mp3/Bobby Brackins - 143.mp3
+Jul 03 17:30 : update: added mp3/ACDC - Back In Black.mp3
+Jul 03 17:30 : update: added mp3/Bonnie Tyler - Total Eclipse of the Heart.mp3
+Jul 03 17:30 : update: added mp3/Apathy - Drive It Like I Stole It.mp3
+Jul 03 17:30 : update: added mp3/Backstreet Boys - I Want It That Way.mp3
+Jul 03 17:30 : update: added mp3/A Change of Pace - Weekend Warriors.mp3
+Jul 03 17:30 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 03 17:30 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jul 03 17:30 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jul 03 17:30 : update: added mp3/Al Fatz - Came Down.mp3
+Jul 03 17:30 : update: added mp3/3OH!3 - DONTTRUSTME.mp3
+Jul 03 17:30 : update: added mp3/Breaking Benjamin - The Diary Of Jane.mp3
+Jul 03 17:30 : update: added mp3/Big Sean - Bezerk.mp3
+Jul 03 17:30 : client: [198] opened from 127.0.0.1:32976
+Jul 03 17:30 : client: [198] closed
+Jul 03 17:30 : client: [199] opened from 127.0.0.1:32980
+Jul 03 17:30 : client: [199] closed
+Jul 03 17:30 : update: updating /Andy Mineo - The Saints.flac
+Jul 03 17:30 : update: added mp3/Bullet for My Valentine - Hand Of Blood.mp3
+Jul 03 17:30 : update: added mp3/Bridgit Mendler - Top of the World.mp3
+Jul 03 17:30 : update: added mp3/BTS - 21st Century Girl.mp3
+Jul 03 17:30 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 03 17:30 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jul 03 17:30 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jul 03 17:30 : update: added mp3/Brevis & Drama B - I Can Flex.mp3
+Jul 03 17:31 : update: updating /Andy Mineo - The Saints.flac
+Jul 03 17:31 : update: added mp3/Bülow - Lines.mp3
+Jul 03 17:31 : update: added mp3/Bullet for My Valentine - Your Betrayal.mp3
+Jul 03 17:31 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 03 17:31 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jul 03 17:31 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jul 03 17:31 : update: added mp3/Bullet for My Valentine - Waking the Demon.mp3
+Jul 03 17:31 : update: added mp3/Bullet for My Valentine - Tears Don't Fall.mp3
+Jul 03 17:31 : update: added mp3/Bülow - Sweet Little Lies.mp3
+Jul 03 17:31 : update: added mp3/Cage The Elephant - Ain't No Rest for the Wicked.mp3
+Jul 03 17:31 : update: updating /Andy Mineo - The Saints.flac
+Jul 03 17:31 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 03 17:31 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jul 03 17:31 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jul 03 17:31 : update: added mp3/Cage The Elephant - Ready To Let Go.mp3
+Jul 03 17:31 : update: added mp3/Cage The Elephant - Come a Little Closer.mp3
+Jul 03 17:31 : update: added mp3/Cage The Elephant - Trouble.mp3
+Jul 03 17:31 : update: added mp3/Calvin Harris - Here 2 China.mp3
+Jul 03 17:34 : update: added /No Wyld - Odyssey.flac
+Jul 03 17:34 : update: added mp3/Deuce - Werk.mp3
+Jul 03 17:34 : update: added mp3/Childish Gambino - 3005.mp3
+Jul 03 17:34 : update: added mp3/Dillon Francis - All That.mp3
+Jul 03 17:34 : update: added mp3/Childish Gambino - Heartbeat.mp3
+Jul 03 17:34 : update: added mp3/Catherine Feeny - Mr Blue.mp3
+Jul 03 17:34 : update: added mp3/Deuce - Here I Come.mp3
+Jul 03 17:34 : update: added mp3/Chris Brown - Look At Me Now.mp3
+Jul 03 17:34 : update: added mp3/Childish Gambino - IV. Sweatpants.mp3
+Jul 03 17:34 : update: added mp3/Danny Brown - Dirty Laundry.mp3
+Jul 03 17:34 : update: added mp3/C.I.U - Put It On the Line.mp3
+Jul 03 17:34 : update: added mp3/Danny Brown - Dip.mp3
+Jul 03 17:34 : update: added mp3/Childish Gambino - Sober.mp3
+Jul 03 17:34 : update: added mp3/Childish Gambino - Bonfire.mp3
+Jul 03 17:34 : update: added mp3/Childish Gambino - Freaks And Geeks.mp3
+Jul 03 17:34 : update: added mp3/Danny Brown - Really Doe.mp3
+Jul 03 17:34 : update: added mp3/Chumbawamba - Tubthumping (Radio Edit).mp3
+Jul 03 17:34 : update: added mp3/Danny Brown - 3 Tearz.mp3
+Jul 03 17:34 : update: added mp3/Childish Gambino - Retro (Rough).mp3
+Jul 03 17:34 : update: added mp3/Deliri0us - Delirious Outta My Mind.mp3
+Jul 03 17:34 : update: added mp3/Crizzly - FRL feat. J. Goods and Rumuzik (Original Mix).mp3
+Jul 03 17:34 : update: added mp3/Clint Mansell - Lux Aeterna.mp3
+Jul 03 17:34 : update: added mp3/DeStorm Power feat. T-Coles - Victory Dance (Explicit).mp3
+Jul 03 17:34 : update: added mp3/Childish Gambino - This Is America.mp3
+Jul 03 17:34 : update: added mp3/Danny Brown - Ain't it Funny.mp3
+Jul 03 17:34 : update: added mp3/Cypress Hill - I Ain't Goin' Out Like That.mp3
+Jul 03 17:34 : update: added mp3/Ces Cru - Klick Clack Bang.mp3
+Jul 03 17:34 : update: added mp3/Diplo - CROWN.mp3
+Jul 03 17:34 : update: added mp3/Death Cab for Cutie - I Will Follow You into the Dark.mp3
+Jul 03 17:34 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 03 17:34 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jul 03 17:34 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jul 03 17:34 : update: added mp3/Danny Brown - Fresh Off the Boat Main Title Theme.mp3
+Jul 03 17:34 : update: added mp3/City Girls - Act Up.mp3
+Jul 03 17:34 : update: added mp3/Dawin - Dessert.mp3
+Jul 03 17:34 : update: updating /No Wyld - Odyssey.flac
+Jul 03 17:34 : update: added mp3/Dizzee Rascal - Heart Of A Warrior.mp3
+Jul 03 17:34 : update: added mp3/Disturbed - Stricken.mp3
+Jul 03 17:34 : update: added mp3/Dizzee Rascal - I Don't Need A Reason.mp3
+Jul 03 17:34 : update: added mp3/Dizzee Rascal - Money, Money.mp3
+Jul 03 17:34 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 03 17:34 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jul 03 17:34 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jul 03 17:34 : update: added mp3/Disturbed - Down with the Sickness.mp3
+Jul 03 17:34 : update: added mp3/DJ Felli Fel - Get Buck In Here.mp3
+Jul 03 17:34 : update: added mp3/Dirty Heads - My Sweet Summer.mp3
+Jul 03 17:35 : client: [200] opened from 127.0.0.1:33966
+Jul 03 17:35 : client: [200] closed
+Jul 03 17:35 : client: [201] opened from 127.0.0.1:33970
+Jul 03 17:35 : client: [201] closed
+Jul 03 17:36 : client: [202] opened from 127.0.0.1:33974
+Jul 03 17:36 : client: [202] closed
+Jul 03 17:36 : client: [203] opened from 127.0.0.1:33978
+Jul 03 17:36 : client: [203] closed
+Jul 03 17:36 : client: [192] closed
+Jul 03 17:36 : client: [204] opened from 127.0.0.1:33980
+Jul 03 17:36 : player: played "Lil Wayne - Watch My Shoes.flac"
+Jul 03 17:36 : client: [204] closed
+Jul 03 17:38 : client: [205] opened from 127.0.0.1:34050
+Jul 03 17:38 : client: [205] closed
+Jul 03 17:38 : client: [206] opened from 127.0.0.1:34056
+Jul 03 17:40 : client: [206] closed
+Jul 03 17:49 : client: [207] opened from 127.0.0.1:34422
+Jul 03 17:49 : client: [207] closed
+Jul 03 17:50 : client: [208] opened from 127.0.0.1:34440
+Jul 03 17:50 : player: played "Lil Wayne - Watch My Shoes.flac"
+Jul 03 17:50 : client: [208] closed
+Jul 03 23:38 : client: [209] opened from 127.0.0.1:35218
+Jul 03 23:38 : client: [209] closed
+Jul 03 23:38 : client: [210] opened from 127.0.0.1:35220
+Jul 03 23:38 : client: [210] closed
+Jul 03 23:39 : client: [211] opened from 127.0.0.1:35224
+Jul 03 23:39 : client: [212] opened from 127.0.0.1:35228
+Jul 03 23:39 : client: [212] closed
+Jul 03 23:39 : client: [213] opened from 127.0.0.1:35232
+Jul 03 23:39 : client: [213] closed
+Jul 03 23:39 : client: [211] closed
+Jul 03 23:39 : client: [214] opened from 127.0.0.1:35234
+Jul 03 23:39 : player: played "Lil Wayne - Watch My Shoes.flac"
+Jul 03 23:39 : client: [214] closed
+Jul 04 15:00 : client: [215] opened from 127.0.0.1:36126
+Jul 04 15:00 : client: [215] closed
+Jul 04 15:01 : client: [216] opened from 127.0.0.1:36136
+Jul 04 15:01 : client: [217] opened from 127.0.0.1:36140
+Jul 04 15:01 : client: [217] closed
+Jul 04 15:01 : client: [218] opened from 127.0.0.1:36144
+Jul 04 15:01 : client: [218] closed
+Jul 04 15:02 : client: [216] closed
+Jul 04 15:05 : player: played "Lil Wayne - Watch My Shoes.flac"
+Jul 04 15:07 : client: [219] opened from 127.0.0.1:36158
+Jul 04 15:07 : client: [220] opened from 127.0.0.1:36162
+Jul 04 15:07 : client: [220] closed
+Jul 04 15:07 : client: [221] opened from 127.0.0.1:36166
+Jul 04 15:07 : client: [221] closed
+Jul 04 15:07 : client: [222] opened from 127.0.0.1:36168
+Jul 04 15:07 : player: played "Waka Flocka Flame - Game On (feat. Good Charlotte).flac"
+Jul 04 15:07 : client: [222] closed
+Jul 04 15:07 : client: [223] opened from 127.0.0.1:36170
+Jul 04 15:07 : client: [223] closed
+Jul 04 15:07 : client: [224] opened from 127.0.0.1:36174
+Jul 04 15:07 : client: [224] closed
+Jul 04 15:07 : client: [225] opened from 127.0.0.1:36178
+Jul 04 15:07 : client: [225] closed
+Jul 04 15:07 : client: [219] closed
+Jul 04 15:07 : client: [226] opened from 127.0.0.1:36180
+Jul 04 15:07 : player: played "Lily Allen - Littlest Things.flac"
+Jul 04 15:07 : client: [226] closed
+Jul 05 10:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 05 10:21 : config: option 'device' on line 13 was not recognized
+Jul 05 10:21 : client: [0] opened from 127.0.0.1:43946
+Jul 05 10:21 : client: [1] opened from 127.0.0.1:43948
+Jul 05 10:21 : client: [0] closed
+Jul 09 13:17 : client: [1] closed
+Jul 09 13:17 : client: [2] opened from 127.0.0.1:53788
+Jul 09 13:24 : client: [2] closed
+Jul 09 13:24 : client: [3] opened from 127.0.0.1:53944
+Jul 09 13:25 : client: [3] closed
+Jul 09 13:25 : client: [4] opened from 127.0.0.1:53952
+Jul 09 13:25 : client: [4] closed
+Jul 09 13:25 : client: [5] opened from 127.0.0.1:53954
+Jul 09 13:36 : client: [5] closed
+Jul 09 13:36 : client: [6] opened from 127.0.0.1:54124
+Jul 09 13:36 : client: [6] closed
+Jul 09 13:36 : client: [7] opened from 127.0.0.1:54126
+Jul 09 13:37 : client: [7] closed
+Jul 09 13:37 : client: [8] opened from 127.0.0.1:54128
+Jul 09 13:41 : client: [8] closed
+Jul 09 13:41 : client: [9] opened from 127.0.0.1:54172
+Jul 09 13:42 : client: [9] closed
+Jul 09 13:42 : client: [10] opened from 127.0.0.1:54178
+Jul 09 13:46 : client: [11] opened from 127.0.0.1:54280
+Jul 09 13:46 : client: [11] closed
+Jul 09 13:46 : client: [12] opened from 127.0.0.1:54284
+Jul 09 13:46 : client: [12] closed
+Jul 09 13:53 : client: [10] closed
+Jul 09 13:53 : client: [13] opened from 127.0.0.1:54340
+Jul 09 13:54 : client: [13] closed
+Jul 09 13:54 : client: [14] opened from 127.0.0.1:54342
+Jul 09 13:54 : client: [14] closed
+Jul 09 13:54 : client: [15] opened from 127.0.0.1:54346
+Jul 09 13:56 : client: [15] closed
+Jul 09 13:56 : client: [16] opened from 127.0.0.1:54350
+Jul 09 13:58 : client: [16] closed
+Jul 09 13:58 : client: [17] opened from 127.0.0.1:54352
+Jul 09 13:59 : client: [17] closed
+Jul 09 13:59 : client: [18] opened from 127.0.0.1:54354
+Jul 09 14:47 : client: [19] opened from 127.0.0.1:54852
+Jul 09 14:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 09 14:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 09 14:47 : client: [20] opened from 127.0.0.1:54856
+Jul 09 14:47 : client: [20] closed
+Jul 09 14:47 : client: [21] opened from 127.0.0.1:54860
+Jul 09 14:47 : client: [21] closed
+Jul 09 14:47 : client: [19] closed
+Jul 09 14:47 : client: [22] opened from 127.0.0.1:54862
+Jul 09 14:47 : player: played "The Living Tombstone - My Ordinary Life.flac"
+Jul 09 14:47 : client: [22] closed
+Jul 09 16:26 : client: [18] closed
+Jul 09 16:26 : client: [23] opened from 127.0.0.1:55732

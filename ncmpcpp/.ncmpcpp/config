@@ -1,4 +1,6 @@
+ncmpcpp_directory = "~/.ncmpcpp"
 mpd_music_dir = "~/Music"
+lyrics_directory = "~/Music/lyrics"
 
 [header]
 header_visibility = "no"
@@ -31,3 +33,5 @@ centered_cursor = "yes"
 enable_window_title = "yes"
 external_editor = "vim"
 execute_on_song_change = ~/.ncmpcpp/./notify.sh
+
+visualizer_type = wave_filled

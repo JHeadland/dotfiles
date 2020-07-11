@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if [[ $(pidof mpd) ]]; then
+	termite --class=music -e ncmpcpp
+else
+	mpd
+	termite --class=music -e ncmpcpp
+fi

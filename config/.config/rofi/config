@@ -13,7 +13,7 @@ rofi.display-window: Window
 rofi.width:              35
 rofi.column:             1
 rofi.location:           0
-rofi.lines:              10
+rofi.lines:              15
 rofi.padding:            26
 rofi.sidebar-mode:       true
 rofi.fullscreen:         false
