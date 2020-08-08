@@ -1,24 +1,23 @@
-rofi.theme: /usr/share/rofi/themes/android_notification.rasi
+!!rofi.theme: /usr/share/rofi/themes/android_notification.rasi
+rofi.theme: /home/john/.config/rofi/fancy.rasi
 
 rofi.modi: drun,window,run
 rofi.bw: 1
 rofi.fixed-num-lines: true
-rofi.separator-style: none
+rofi.separator-style: solid
 rofi.show-icons: true
 rofi.hide-scrollbar: true
 
-rofi.display-drun: Run
-rofi.display-window: Window
-
-rofi.width:              35
-rofi.column:             1
-rofi.location:           0
-rofi.lines:              15
-rofi.padding:            26
-rofi.sidebar-mode:       true
-rofi.fullscreen:         false
-rofi.fake-transparency:  false
-rofi.color-enabled:      true
+rofi.width: 35
+rofi.column: 1
+rofi.location: 0
+rofi.lines: 10
+rofi.padding: 26
+rofi.sidebar-mode: true
+rofi.fullscreen: false
+rofi.fake-transparency: false
+rofi.color-enabled: true
+rofi.font: Cantarell 14
 
 !!                  bg             border          separator
 rofi.color-window:  argb:bb282a36, argb:bbbd93f9,  argb:bbbd93f9

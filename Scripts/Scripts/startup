@@ -1,8 +1,9 @@
 #!/bin/bash
 
+killall picom
 systemctl --user start feh-randombg.service
 systemctl --user start feh-randombg.timer
 systemctl --user start check-battery.service
 systemctl --user start check-battery.timer
-picom -b --no-fading-openclose
+picom -bCG --no-fading-openclose --experimental-backends --backend glx
 reloadDunst

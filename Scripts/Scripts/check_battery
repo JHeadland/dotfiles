@@ -4,5 +4,5 @@ printf 'script started' | systemd-cat -t check_battery #write to log when script
 BATTINFO=`acpi -b`
 if [[ `echo $BATTINFO | grep Discharging` && `echo $BATTINFO | cut -f 5 -d " "` < 00:30:00 ]] ; then
         printf 'condition is true' | systemd-cat -t check_battery #write to log if condition is true
-        DISPLAY=:0 notify-send -u low "Battery" "$BATTINFO"
+        DISPLAY=:0 notify-send -u critical "Battery" "$BATTINFO"
 fi

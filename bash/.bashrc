@@ -19,8 +19,10 @@ export HISTIGNORE="&:[ ]*:exit:ls:ranger:history:clear:school*"
 export HISTSIZE=1000000
 # Record each command to history as it gets issued
 export PROMPT_COMMAND='history -a'
+# Set window title to working directory/file/command
+export PROMPT_COMMAND="$PROMPT_COMMAND;echo -ne \"\033]0;\$(pwd) \007\""
 
-# Checks window size after each command to adjust line wrap 
+# Checks window size after each command to adjust line wrap
 shopt -s checkwinsize
 # Corrects spelling errors in arguments for cd
 shopt -s cdspell
@@ -46,7 +48,7 @@ export PATH="~/Scripts:$PATH"
 
 # Add bash aliases
 if [ -f ~/.bash_aliases ]; then
-	source ~/.bash_aliases
+    source ~/.bash_aliases
 fi
 
 #-------------------
@@ -87,43 +89,43 @@ mkcd() { mkdir -p "$@" && cd "$@"; }
 
 # cd directly to school course directory
 school() {
-	if [ -z "$1" ]; then
-		cd ~/School/UH/SU20
-	else
-		cd ~/School/UH/SU20/${1^^}
-	fi
+    if [ -z "$1" ]; then
+        cd ~/School/UH/FA20
+    else
+        cd ~/School/UH/FA20/${1^^}
+    fi
 }
 
 # Color man pages
 man() {
-	env \
-		LESS_TERMCAP_mb=$(printf "\e[1;31m") \
-		LESS_TERMCAP_md=$(printf "\e[1;31m") \
-		LESS_TERMCAP_me=$(printf "\e[0m") \
-		LESS_TERMCAP_se=$(printf "\e[0m") \
-		LESS_TERMCAP_so=$(printf "\e[1;44;33m") \
-		LESS_TERMCAP_ue=$(printf "\e[0m") \
-		LESS_TERMCAP_us=$(printf "\e[1;32m") \
-			man "$@"
+    env \
+        LESS_TERMCAP_mb=$(printf "\e[1;31m") \
+        LESS_TERMCAP_md=$(printf "\e[1;31m") \
+        LESS_TERMCAP_me=$(printf "\e[0m") \
+        LESS_TERMCAP_se=$(printf "\e[0m") \
+        LESS_TERMCAP_so=$(printf "\e[1;44;33m") \
+        LESS_TERMCAP_ue=$(printf "\e[0m") \
+        LESS_TERMCAP_us=$(printf "\e[1;32m") \
+            man "$@"
 }
 
 extract () {
-	if [ -f $1 ] ; then
-		case $1 in
-			*.tar.bz2)   tar xvjf $1    ;;
-			*.tar.gz)    tar xvzf $1    ;;
-			*.bz2)       bunzip2 $1     ;;
-			*.rar)       unrar x $1     ;;
-			*.gz)        gunzip $1      ;;
-			*.tar)       tar xvf $1     ;;
-			*.tbz2)      tar xvjf $1    ;;
-			*.tgz)       tar xvzf $1    ;;
-			*.zip)       unzip $1       ;;
-			*.Z)         uncompress $1  ;;
-			*.7z)        7z x $1        ;;
-			*)           echo "'$1'cannot be extracted via >extract<" ;;
-		esac
-	else
-		echo "'$1' is not a valid file!"
-	fi
+    if [ -f $1 ] ; then
+        case $1 in
+            *.tar.bz2)   tar xvjf $1    ;;
+            *.tar.gz)    tar xvzf $1    ;;
+            *.bz2)       bunzip2 $1     ;;
+            *.rar)       unrar x $1     ;;
+            *.gz)        gunzip $1      ;;
+            *.tar)       tar xvf $1     ;;
+            *.tbz2)      tar xvjf $1    ;;
+            *.tgz)       tar xvzf $1    ;;
+            *.zip)       unzip $1       ;;
+            *.Z)         uncompress $1  ;;
+            *.7z)        7z x $1        ;;
+            *)           echo "'$1'cannot be extracted via >extract<" ;;
+        esac
+    else
+        echo "'$1' is not a valid file!"
+    fi
 }
