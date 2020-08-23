@@ -96,7 +96,7 @@ school() {
     fi
 }
 
-# Color man pages
+# Colored man pages
 man() {
     env \
         LESS_TERMCAP_mb=$(printf "\e[1;31m") \

@@ -1015,3 +1015,40 @@ Jul 26 14:36 : exception: RTIOThread could not get realtime scheduling, continui
 Jul 26 14:36 : config: option 'device' on line 13 was not recognized
 Jul 26 14:36 : client: [0] opened from 127.0.0.1:46264
 Jul 26 14:39 : client: [0] closed
+Aug 21 14:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 14:11 : config: option 'device' on line 13 was not recognized
+Aug 21 14:11 : client: [0] opened from 127.0.0.1:46078
+Aug 21 14:11 : client: [0] closed
+Aug 23 13:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 13:19 : config: option 'device' on line 13 was not recognized
+Aug 23 13:19 : client: [0] opened from 127.0.0.1:53482
+Aug 23 13:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 13:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 13:20 : client: [0] closed
+Aug 23 13:23 : client: [1] opened from 127.0.0.1:53520
+Aug 23 13:25 : client: [1] closed
+Aug 23 13:25 : client: [2] opened from 127.0.0.1:53528
+Aug 23 13:25 : client: [3] opened from 127.0.0.1:53530
+Aug 23 13:25 : client: [4] opened from 127.0.0.1:53532
+Aug 23 13:25 : client: [4] closed
+Aug 23 13:25 : client: [5] opened from 127.0.0.1:53534
+Aug 23 13:25 : client: [5] closed
+Aug 23 13:25 : client: [2] closed
+Aug 23 13:25 : client: [6] opened from 127.0.0.1:53536
+Aug 23 13:25 : client: [3] closed
+Aug 23 13:25 : client: [7] opened from 127.0.0.1:53538
+Aug 23 13:25 : client: [7] closed
+Aug 23 13:25 : client: [6] closed
+Aug 23 13:25 : client: [8] opened from 127.0.0.1:53540
+Aug 23 13:26 : client: [9] opened from 127.0.0.1:53542
+Aug 23 13:26 : client: [9] closed
+Aug 23 13:26 : client: [10] opened from 127.0.0.1:53544
+Aug 23 13:26 : client: [10] closed
+Aug 23 13:26 : client: [11] opened from 127.0.0.1:53546
+Aug 23 13:26 : client: [11] closed
+Aug 23 13:26 : client: [8] closed
+Aug 23 13:26 : client: [12] opened from 127.0.0.1:53548
+Aug 23 13:26 : client: [12] closed
+Aug 23 13:26 : client: [13] opened from 127.0.0.1:53550
+Aug 23 13:26 : client: [13] closed
+Aug 23 13:26 : client: [14] opened from 127.0.0.1:53552

@@ -49,8 +49,8 @@ padding-right = 1
 module-margin = 1
 
 modules-left = arch i3
-modules-center = spotify mpd
-modules-right = battery pulseaudio xbacklight cpu temperature network date time
+modules-center = mpd
+modules-right = battery pulseaudio xbacklight wlan nordvpn date time
 
 tray-position = right
 
@@ -80,7 +80,7 @@ ws-icon-8 = 9;9
 pin-workspaces = false
 strip-wsnumbers = false
 enable-scroll = false
-enable-click = true
+enable-click = false
 
 label-focused = %icon%
 label-focused-foreground = #69f1eb
@@ -97,6 +97,37 @@ label-urgent-foreground = #ff0000
 label-urgent-underline = #a54242
 
 label-separator = " "
+
+;==========================================================;
+
+[module/mpd]
+type = internal/mpd
+
+host = 127.0.0.1
+port = 6600
+
+format-online = <icon-prev> <icon-stop> <toggle> <icon-next>  <label-song>
+
+icon-prev = 
+icon-stop = 
+icon-play = 
+icon-pause = 
+icon-next = 
+icon-random = 
+icon-repeat = 
+label-song-maxlen = 35
+label-song-ellipsis = true
+bar-progress-width = 35
+bar-progress-format = %{A4:mpdseek+2: A5:mpdseek-2:}%fill%%indicator%%empty%%{A A}
+bar-progress-indicator = |
+bar-progress-indicator-foreground = #ff
+bar-progress-indicator-font = 3
+bar-progress-fill = ─
+bar-progress-fill-foreground = #bb
+bar-progress-fill-font = 3
+bar-progress-empty = ─
+bar-progress-empty-font = 3
+bar-progress-empty-foreground = #44
 
 ;==========================================================;
 
@@ -192,7 +223,7 @@ format-warn-underline = #cc6666
 
 ;==========================================================;
 
-[module/network]
+[module/wlan]
 type = internal/network
 
 interface = wlan0
@@ -208,6 +239,16 @@ format-disconnected-underline = #cc6666
 
 ;label-connected = "%{A1:networkmanager_dmenu &:}直 %essid%%{A}"
 ;label-disconnected = "%{A1:networkmanager_dmenu &:}睊 Disconnected%{A}"
+
+;==========================================================;
+
+[module/nordvpn]
+type = custom/script
+
+exec = /home/john/Scripts/nordvpnstatus.sh
+interval = 5
+format-prefix = "﫸 "
+format-underline = #1793d0
 
 ;==========================================================;
 

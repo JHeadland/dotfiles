@@ -18,6 +18,7 @@ EOF
 remove_lewd() {
 	if [[ -d ~/Pictures/Wallpapers/lewdpapes ]]; then
 		mv ~/Pictures/Wallpapers/lewdpapes ~/Pictures
+        echo "The lewd wallpapers directory has been removed."
 	else
 		echo "The lewd wallpapers directory has already been removed!"
 	fi
@@ -26,6 +27,7 @@ remove_lewd() {
 add_lewd() {
 	if [[ -d ~/Pictures/lewdpapes ]]; then
 		mv ~/Pictures/lewdpapes ~/Pictures/Wallpapers
+        echo "The lewd wallpapers directory is now accessible."
 	else
 		echo "The lewd wallpapers directory is already accessible!"
 	fi

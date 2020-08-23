@@ -19,6 +19,7 @@ Plugin 'ctrlpvim/ctrlp.vim'
 
 Plugin 'Valloric/YouCompleteMe'
     let g:ycm_show_diagnostics_ui = 0 " For compatibility with syntastic
+    let g:ycm_global_ycm_extra_conf = '~/.vim/.ycm_extra_conf.py'
 
 "Plugin 'rdnetto/YCM-Generator'
 
