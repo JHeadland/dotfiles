@@ -183,6 +183,7 @@ format-discharging = <ramp-capacity> <label-discharging>
 format-discharging-underline = #1793d0
 ;format-discharging-foreground = #25faac
 format-full = <ramp-capacity> <label-full>
+format-full-underline = #f0c674
 format-charging = <animation-charging> <label-charging>
 format-charging-underline = #f0c674
 
@@ -227,7 +228,7 @@ format-warn-underline = #cc6666
 type = internal/network
 
 interface = wlan0
-interval = 5
+interval = 1
 
 label-connected = 直 %essid%
 label-connected-foreground = #25faac

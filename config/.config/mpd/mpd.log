@@ -1052,3 +1052,80 @@ Aug 23 13:26 : client: [12] closed
 Aug 23 13:26 : client: [13] opened from 127.0.0.1:53550
 Aug 23 13:26 : client: [13] closed
 Aug 23 13:26 : client: [14] opened from 127.0.0.1:53552
+Aug 23 13:29 : client: [15] opened from 127.0.0.1:53646
+Aug 23 13:29 : client: [16] opened from 127.0.0.1:53648
+Aug 23 13:29 : client: [16] closed
+Aug 23 13:29 : client: [17] opened from 127.0.0.1:53650
+Aug 23 13:29 : client: [17] closed
+Aug 23 13:29 : player: played "The Living Tombstone - My Ordinary Life.flac"
+Aug 23 13:29 : client: [18] opened from 127.0.0.1:53652
+Aug 23 13:29 : client: [18] closed
+Aug 23 13:29 : client: [19] opened from 127.0.0.1:53654
+Aug 23 13:29 : client: [19] closed
+Aug 23 13:29 : client: [20] opened from 127.0.0.1:53656
+Aug 23 13:29 : client: [20] closed
+Aug 23 13:29 : client: [21] opened from 127.0.0.1:53658
+Aug 23 13:29 : client: [21] closed
+Aug 23 13:29 : client: [22] opened from 127.0.0.1:53660
+Aug 23 13:29 : client: [22] closed
+Aug 23 13:29 : client: [23] opened from 127.0.0.1:53662
+Aug 23 13:29 : client: [23] closed
+Aug 23 13:29 : client: [15] closed
+Aug 23 13:29 : client: [24] opened from 127.0.0.1:53664
+Aug 23 13:29 : client: [24] closed
+Aug 23 13:29 : client: [25] opened from 127.0.0.1:53666
+Aug 23 13:29 : client: [25] closed
+Aug 23 13:30 : client: [26] opened from 127.0.0.1:53676
+Aug 23 13:30 : client: [26] closed
+Aug 23 13:30 : client: [27] opened from 127.0.0.1:53678
+Aug 23 13:30 : client: [27] closed
+Aug 23 13:32 : client: [28] opened from 127.0.0.1:53682
+Aug 23 13:32 : client: [29] opened from 127.0.0.1:53684
+Aug 23 13:32 : client: [29] closed
+Aug 23 13:32 : client: [30] opened from 127.0.0.1:53686
+Aug 23 13:32 : client: [30] closed
+Aug 23 13:33 : client: [31] opened from 127.0.0.1:53688
+Aug 23 13:33 : client: [31] closed
+Aug 23 13:33 : client: [32] opened from 127.0.0.1:53690
+Aug 23 13:33 : client: [32] closed
+Aug 23 13:33 : client: [28] closed
+Aug 23 13:37 : player: played "Lil Wayne - 6 Foot 7 Foot.flac"
+Aug 23 13:37 : client: [33] opened from 127.0.0.1:53770
+Aug 23 13:37 : client: [33] closed
+Aug 23 13:37 : client: [34] opened from 127.0.0.1:53772
+Aug 23 13:37 : client: [34] closed
+Aug 23 13:37 : client: [35] opened from 127.0.0.1:53774
+Aug 23 13:37 : client: [36] opened from 127.0.0.1:53776
+Aug 23 13:37 : client: [36] closed
+Aug 23 13:37 : client: [37] opened from 127.0.0.1:53778
+Aug 23 13:37 : client: [37] closed
+Aug 23 13:38 : client: [38] opened from 127.0.0.1:53780
+Aug 23 13:38 : client: [38] closed
+Aug 23 13:38 : client: [39] opened from 127.0.0.1:53782
+Aug 23 13:38 : client: [39] closed
+Aug 23 13:38 : client: [35] closed
+Aug 23 13:41 : client: [14] closed
+Aug 23 13:41 : client: [40] opened from 127.0.0.1:53822
+Aug 23 13:41 : player: played "KDA - POPSTARS.flac"
+Aug 23 13:41 : client: [40] closed
+Aug 23 13:41 : client: [41] opened from 127.0.0.1:53824
+Aug 23 13:41 : client: [41] closed
+Aug 23 13:41 : client: [42] opened from 127.0.0.1:53826
+Aug 23 13:41 : client: [42] closed
+Aug 23 13:41 : client: [43] opened from 127.0.0.1:53828
+Aug 23 13:42 : client: [43] closed
+Aug 23 13:42 : client: [44] opened from 127.0.0.1:53830
+Aug 23 13:43 : client: [45] opened from 127.0.0.1:53850
+Aug 23 13:43 : player: played "Lil Wayne - MegaMan.flac"
+Aug 23 13:43 : client: [45] closed
+Aug 23 13:43 : client: [46] opened from 127.0.0.1:53852
+Aug 23 13:43 : client: [46] closed
+Aug 23 13:43 : client: [47] opened from 127.0.0.1:53854
+Aug 23 13:43 : client: [47] closed
+Aug 23 13:43 : client: [48] opened from 127.0.0.1:53856
+Aug 23 13:43 : client: [44] closed
+Aug 23 13:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 13:43 : config: option 'device' on line 13 was not recognized
+Aug 23 13:43 : client: [0] opened from 127.0.0.1:53868
+Aug 23 13:43 : client: [0] closed
+Aug 23 13:43 : client: [1] opened from 127.0.0.1:53870

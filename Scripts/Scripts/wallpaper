@@ -34,13 +34,13 @@ add_lewd() {
 }
 
 set_wallpaper() {
-	if [[ -f ~/Pictures/Wallpapers/"$1" ]]; then
-		feh --bg-scale ~/Pictures/Wallpapers/"$1"
-	elif [[ -f ~/Pictures/Wallpapers/lewdpapes/"$1" ]]; then
-		feh --bg-scale ~/Pictures/Wallpapers/lewdpapes/"$1"
-	else
-		echo "File does not exist."
-	fi
+    if [[ -f ~/Pictures/Wallpapers/"$1" ]]; then
+        feh --bg-scale ~/Pictures/Wallpapers/"$1"
+    elif [[ -f ~/Pictures/Wallpapers/lewdpapes/"$1" ]]; then
+        feh --bg-scale ~/Pictures/Wallpapers/lewdpapes/"$1"
+    else
+        echo "File does not exist."
+    fi
 }
 
 # Catch command line options
@@ -61,6 +61,6 @@ case $1 in
 		add_lewd
 		;;
 	*)
-		set_wallpaper
+		set_wallpaper $1
 		;;
 esac

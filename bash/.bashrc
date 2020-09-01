@@ -92,7 +92,7 @@ school() {
     if [ -z "$1" ]; then
         cd ~/School/UH/FA20
     else
-        cd ~/School/UH/FA20/${1^^}
+        cd ~/School/UH/FA20/*${1^^}*
     fi
 }
 
