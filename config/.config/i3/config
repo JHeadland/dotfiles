@@ -37,8 +37,8 @@ bindsym $mod+Shift+q kill
 # Start dmenu (a program launcher)
 #bindsym $mod+d exec dmenu_run
 # Start rofi
-bindsym $mod+d exec --no-startup-id rofi -show drun
-bindsym $mod+Shift+d exec --no-startup-id rofi -show run
+#bindsym $mod+d exec --no-startup-id rofi -show drun
+bindsym $mod+d exec --no-startup-id ~/.config/rofi/launchers/launcher.sh
 
 # i3lock with background
 #bindsym $mod+Shift+x exec i3lock -i /home/john/Pictures/Wallpapers/arch1.png

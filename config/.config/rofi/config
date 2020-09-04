@@ -1,5 +1,4 @@
-!!rofi.theme: /usr/share/rofi/themes/android_notification.rasi
-rofi.theme: /home/john/.config/rofi/fancy.rasi
+rofi.theme: /usr/share/rofi/themes/android_notification.rasi
 
 rofi.modi: drun,window,run
 rofi.bw: 1
