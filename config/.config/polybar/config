@@ -106,7 +106,7 @@ type = internal/mpd
 host = 127.0.0.1
 port = 6600
 
-format-online = <icon-prev> <icon-stop> <toggle> <icon-next>  <label-song>
+format-online = <label-time> <icon-prev> <icon-stop> <toggle> <icon-next>  <label-song>
 
 icon-prev = 
 icon-stop = 
@@ -115,6 +115,7 @@ icon-pause = 
 icon-next = 
 icon-random = 
 icon-repeat = 
+label-time = %elapsed%/%total%
 label-song-maxlen = 35
 label-song-ellipsis = true
 bar-progress-width = 35

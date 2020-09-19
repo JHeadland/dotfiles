@@ -1129,3 +1129,467 @@ Aug 23 13:43 : config: option 'device' on line 13 was not recognized
 Aug 23 13:43 : client: [0] opened from 127.0.0.1:53868
 Aug 23 13:43 : client: [0] closed
 Aug 23 13:43 : client: [1] opened from 127.0.0.1:53870
+Sep 11 04:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 04:11 : config: option 'device' on line 13 was not recognized
+Sep 11 04:11 : client: [0] opened from 127.0.0.1:50506
+Sep 11 04:11 : client: [1] opened from 127.0.0.1:50518
+Sep 11 04:12 : update: added /KDA - THE BADDEST.flac
+Sep 11 04:12 : update: added mp3/Yogi - Burial (feat. Pusha T).mp3
+Sep 11 04:12 : update: added mp3/E-40 - Tell Me When to Go (feat. Keak da Sneak).mp3
+Sep 11 04:12 : update: added mp3/The White Tie Affair - You Look Better When I'm Drunk.mp3
+Sep 11 04:12 : update: added mp3/Mac Miller - My Team.mp3
+Sep 11 04:12 : update: added mp3/Imagine Dragons - Warriors.mp3
+Sep 11 04:12 : update: added mp3/Tech N9ne - The Beast (Album Version Explicit).mp3
+Sep 11 04:12 : update: added mp3/Falling In Reverse - Fashionably Late.mp3
+Sep 11 04:12 : update: added mp3/e-dubble - Janky.mp3
+Sep 11 04:12 : update: added mp3/Eminem - Rap God.mp3
+Sep 11 04:12 : update: added mp3/Louis Tomlinson - Back to You.mp3
+Sep 11 04:12 : update: added mp3/Green Day - American Idiot.mp3
+Sep 11 04:12 : update: added mp3/Fifth Harmony - All In My Head (Flex).mp3
+Sep 11 04:12 : update: added mp3/Imagine Dragons - Bad Liar.mp3
+Sep 11 04:12 : update: added mp3/T.I. - Go Get It.mp3
+Sep 11 04:12 : update: added mp3/Gucci Mane - Wake Up in the Sky.mp3
+Sep 11 04:12 : update: added mp3/Kelly Clarkson - Stronger (What Doesn't Kill You).mp3
+Sep 11 04:12 : update: added mp3/Grant Gustin - Runnin' Home to You.mp3
+Sep 11 04:12 : update: added mp3/Rittz - In My Zone.mp3
+Sep 11 04:12 : update: added mp3/Pettidee - Represent.mp3
+Sep 11 04:12 : update: added mp3/Six Reasons - Wobble.mp3
+Sep 11 04:12 : update: added mp3/Lil Wayne - Mahogany.mp3
+Sep 11 04:12 : update: added mp3/Knife Party - Internet Friends.mp3
+Sep 11 04:12 : update: added mp3/The Decemberists - Sons & Daughters.mp3
+Sep 11 04:12 : update: added mp3/Timeflies - Monsters.mp3
+Sep 11 04:12 : update: added mp3/Gym Class Heroes - Stereo Hearts (feat. Adam Levine).mp3
+Sep 11 04:12 : update: added mp3/Rich Boy - Drop Explicit Version.mp3
+Sep 11 04:12 : update: added mp3/Tyga - Get Loose.mp3
+Sep 11 04:12 : update: added mp3/Family Force 5 - Chainsaw (feat. Tedashii).mp3
+Sep 11 04:12 : update: added mp3/Pentakill - Thornmail.mp3
+Sep 11 04:12 : update: added mp3/updog - goodbye.mp3
+Sep 11 04:12 : update: added mp3/Sum 41 - The Hell Song (Album Version).mp3
+Sep 11 04:12 : update: added mp3/Harry Nilsson - Gotta Get Up (As heard in the Netflix series Russian Doll).mp3
+Sep 11 04:12 : update: added mp3/Kanye West - Monster.mp3
+Sep 11 04:12 : update: added mp3/Empire Cast - The Clap Back.mp3
+Sep 11 04:12 : update: added mp3/Party Favor - Shut It Down.mp3
+Sep 11 04:12 : update: added mp3/Jay-Z - Dirt off Your Shoulder - Lying From You.mp3
+Sep 11 04:12 : update: added mp3/Taylor Swift - Bad Blood.mp3
+Sep 11 04:12 : update: added mp3/Mac Miller - Smile Back.mp3
+Sep 11 04:12 : update: added mp3/Dr. Dre - I Need A Doctor.mp3
+Sep 11 04:12 : update: added mp3/Three Days Grace - Animal I Have Become.mp3
+Sep 11 04:12 : update: added mp3/Empire Cast - Get No Better (2.0).mp3
+Sep 11 04:12 : update: added mp3/Rise Against - Injection.mp3
+Sep 11 04:12 : update: added mp3/Kina - Can We Kiss Forever (feat. Adriana Proenza).mp3
+Sep 11 04:12 : update: added mp3/Yellow Claw - DJ Turn It Up.mp3
+Sep 11 04:12 : update: added mp3/Empire Cast - No Competition.mp3
+Sep 11 04:12 : update: added mp3/Lady Gaga - Paparazzi.mp3
+Sep 11 04:12 : update: added mp3/Logic - Flexicution.mp3
+Sep 11 04:12 : update: added mp3/Sage The Gemini - Gas Pedal (feat. IamSu).mp3
+Sep 11 04:12 : update: added mp3/Forensic - Cali Step.mp3
+Sep 11 04:12 : update: added mp3/Mac Miller - O.K. (feat. Tyler, The Creator) [Bonus Track].mp3
+Sep 11 04:12 : update: added mp3/Lil Wayne - MegaMan.mp3
+Sep 11 04:12 : update: added mp3/Linkin Park - New Divide.mp3
+Sep 11 04:12 : update: added mp3/Lil Wayne - Watch My Shoes.mp3
+Sep 11 04:12 : update: added mp3/Lil Wayne - A Milli.mp3
+Sep 11 04:12 : update: added mp3/The Raconteurs - Steady, as She Goes.mp3
+Sep 11 04:12 : update: added mp3/League of Legends - RISE.mp3
+Sep 11 04:12 : update: added mp3/G-Eazy - Me, Myself & I.mp3
+Sep 11 04:12 : update: added mp3/Set It Off - Wolf in Sheep's Clothing (feat. William Beckett).mp3
+Sep 11 04:12 : update: added mp3/The Lonely Island - Jack Sparrow (Album Version).mp3
+Sep 11 04:12 : update: added mp3/YG - Go Loko.mp3
+Sep 11 04:12 : update: added mp3/N.A.S.A. - Hide (Tropkillaz Remix) [feat. Childish Gambino & Aynzli Jones].mp3
+Sep 11 04:12 : update: added mp3/Modest Mouse - Float On.mp3
+Sep 11 04:12 : update: added mp3/Mac Miller - Donald Trump.mp3
+Sep 11 04:12 : update: added mp3/Page - I'm Still Fly feat. Drake (Dirty).mp3
+Sep 11 04:12 : update: added mp3/Jay-Z - Niggas In Paris.mp3
+Sep 11 04:12 : update: added mp3/Taking Back Sunday - A Decade Under The Influence.mp3
+Sep 11 04:12 : update: added mp3/Young Problemz - Boi!.mp3
+Sep 11 04:12 : update: added mp3/Travis Barker - Let's Go.mp3
+Sep 11 04:12 : update: added mp3/League of Legends - Get Jinxed.mp3
+Sep 11 04:12 : update: added mp3/Frankie Goes to Hollywood - Relax.mp3
+Sep 11 04:12 : update: added mp3/Sum 41 - Still Waiting (Album Version).mp3
+Sep 11 04:12 : update: added mp3/Splitbreed - Freakshow (feat. Varien) (Original Mix).mp3
+Sep 11 04:12 : update: added mp3/The Returners, King Magnetic, Reef The Lost Cauze, Crypt The Warchild & Planetary  - Ready for war.mp3
+Sep 11 04:12 : update: added mp3/French Montana - Snap Backs Tattoos.mp3
+Sep 11 04:12 : update: added mp3/Eminem - Without Me.mp3
+Sep 11 04:12 : update: added mp3/Fall Out Boy - The Phoenix.mp3
+Sep 11 04:12 : update: added mp3/Empire Cast - Snitch Bitch.mp3
+Sep 11 04:12 : update: added mp3/Tyga - Switch Lanes.mp3
+Sep 11 04:12 : update: added mp3/G-Eazy - Him & I.mp3
+Sep 11 04:12 : update: added mp3/Eminem - Sing For The Moment.mp3
+Sep 11 04:12 : update: added mp3/Mac Miller - Loitering.mp3
+Sep 11 04:12 : update: added mp3/Schoolboy Q - Los Awesome.mp3
+Sep 11 04:12 : update: added mp3/Matt Hoffman - Can't Take My Eyes off of You.mp3
+Sep 11 04:12 : update: added mp3/Oliver Tree - Hurt.mp3
+Sep 11 04:12 : update: added mp3/Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up).mp3
+Sep 11 04:12 : update: added mp3/Watsky - Talking to Myself.mp3
+Sep 11 04:12 : update: added mp3/DJ Shadow - Nobody Speak.mp3
+Sep 11 04:12 : update: added mp3/King Fantastic - Why Where What.mp3
+Sep 11 04:12 : update: added mp3/Sam Smith - How Do You Sleep.mp3
+Sep 11 04:12 : update: added mp3/Shinedown - Second Chance.mp3
+Sep 11 04:12 : update: added mp3/Dumbfoundead - Green.mp3
+Sep 11 04:12 : update: added mp3/Watsky - Whoa Whoa Whoa.mp3
+Sep 11 04:12 : update: added mp3/Fall Out Boy - Thnks fr th Mmrs.mp3
+Sep 11 04:12 : update: added mp3/Far East Movement - Like A G6.mp3
+Sep 11 04:12 : update: added mp3/Tyga - Ayy Macarena.mp3
+Sep 11 04:12 : update: added mp3/Sum 41 - In Too Deep.mp3
+Sep 11 04:12 : update: added mp3/Kingspade - Drunk in the Club.mp3
+Sep 11 04:12 : update: added mp3/Red Hot Chili Peppers - Snow (Hey Oh).mp3
+Sep 11 04:12 : update: added mp3/Trapt - Headstrong (Radio Version).mp3
+Sep 11 04:12 : update: added mp3/Lil Wayne - Best Rapper Alive.mp3
+Sep 11 04:12 : update: added mp3/Nelly Furtado - Promiscuous.mp3
+Sep 11 04:12 : update: added mp3/Jay-Z - Numb Encore.mp3
+Sep 11 04:12 : update: added mp3/MGK feat. Lord-J - Run This Town.mp3
+Sep 11 04:12 : update: added mp3/Luis Fonsi - Despacito.mp3
+Sep 11 04:12 : update: added mp3/Kidz In The Hall - Break It Down.mp3
+Sep 11 04:12 : update: added mp3/Rob Level - Friends and Enemies.mp3
+Sep 11 04:12 : update: added mp3/Hozier - Take Me to Church.mp3
+Sep 11 04:12 : update: added mp3/Lil Jon - Outta Your Mind.mp3
+Sep 11 04:12 : update: added mp3/Sum 41 - Some Say.mp3
+Sep 11 04:12 : update: added mp3/Travis Barker - Gimme Brain.mp3
+Sep 11 04:12 : update: added mp3/Starset - My Demons.mp3
+Sep 11 04:12 : update: added mp3/Ludacris - My Chick Bad.mp3
+Sep 11 04:12 : update: added mp3/Uss - This Is The Best.mp3
+Sep 11 04:12 : update: added mp3/Jimmy Eat World - The Middle.mp3
+Sep 11 04:12 : update: added mp3/Kottonmouth Kings - 4-2-0.mp3
+Sep 11 04:12 : update: added mp3/Just Blaze - Higher.mp3
+Sep 11 04:12 : update: added mp3/Rise Against - The Violence.mp3
+Sep 11 04:12 : update: added mp3/Imagine Dragons - Demons.mp3
+Sep 11 04:12 : update: added mp3/Incubus - Anna Molly.mp3
+Sep 11 04:12 : update: added mp3/Panic! At the Disco - Collar Full.mp3
+Sep 11 04:12 : update: added mp3/Post Malone - Take What You Want.mp3
+Sep 11 04:12 : update: added mp3/Oliver Tree - Fuck.mp3
+Sep 11 04:12 : update: added mp3/Young Thug - Liger.mp3
+Sep 11 04:12 : update: added mp3/Iyaz - Replay.mp3
+Sep 11 04:12 : update: added mp3/Tyga - Taste.mp3
+Sep 11 04:12 : update: added mp3/Yo Gotti - King Shit.mp3
+Sep 11 04:12 : update: added mp3/Imagine Dragons - Natural.mp3
+Sep 11 04:12 : update: added mp3/Logic - The Return.mp3
+Sep 11 04:12 : update: added mp3/Drake - Headlines.mp3
+Sep 11 04:12 : update: added mp3/Switchfoot - Gone.mp3
+Sep 11 04:12 : update: added mp3/Kelis - Bossy.mp3
+Sep 11 04:12 : update: added mp3/Maino - All The Above.mp3
+Sep 11 04:12 : update: added mp3/Rise Against - Prayer Of The Refugee.mp3
+Sep 11 04:12 : update: added mp3/Tyga - Rack City.mp3
+Sep 11 04:12 : update: added mp3/Donnis - Gone.mp3
+Sep 11 04:12 : update: added mp3/Waka Flocka Flame - Game On (feat. Good Charlotte).mp3
+Sep 11 04:12 : update: added mp3/Pac Div - Anti Freeze (Expilcit Version).mp3
+Sep 11 04:12 : update: added mp3/Jesse Novak - Get Dat Fetus Kill Dat Fetus.mp3
+Sep 11 04:12 : update: added mp3/Schoolboy Q - Collard Greens.mp3
+Sep 11 04:12 : update: added mp3/Empire Cast - What The DJ Says (feat. Jussie Smollett and Yazz).mp3
+Sep 11 04:12 : update: added mp3/Raptile - Go Faster.mp3
+Sep 11 04:12 : update: added mp3/Fetty Wap - Trap Queen.mp3
+Sep 11 04:12 : update: added mp3/Kanye West - Gold Digger.mp3
+Sep 11 04:12 : update: added mp3/Knox Hill - Creatures Lie Here.mp3
+Sep 11 04:12 : update: added mp3/Kendrick Lamar - Backseat Freestyle.mp3
+Sep 11 04:12 : update: added mp3/Fall Out Boy - Nobody Puts Baby In The Corner.mp3
+Sep 11 04:12 : update: added mp3/Red Hot Chili Peppers - By the Way.mp3
+Sep 11 04:12 : update: added mp3/Taking Back Sunday - Liar (It Takes One To Know One).mp3
+Sep 11 04:12 : update: added mp3/Promoting Sounds - Test Me.mp3
+Sep 11 04:12 : update: added mp3/Huey - Pop, Lock & Drop It (Remix Version).mp3
+Sep 11 04:12 : update: added mp3/Maroon 5 - She Will Be Loved.mp3
+Sep 11 04:12 : update: added mp3/Eminem - Lose Yourself.mp3
+Sep 11 04:12 : update: added mp3/DJ Thoro, Cassidy & Big Mike - On To The Next One (feat. Jag).mp3
+Sep 11 04:12 : update: added mp3/The 88 - At Least It Was Here (Community Main Title).mp3
+Sep 11 04:12 : update: added mp3/The Killers - Somebody Told Me.mp3
+Sep 11 04:12 : update: added mp3/Run The Jewels - Legend Has It.mp3
+Sep 11 04:12 : update: added mp3/League of Legends - Raise Up The Lights (2018 All-Star Event).mp3
+Sep 11 04:12 : update: added mp3/Huey Mack - Take It All Back.mp3
+Sep 11 04:12 : update: added mp3/Dwayne Johnson - You're Welcome.mp3
+Sep 11 04:12 : update: added mp3/Sleeping With Sirens - Alone (feat. MGK).mp3
+Sep 11 04:12 : update: added mp3/Fall Out Boy - Alone Together.mp3
+Sep 11 04:12 : update: added mp3/Eminem - Business.mp3
+Sep 11 04:12 : update: added mp3/Empire Cast - Money For Nothing (feat. Jussie Smollett and Yazz).mp3
+Sep 11 04:12 : update: added mp3/John Nonny - Se7en.mp3
+Sep 11 04:12 : update: added mp3/Rise Against - Under The Knife.mp3
+Sep 11 04:12 : update: added mp3/The Killers - Mr. Brightside.mp3
+Sep 11 04:12 : update: added mp3/Linkin Park - In the End.mp3
+Sep 11 04:12 : update: added mp3/Shaggy - It Wasn't Me.mp3
+Sep 11 04:12 : update: added mp3/The Darkness - I Believe in a Thing Called Love.mp3
+Sep 11 04:12 : update: added mp3/Eminem - Godzilla.mp3
+Sep 11 04:12 : update: added mp3/No Wyld - Odyssey.mp3
+Sep 11 04:12 : update: added mp3/KDA - POPSTARS.mp3
+Sep 11 04:12 : update: added mp3/Schoolboy Q - Man Of The Year.mp3
+Sep 11 04:12 : update: added mp3/True Damage - GIANTS.mp3
+Sep 11 04:12 : update: added mp3/Mac Miller - Knock Knock.mp3
+Sep 11 04:12 : update: added mp3/Imagine Dragons - Radioactive.mp3
+Sep 11 04:12 : update: added mp3/Run The Jewels - Panther Like a Panther (Miracle Mix) [feat. Trina].mp3
+Sep 11 04:12 : update: added mp3/Imagine Dragons - Believer.mp3
+Sep 11 04:12 : update: added mp3/Fall Out Boy - Miss Missing You.mp3
+Sep 11 04:12 : update: added mp3/Eminem - Go To Sleep.mp3
+Sep 11 04:12 : update: added mp3/Skillet - Monster.mp3
+Sep 11 04:12 : update: added mp3/Meg & Dia - Monster.mp3
+Sep 11 04:12 : update: added mp3/Everclear - Everything To Everyone.mp3
+Sep 11 04:12 : update: added mp3/Gorillaz - November Has Come.mp3
+Sep 11 04:12 : update: added mp3/Eminem - Stan.mp3
+Sep 11 04:12 : update: added mp3/Rihanna - Don't Stop The Music.mp3
+Sep 11 04:12 : update: added mp3/Travie McCoy - Keep on Keeping On (feat. Brendon Urie).mp3
+Sep 11 04:12 : update: added mp3/Eminem - 'Till I Collapse.mp3
+Sep 11 04:12 : update: added mp3/O.T. Genasis - Touchdown.mp3
+Sep 11 04:12 : update: added mp3/Empire Cast - Boom Boom Boom Boom.mp3
+Sep 11 04:12 : update: added mp3/Train - Hey, Soul Sister.mp3
+Sep 11 04:12 : update: added mp3/Taking Back Sunday - Cute Without The 'E' (Cut From The Team).mp3
+Sep 11 04:12 : update: added mp3/Slaughterhouse - Frat House.mp3
+Sep 11 04:12 : update: added mp3/Doughboyz Cashout - Mob Life.mp3
+Sep 11 04:12 : update: added mp3/New Politics - Harlem.mp3
+Sep 11 04:12 : update: added mp3/Panic! At the Disco - Nine in the Afternoon (Single Mix).mp3
+Sep 11 04:12 : update: added mp3/Rise Against - Ready To Fall.mp3
+Sep 11 04:12 : update: added mp3/Papa Roach - Scars.mp3
+Sep 11 04:12 : update: added mp3/DJ Khaled - We Takin' Over.mp3
+Sep 11 04:12 : update: added mp3/Andy Mineo - The Saints.mp3
+Sep 11 04:12 : update: added mp3/Jemaine Clement - Shiny.mp3
+Sep 11 04:12 : update: added mp3/Linkin Park - What I've Done.mp3
+Sep 11 04:12 : update: added mp3/Empire Cast - Keep It Movin' (feat. Serayah McNeill and Yazz).mp3
+Sep 11 04:12 : update: added mp3/Panic! At the Disco - Miss Jackson (feat. LOLO).mp3
+Sep 11 04:12 : update: added mp3/Kayden - Useless.mp3
+Sep 11 04:12 : update: added mp3/Empire Cast - Factz.mp3
+Sep 11 04:12 : update: added mp3/Juice Wrld - Bandit.mp3
+Sep 11 04:12 : update: added mp3/Linkin Park - Runaway.mp3
+Sep 11 04:12 : update: added mp3/Five for Fighting - Superman (It's Not Easy).mp3
+Sep 11 04:12 : update: added mp3/TRUSTcompany - Downfall.mp3
+Sep 11 04:12 : update: added mp3/Lil Nas X - Old Town Road (Remix).mp3
+Sep 11 04:12 : update: added mp3/Sonya Belousova - Toss A Coin To Your Witcher.mp3
+Sep 11 04:12 : update: added mp3/Empire Cast - Can't Truss 'Em (feat. Yazz).mp3
+Sep 11 04:12 : update: added mp3/Why Don't We - What Am I.mp3
+Sep 11 04:12 : update: added mp3/Shinedown - Enemies.mp3
+Sep 11 04:12 : update: added mp3/Vance Joy - Riptide.mp3
+Sep 11 04:12 : update: added mp3/Swollen Members - Bottom Line.mp3
+Sep 11 04:12 : update: added mp3/The Killers - Human.mp3
+Sep 11 04:12 : update: added mp3/Jibbs - King Kong.mp3
+Sep 11 04:12 : update: added mp3/Playa Circle & Lil Wayne - Duffle Bag Boy.mp3
+Sep 11 04:12 : update: added mp3/Lil Jon - Bend Ova.mp3
+Sep 11 04:12 : update: added mp3/Vampire Weekend - Step.mp3
+Sep 11 04:12 : update: added mp3/Hollywood Undead - Everywhere I Go.mp3
+Sep 11 04:12 : update: added mp3/Gorillaz - Feel Good Inc.mp3
+Sep 11 04:12 : update: added mp3/Lil Wayne - 6 Foot 7 Foot.mp3
+Sep 11 04:12 : update: added mp3/Twisted Insane - Twisted Insane.mp3
+Sep 11 04:12 : update: added mp3/Vampire Weekend - A-Punk.mp3
+Sep 11 04:12 : update: added mp3/Murs - Lookin' Fly (feat. will.i.am).mp3
+Sep 11 04:12 : update: added mp3/Gorillaz - Clint Eastwood.mp3
+Sep 11 04:12 : update: added mp3/Poppy - Lowlife.mp3
+Sep 11 04:12 : update: added mp3/Empire Cast - All Nite (Yo Gotti Remix).mp3
+Sep 11 04:12 : update: added mp3/Sean Kingston - Beautiful Girls.mp3
+Sep 11 04:12 : update: added mp3/The Proclaimers - I'm Gonna Be (500 Miles).mp3
+Sep 11 04:12 : update: added mp3/Owl City - Fireflies.mp3
+Sep 11 04:12 : update: added mp3/King Shark - The Anthem (Hulk Hogan).mp3
+Sep 11 04:12 : update: added mp3/League of Legends - Awaken.mp3
+Sep 11 04:12 : update: added mp3/Meghan Trainor - NO.mp3
+Sep 11 04:12 : update: added mp3/Lloyd Banks - Beamer, Benz, Or Bentley.mp3
+Sep 11 04:12 : update: added mp3/J. Cole - No Role Modelz.mp3
+Sep 11 04:12 : update: added mp3/YG - BIG BANK.mp3
+Sep 11 04:12 : update: added mp3/Lil Dicky - $ave Dat Money (feat. Fetty Wap & Rich Homie Quan).mp3
+Sep 11 04:12 : update: added mp3/Shaggy - Boombastic.mp3
+Sep 11 04:12 : update: added mp3/Lily Allen - Littlest Things.mp3
+Sep 11 04:12 : update: added mp3/Flobots - Handlebars.mp3
+Sep 11 04:12 : update: added mp3/X Ambassadors - Jungle.mp3
+Sep 11 04:12 : update: added mp3/The Fray - How to Save a Life.mp3
+Sep 11 04:12 : update: added mp3/New Boyz - You're a Jerk.mp3
+Sep 11 04:12 : update: added mp3/G-Eazy - Lady Killers (feat. Hoodie Allen).mp3
+Sep 11 04:12 : update: added mp3/Fifth Harmony - Worth It.mp3
+Sep 11 04:12 : update: added mp3/Kai Wachi - In My Blood feat. Uffy Lane Snyder (Original Mix).mp3
+Sep 11 04:12 : update: added mp3/Rise Against - The Good Left Undone.mp3
+Sep 11 04:12 : update: added mp3/Onyx - Slam.mp3
+Sep 11 04:12 : update: added mp3/Toto - Africa.mp3
+Sep 11 04:12 : update: added mp3/Kesha - TiK ToK.mp3
+Sep 11 04:12 : update: added mp3/Taylor Swift - Blank Space.mp3
+Sep 11 04:12 : update: added mp3/The Living Tombstone - My Ordinary Life.mp3
+Sep 11 04:12 : update: added mp3/Drake - Money In The Grave.mp3
+Sep 11 04:12 : update: added mp3/Linkin Park - Breaking the Habit.mp3
+Sep 11 04:12 : update: added mp3/Vo - Payback.mp3
+Sep 11 04:12 : update: added mp3/League of Legends - Phoenix.mp3
+Sep 11 04:12 : update: added mp3/Kendrick Lamar - Swimming Pools (Drank).mp3
+Sep 11 04:12 : update: added mp3/Hoodie Allen - No Interruption.mp3
+Sep 11 04:12 : update: added mp3/OneRepublic - Counting Stars.mp3
+Sep 11 04:12 : update: added mp3/Empire Cast - Crown.mp3
+Sep 11 04:12 : update: added mp3/Weezer - Buddy Holly.mp3
+Sep 11 04:12 : update: added mp3/Yung Wun - Tear It Up (Dirty).mp3
+Sep 11 04:12 : update: added mp3/The Red Jumpsuit Apparatus - Face Down.mp3
+Sep 11 04:12 : update: added mp3/Panic! At the Disco - But It's Better If You Do.mp3
+Sep 11 04:12 : update: added mp3/Taking Back Sunday - There's No 'I' In Team.mp3
+Sep 11 04:12 : update: added mp3/St. Vincent - Los Ageless.mp3
+Sep 11 04:12 : update: added mp3/Panic! At the Disco - High Hopes.mp3
+Sep 11 04:12 : update: added mp3/Imagine Dragons - Thunder.mp3
+Sep 11 04:12 : update: added mp3/There For Tomorrow - A Little Faster.mp3
+Sep 11 04:12 : update: added mp3/Linkin Park - Lying from You.mp3
+Sep 11 04:12 : update: added mp3/Mega Ran - O.P. (feat. Richie Branson & Storyville).mp3
+Sep 11 04:12 : update: added mp3/Rise Against - Worth Dying For.mp3
+Sep 11 04:12 : update: added mp3/Katy Perry - Harleys In Hawaii.mp3
+Sep 11 04:12 : update: added mp3/Katy Perry - E.T.mp3
+Sep 11 04:12 : update: added mp3/ZAYN - Dusk Till Dawn (Radio Edit).mp3
+Sep 11 04:12 : update: added mp3/Sum 41 - Over My Head (Better Off Dead) (Album Version).mp3
+Sep 11 04:12 : update: added mp3/Empire Cast - Drip Drop (feat. Yazz and Serayah McNeill).mp3
+Sep 11 04:12 : update: added mp3/The Struts - Could Have Been Me.mp3
+Sep 11 04:12 : update: added mp3/M.I.A. - Paper Planes.mp3
+Sep 11 04:12 : update: added mp3/Jason Mraz - Lucky.mp3
+Sep 11 04:12 : update: added mp3/Taking Back Sunday - MakeDamnSure.mp3
+Sep 11 04:12 : update: added mp3/Nicki Minaj - Chun-Li.mp3
+Sep 11 04:12 : update: added mp3/Skillet - Whispers in the Dark.mp3
+Sep 11 04:12 : update: added mp3/Ember Island - Umbrella.mp3
+Sep 11 04:12 : update: added mp3/P.L. - In the Zone.mp3
+Sep 11 04:12 : update: added mp3/Various Artists - Treat Me Like a Pirate (feat. Whatchyamacallit).mp3
+Sep 11 04:12 : update: added mp3/Major Look - No Hope City (Explicit).mp3
+Sep 11 04:12 : update: added mp3/Young Thug - The London (feat. J. Cole & Travis Scott).mp3
+Sep 11 04:12 : update: added mp3/Logic - Young Jesus.mp3
+Sep 11 04:12 : update: added mp3/Set It Off - Partners in Crime (feat. Ash Costello).mp3
+Sep 11 04:12 : update: added mp3/Machine Gun Kelly - Bad Things.mp3
+Sep 11 04:12 : update: added mp3/M.O.P. - Ante Up (Robbin Hoodz Theory).mp3
+Sep 11 04:12 : update: added mp3/Linkin Park - Somewhere I Belong.mp3
+Sep 11 04:12 : update: added mp3/The All-American Rejects - Move Along.mp3
+Sep 11 04:12 : update: added mp3/Kendrick Lamar - King Kunta.mp3
+Sep 11 04:12 : update: added mp3/Fetty Wap - 679 (feat. Remy Boyz).mp3
+Sep 11 04:12 : update: added mp3/Ol' Dirty Bastard - Shimmy Shimmy Ya.mp3
+Sep 11 04:12 : update: added mp3/The Offspring - The Kids Aren't Alright.mp3
+Sep 11 04:12 : update: added mp3/System of a Down - Chop Suey!.mp3
+Sep 11 04:12 : update: added mp3/Weezer - Island In The Sun.mp3
+Sep 11 04:12 : update: added mp3/New Found Glory - Kiss Me.mp3
+Sep 11 04:12 : update: added mp3/Gang Starr - Moment Of Truth.mp3
+Sep 11 04:12 : update: added mp3/Linkin Park - Bleed It Out.mp3
+Sep 11 04:12 : update: added mp3/Smash Mouth - All Star.mp3
+Sep 11 04:12 : update: added mp3/Eminem - Like Toy Soldiers.mp3
+Sep 11 04:12 : update: added mp3/Kovas - Wax on Wax Off.mp3
+Sep 11 04:12 : update: added mp3/Empire Cast - Dynasty.mp3
+Sep 11 04:12 : update: added mp3/Ini Kamoze - Here Comes the Hotstepper (Heartical Mix).mp3
+Sep 11 04:12 : update: added mp3/Maxence Cyrin - Where Is My Mind.mp3
+Sep 11 04:12 : update: added mp3/Tyga - Faded.mp3
+Sep 11 04:12 : update: added mp3/DMX - X Gon' Give It To Ya.mp3
+Sep 11 04:12 : update: added mp3/Ying Yang Twins - Get Low.mp3
+Sep 11 04:12 : update: added mp3/Knife Party - Bonfire.mp3
+Sep 11 04:12 : update: added mp3/Nicki Minaj - Good Form.mp3
+Sep 11 04:12 : update: added mp3/Spin Doctors - Two Princes.mp3
+Sep 11 04:12 : update: added mp3/Empire Cast - Whatever Makes You Happy (feat. Jennifer Hudson and Juicy J).mp3
+Sep 11 04:12 : update: added mp3/Ratatat - Seventeen Years.mp3
+Sep 11 04:12 : update: added mp3/Muse - Uprising.mp3
+Sep 11 04:12 : update: added mp3/Geto Boys - Damn It Feels Good to Be a Gangsta.mp3
+Sep 11 04:12 : update: added mp3/The Offspring - You're Gonna Go Far, Kid.mp3
+Sep 11 04:12 : update: added mp3/Sam Smith - Writing's On The Wall.mp3
+Sep 11 04:12 : update: added mp3/Senses Fail - Can't Be Saved.mp3
+Sep 11 04:12 : update: added mp3/Sub Urban - Cradles.mp3
+Sep 11 04:12 : update: added mp3/Flo Rida - GDFR (feat. Sage the Gemini & Lookas) (K Theory Remix).mp3
+Sep 11 04:12 : update: added mp3/Gorillaz - On Melancholy Hill.mp3
+Sep 11 04:12 : update: added mp3/The White Stripes - Seven Nation Army.mp3
+Sep 11 04:12 : update: added mp3/Savage - Swing.mp3
+Sep 11 04:12 : update: added mp3/Yellowcard - Ocean Avenue.mp3
+Sep 11 04:12 : update: added mp3/Linkin Park - Figure.09.mp3
+Sep 11 04:12 : update: added mp3/Papa Roach - Do Or Die.mp3
+Sep 11 04:12 : update: added mp3/Pentakill - Lightbringer.mp3
+Sep 11 04:12 : update: added mp3/Pusha T - Trouble On My Mind.mp3
+Sep 11 04:12 : update: added mp3/Kendrick Lamar - m.A.A.d city.mp3
+Sep 11 04:12 : update: added mp3/Panic! At the Disco - Camisado.mp3
+Sep 11 04:12 : update: added mp3/Papa Roach - Last Resort.mp3
+Sep 11 04:12 : update: added mp3/The Cardigans - Lovefool.mp3
+Sep 11 04:12 : update: added mp3/The Downtown Fiction - I Just Wanna Run.mp3
+Sep 11 04:12 : update: added mp3/Empire Cast - No Apologies (feat. Jussie Smollett, Yazz).mp3
+Sep 11 04:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 04:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 04:12 : client: [2] opened from 127.0.0.1:50738
+Sep 11 04:12 : client: [2] closed
+Sep 11 04:12 : client: [3] opened from 127.0.0.1:50742
+Sep 11 04:12 : client: [3] closed
+Sep 11 04:13 : client: [1] closed
+Sep 11 04:15 : client: [4] opened from 127.0.0.1:51988
+Sep 11 04:15 : client: [5] opened from 127.0.0.1:51992
+Sep 11 04:15 : client: [5] closed
+Sep 11 04:15 : client: [6] opened from 127.0.0.1:51996
+Sep 11 04:15 : client: [6] closed
+Sep 11 04:15 : client: [7] opened from 127.0.0.1:52070
+Sep 11 04:15 : player: played "KDA - THE BADDEST.flac"
+Sep 11 04:15 : client: [7] closed
+Sep 11 04:15 : client: [4] closed
+Sep 11 04:16 : client: [8] opened from 127.0.0.1:52750
+Sep 11 04:16 : client: [8] closed
+Sep 11 04:16 : client: [9] opened from 127.0.0.1:52792
+Sep 11 04:16 : player: played "KDA - THE BADDEST.flac"
+Sep 11 04:16 : client: [9] closed
+Sep 11 11:17 : client: [10] opened from 127.0.0.1:60514
+Sep 11 11:17 : client: [10] closed
+Sep 11 11:17 : client: [11] opened from 127.0.0.1:60660
+Sep 11 11:17 : player: played "KDA - THE BADDEST.flac"
+Sep 11 11:17 : client: [11] closed
+Sep 11 23:57 : client: [0] closed
+Sep 11 23:57 : client: [12] opened from 127.0.0.1:52524
+Sep 18 00:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 18 00:36 : config: option 'device' on line 13 was not recognized
+Sep 18 00:36 : client: [0] opened from 127.0.0.1:33762
+Sep 18 00:36 : client: [1] opened from 127.0.0.1:33764
+Sep 18 00:36 : client: [0] closed
+Sep 18 00:37 : client: [2] opened from 127.0.0.1:33768
+Sep 18 00:37 : client: [2] closed
+Sep 18 22:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 18 22:49 : config: option 'device' on line 13 was not recognized
+Sep 18 22:49 : client: [0] opened from 127.0.0.1:49006
+Sep 18 22:49 : client: [1] opened from 127.0.0.1:49012
+Sep 18 22:49 : update: added /The Cab - Angel With a Shotgun.mp3
+Sep 18 22:49 : update: added /Clean Bandit - Tick Tock (feat. 24kGoldn).flac
+Sep 18 22:49 : update: added mp3/KDA - THE BADDEST.mp3
+Sep 18 22:49 : update: added mp3/Clean Bandit - Tick Tock (feat. 24kGoldn).flac
+Sep 18 22:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 18 22:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 18 22:50 : client: [2] opened from 127.0.0.1:49090
+Sep 18 22:50 : client: [2] closed
+Sep 18 22:50 : client: [3] opened from 127.0.0.1:49092
+Sep 18 22:50 : client: [3] closed
+Sep 18 22:50 : client: [4] opened from 127.0.0.1:49114
+Sep 18 22:50 : client: [4] closed
+Sep 18 22:50 : client: [5] opened from 127.0.0.1:49116
+Sep 18 22:50 : client: [5] closed
+Sep 18 22:50 : client: [6] opened from 127.0.0.1:49134
+Sep 18 22:50 : client: [6] closed
+Sep 18 22:50 : client: [7] opened from 127.0.0.1:49136
+Sep 18 22:50 : client: [7] closed
+Sep 18 22:50 : client: [8] opened from 127.0.0.1:49258
+Sep 18 22:50 : client: [8] closed
+Sep 18 22:50 : client: [9] opened from 127.0.0.1:49260
+Sep 18 22:50 : client: [9] closed
+Sep 18 22:50 : client: [0] closed
+Sep 18 22:51 : client: [10] opened from 127.0.0.1:49470
+Sep 18 22:51 : client: [10] closed
+Sep 18 22:51 : client: [1] closed
+Sep 18 22:51 : client: [11] opened from 127.0.0.1:49556
+Sep 18 22:51 : client: [12] opened from 127.0.0.1:49566
+Sep 18 22:51 : client: [12] closed
+Sep 18 22:52 : client: [11] closed
+Sep 18 22:52 : client: [13] opened from 127.0.0.1:49616
+Sep 18 22:52 : client: [14] opened from 127.0.0.1:49630
+Sep 18 22:52 : client: [14] closed
+Sep 18 22:52 : client: [13] closed
+Sep 18 22:52 : client: [15] opened from 127.0.0.1:49688
+Sep 18 22:52 : client: [15] closed
+Sep 18 22:52 : client: [16] opened from 127.0.0.1:49814
+Sep 18 22:53 : client: [16] closed
+Sep 18 22:53 : client: [17] opened from 127.0.0.1:49984
+Sep 18 22:54 : client: [18] opened from 127.0.0.1:50348
+Sep 18 22:54 : client: [18] closed
+Sep 18 22:54 : client: [19] opened from 127.0.0.1:50366
+Sep 18 22:54 : client: [19] closed
+Sep 18 22:56 : client: [20] opened from 127.0.0.1:50792
+Sep 18 22:56 : client: [20] closed
+Sep 18 22:56 : client: [21] opened from 127.0.0.1:50814
+Sep 18 22:56 : client: [21] closed
+Sep 18 22:57 : client: [22] opened from 127.0.0.1:50984
+Sep 18 22:57 : client: [22] closed
+Sep 18 22:57 : client: [23] opened from 127.0.0.1:50994
+Sep 18 22:57 : player: played "KDA - THE BADDEST.flac"
+Sep 18 22:57 : client: [23] closed
+Sep 18 23:01 : client: [24] opened from 127.0.0.1:52082
+Sep 18 23:01 : update: updating /Lil Wayne - Watch My Shoes.flac
+Sep 18 23:01 : update: removing mp3/Clean Bandit - Tick Tock (feat. 24kGoldn).flac
+Sep 18 23:01 : update: updating mp3/Lil Wayne - Watch My Shoes.mp3
+Sep 18 23:01 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 18 23:01 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Sep 18 23:01 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Sep 18 23:02 : client: [25] opened from 127.0.0.1:52108
+Sep 18 23:02 : client: [25] closed
+Sep 18 23:02 : client: [26] opened from 127.0.0.1:52110
+Sep 18 23:02 : client: [26] closed
+Sep 18 23:02 : client: [24] closed
+Sep 18 23:02 : client: [27] opened from 127.0.0.1:52176
+Sep 18 23:02 : client: [27] closed
+Sep 18 23:02 : client: [28] opened from 127.0.0.1:52202
+Sep 18 23:02 : client: [28] closed
+Sep 18 23:02 : client: [29] opened from 127.0.0.1:52208
+Sep 18 23:02 : client: [29] closed
+Sep 18 23:03 : client: [30] opened from 127.0.0.1:52552
+Sep 18 23:03 : client: [30] closed
+Sep 18 23:04 : client: [31] opened from 127.0.0.1:52616
+Sep 18 23:04 : client: [31] closed
+Sep 18 23:04 : client: [17] closed
+Sep 18 23:04 : client: [32] opened from 127.0.0.1:52646
+Sep 18 23:04 : client: [33] opened from 127.0.0.1:52664
+Sep 18 23:04 : client: [33] closed

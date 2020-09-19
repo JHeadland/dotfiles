@@ -33,6 +33,9 @@ Plugin 'scrooloose/syntastic'
     let g:syntastic_check_on_wq = 0
     let g:syntastic_mode_map = {'passive_filetypes': ['tex']} " ignore latex
 
+Plugin 'majutsushi/tagbar'
+    nmap <C-t> :TagbarToggle<CR>
+
 Plugin 'sheerun/vim-polyglot'
 
 Plugin 'Raimondi/delimitMate'

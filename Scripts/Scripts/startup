@@ -6,4 +6,5 @@ systemctl --user start feh-randombg.timer
 systemctl --user start check-battery.service
 systemctl --user start check-battery.timer
 picom -bCG --no-fading-openclose --experimental-backends --backend glx
-reloadDunst
+pkill dunst
+dunst -config ~/.config/dunst/dunstrc &

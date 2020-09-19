@@ -1,8 +1,9 @@
 sw_volume: 98
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: stop
-current: 390
+state: play
+current: 1
+time: 4.162000
 random: 0
 repeat: 0
 single: 0
@@ -11,435 +12,438 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Lily Allen - Littlest Things.flac
+0:KDA - THE BADDEST.flac
 1:Lil Wayne - Watch My Shoes.flac
-2:Nelly Furtado - Promiscuous.flac
-3:System of a Down - Chop Suey!.flac
-4:Empire Cast - No Apologies (feat. Jussie Smollett, Yazz).flac
-5:ACDC - You Shook Me All Night Long.flac
-6:The White Stripes - Seven Nation Army.flac
-7:Empire Cast - Keep It Movin' (feat. Serayah McNeill and Yazz).flac
-8:Pettidee - Represent.flac
-9:Kanye West - Gold Digger.flac
-10:Kendrick Lamar - King Kunta.flac
-11:Pac Div - Anti Freeze (Expilcit Version).flac
-12:Gorillaz - Feel Good Inc.flac
-13:Nicki Minaj - Good Form.flac
-14:Bad Meets Evil - Lighters.flac
-15:Kesha - TiK ToK.flac
-16:ACDC - Back In Black.flac
-17:New Boyz - You're a Jerk.flac
-18:P.L. - In the Zone.flac
-19:DJ Felli Fel - Get Buck In Here.flac
-20:J. Cole - No Role Modelz.flac
-21:Logic - Young Jesus.flac
-22:Train - Hey, Soul Sister.flac
-23:T.I. - Go Get It.flac
-24:Death Cab for Cutie - I Will Follow You into the Dark.flac
-25:Eminem - Godzilla.flac
-26:Taking Back Sunday - A Decade Under The Influence.flac
-27:Set It Off - Partners in Crime (feat. Ash Costello).flac
-28:Bullet for My Valentine - Waking the Demon.flac
-29:Deuce - Here I Come.flac
-30:Billie Eilish - bad guy.flac
-31:Tech N9ne - The Beast (Album Version Explicit).flac
-32:updog - goodbye.flac
-33:OneRepublic - Counting Stars.flac
-34:Set It Off - Wolf in Sheep's Clothing (feat. William Beckett).flac
-35:Linkin Park - Lying from You.flac
-36:Family Force 5 - Chainsaw (feat. Tedashii).flac
-37:Tyga - Rack City.flac
-38:Boys Like Girls - The Great Escape.flac
-39:Slaughterhouse - Frat House.flac
-40:Breaking Benjamin - I Will Not Bow.flac
-41:Forensic - Cali Step.flac
-42:Oliver Tree - Hurt.flac
-43:Eminem - Lose Yourself.flac
-44:Yo Gotti - King Shit.flac
-45:A.S.N. - Made For This.flac
-46:Shinedown - Enemies.flac
-47:Vampire Weekend - A-Punk.flac
-48:Yung Wun - Tear It Up (Dirty).flac
-49:Rise Against - Ready To Fall.flac
-50:blink-182 - First Date (Album Version).flac
-51:Rise Against - Prayer Of The Refugee.flac
-52:M.I.A. - Paper Planes.flac
-53:Linkin Park - Figure.09.flac
-54:New Found Glory - Kiss Me.flac
-55:Panic! At the Disco - Nine in the Afternoon (Single Mix).flac
-56:League of Legends - Raise Up The Lights (2018 All-Star Event).flac
-57:Ini Kamoze - Here Comes the Hotstepper (Heartical Mix).flac
-58:Clint Mansell - Lux Aeterna.flac
-59:The Cardigans - Lovefool.flac
-60:Dawin - Dessert.flac
-61:Eminem - Like Toy Soldiers.flac
-62:Chumbawamba - Tubthumping (Radio Edit).flac
-63:Papa Roach - Do Or Die.flac
-64:Why Don't We - What Am I.flac
-65:Run The Jewels - Legend Has It.flac
-66:Falling In Reverse - Fashionably Late.flac
-67:Rise Against - Injection.flac
-68:Jemaine Clement - Shiny.flac
-69:Luis Fonsi - Despacito.flac
-70:Danny Brown - Dip.flac
-71:Kina - Can We Kiss Forever (feat. Adriana Proenza).flac
-72:Onyx - Slam.flac
-73:B.o.B - HeadBand (feat. 2 Chainz).flac
-74:Pusha T - Trouble On My Mind.flac
-75:Panic! At the Disco - But It's Better If You Do.flac
-76:Lil Wayne - Best Rapper Alive.flac
-77:Flo Rida - GDFR (feat. Sage the Gemini & Lookas) (K Theory Remix).flac
-78:Lil Dicky - $ave Dat Money (feat. Fetty Wap & Rich Homie Quan).flac
-79:Watsky - Talking to Myself.flac
-80:Rob Level - Friends and Enemies.flac
-81:St. Vincent - Los Ageless.flac
-82:Gorillaz - On Melancholy Hill.flac
-83:Kidz In The Hall - Break It Down.flac
-84:Jay-Z - Numb Encore.flac
-85:Childish Gambino - Sober.flac
-86:A$AP Rocky - Goldie.flac
-87:Jibbs - King Kong.flac
-88:Red Hot Chili Peppers - Snow (Hey Oh).flac
-89:Diplo - CROWN.flac
-90:Breaking Benjamin - Until The End (Album Version).flac
-91:Senses Fail - Can't Be Saved.flac
-92:Imagine Dragons - Natural.flac
-93:Schoolboy Q - Los Awesome.flac
-94:The Fray - How to Save a Life.flac
-95:Catherine Feeny - Mr Blue.flac
-96:Juice Wrld - Bandit.flac
-97:Watsky - Whoa Whoa Whoa.flac
-98:Ember Island - Umbrella.flac
-99:Starset - My Demons.flac
-100:Three Days Grace - Animal I Have Become.flac
-101:Alan Walker - Lily.flac
-102:Owl City - Fireflies.flac
-103:Disturbed - Stricken.flac
-104:TRUSTcompany - Downfall.flac
-105:O.T. Genasis - Touchdown.flac
-106:Rittz - In My Zone.flac
-107:Linkin Park - What I've Done.flac
-108:Fall Out Boy - Alone Together.flac
-109:Tyga - Get Loose.flac
-110:Sage The Gemini - Gas Pedal (feat. IamSu).flac
-111:Iyaz - Replay.flac
-112:No Wyld - Odyssey.flac
-113:Empire Cast - Can't Truss 'Em (feat. Yazz).flac
-114:A$AP Rocky - Fuckin' Problems.flac
-115:Sam Smith - How Do You Sleep.flac
-116:Panic! At the Disco - Miss Jackson (feat. LOLO).flac
-117:Just Blaze - Higher.flac
-118:Yellow Claw - DJ Turn It Up.flac
-119:John Nonny - Se7en.flac
-120:Katy Perry - Harleys In Hawaii.flac
-121:Splitbreed - Freakshow (feat. Varien) (Original Mix).flac
-122:Apathy - Drive It Like I Stole It.flac
-123:The Raconteurs - Steady, as She Goes.flac
-124:Panic! At the Disco - High Hopes.flac
-125:Rise Against - Under The Knife.flac
-126:Ying Yang Twins - Get Low.flac
-127:Panic! At the Disco - Camisado.flac
-128:Fetty Wap - Trap Queen.flac
-129:Machine Gun Kelly - Bad Things.flac
-130:Bülow - Lines.flac
-131:Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up).flac
-132:Kai Wachi - In My Blood feat. Uffy Lane Snyder (Original Mix).flac
-133:True Damage - GIANTS.flac
-134:King Fantastic - Why Where What.flac
-135:Rise Against - The Violence.flac
-136:DMX - X Gon' Give It To Ya.flac
-137:A$AP Rocky - Everyday.flac
-138:A$AP Rocky - Lord Pretty Flacko Jodye 2 (LPFJ2).flac
-139:Sum 41 - Some Say.flac
-140:Brevis & Drama B - I Can Flex.flac
-141:Sum 41 - Over My Head (Better Off Dead) (Album Version).flac
-142:Savage - Swing.flac
-143:Chris Brown - Look At Me Now.flac
-144:Shinedown - Second Chance.flac
-145:The Decemberists - Sons & Daughters.flac
-146:Jason Mraz - Lucky.flac
-147:Nicki Minaj - Chun-Li.flac
-148:C.I.U - Put It On the Line.flac
-149:YG - Go Loko.flac
-150:Tyga - Ayy Macarena.flac
-151:Page - I'm Still Fly feat. Drake (Dirty).flac
-152:Empire Cast - Crown.flac
-153:Kingspade - Drunk in the Club.flac
-154:Taking Back Sunday - MakeDamnSure.flac
-155:Lloyd Banks - Beamer, Benz, Or Bentley.flac
-156:League of Legends - Awaken.flac
-157:Jay-Z - Niggas In Paris.flac
-158:Imagine Dragons - Demons.flac
-159:DJ Shadow - Nobody Speak.flac
-160:Jimmy Eat World - The Middle.flac
-161:The Darkness - I Believe in a Thing Called Love.flac
-162:All Time Low - Umbrella.flac
-163:Young Thug - The London (feat. J. Cole & Travis Scott).flac
-164:Eminem - Stan.flac
-165:Red Hot Chili Peppers - By the Way.flac
-166:Eminem - 'Till I Collapse.flac
-167:Bad Meets Evil - Fast Lane.flac
-168:Dizzee Rascal - Heart Of A Warrior.flac
-169:King Shark - The Anthem (Hulk Hogan).flac
-170:Empire Cast - What The DJ Says (feat. Jussie Smollett and Yazz).flac
-171:Boy In Space - On A Prayer.flac
-172:Rise Against - Worth Dying For.flac
-173:Frankie Goes to Hollywood - Relax.flac
-174:Weezer - Buddy Holly.flac
-175:A$AP Ferg - Plain Jane.flac
-176:Lil Jon - Bend Ova.flac
-177:Maxence Cyrin - Where Is My Mind.flac
-178:Tyga - Faded.flac
-179:Eminem - Without Me.flac
-180:Major Look - No Hope City (Explicit).flac
-181:Breaking Benjamin - Never Again.flac
-182:Sean Kingston - Beautiful Girls.flac
-183:Calvin Harris - Here 2 China.flac
-184:Bridgit Mendler - Top of the World.flac
-185:Skillet - Monster.flac
-186:The Downtown Fiction - I Just Wanna Run.flac
-187:Uss - This Is The Best.flac
-188:Young Problemz - Boi!.flac
-189:Kelly Clarkson - Stronger (What Doesn't Kill You).flac
-190:Lil Nas X - Old Town Road (Remix).flac
-191:Danny Brown - Ain't it Funny.flac
-192:Huey Mack - Take It All Back.flac
-193:Boys Like Girls - Love Drunk.flac
-194:Everclear - Everything To Everyone.flac
-195:Hoodie Allen - No Interruption.flac
-196:Six Reasons - Wobble.flac
-197:Kendrick Lamar - m.A.A.d city.flac
-198:Vance Joy - Riptide.flac
-199:Linkin Park - Somewhere I Belong.flac
-200:Doughboyz Cashout - Mob Life.flac
-201:DJ Thoro, Cassidy & Big Mike - On To The Next One (feat. Jag).flac
-202:Sam Smith - Writing's On The Wall.flac
-203:Green Day - American Idiot.flac
-204:Childish Gambino - Heartbeat.flac
-205:Sub Urban - Cradles.flac
-206:Kottonmouth Kings - 4-2-0.flac
-207:Dizzee Rascal - Money, Money.flac
-208:Kendrick Lamar - Swimming Pools (Drank).flac
-209:The Struts - Could Have Been Me.flac
-210:Pentakill - Thornmail.flac
-211:B.o.B - Nothin' on You (feat. Bruno Mars).flac
-212:Dumbfoundead - Green.flac
-213:Toto - Africa.flac
-214:Linkin Park - Breaking the Habit.flac
-215:YG - BIG BANK.flac
-216:French Montana - Snap Backs Tattoos.flac
-217:Maino - All The Above.flac
-218:Rise Against - The Good Left Undone.flac
-219:The Living Tombstone - My Ordinary Life.flac
-220:Trapt - Headstrong (Radio Version).flac
-221:Knife Party - Internet Friends.flac
-222:Bullet for My Valentine - Hand Of Blood.flac
-223:Smash Mouth - All Star.flac
-224:Kendrick Lamar - Backseat Freestyle.flac
-225:Kanye West - Monster.flac
-226:Eminem - Go To Sleep.flac
-227:Logic - The Return.flac
-228:Imagine Dragons - Believer.flac
-229:Schoolboy Q - Man Of The Year.flac
-230:Far East Movement - Like A G6.flac
-231:Dr. Dre - I Need A Doctor.flac
-232:Lady Gaga - Paparazzi.flac
-233:Empire Cast - Dynasty.flac
-234:Gang Starr - Moment Of Truth.flac
-235:Big Sean - What U Doin' (Explicit Version).flac
-236:Auli'i Cravalho - How Far I'll Go.flac
-237:Fetty Wap - 679 (feat. Remy Boyz).flac
-238:Promoting Sounds - Test Me.flac
-239:The 88 - At Least It Was Here (Community Main Title).flac
-240:Ratatat - Seventeen Years.flac
-241:Oliver Tree - Fuck.flac
-242:The Killers - Mr. Brightside.flac
-243:Ana Tijoux - 1977.flac
-244:Sonya Belousova - Toss A Coin To Your Witcher.flac
-245:The Proclaimers - I'm Gonna Be (500 Miles).flac
-246:Donnis - Gone.flac
-247:Cage The Elephant - Trouble.flac
-248:Drake - Headlines.flac
-249:Linkin Park - In the End.flac
-250:Meghan Trainor - NO.flac
-251:Empire Cast - The Clap Back.flac
-252:Rich Boy - Drop Explicit Version.flac
-253:Sum 41 - Still Waiting (Album Version).flac
-254:Dirty Heads - My Sweet Summer.flac
-255:Black Eyed Peas - Just Can’t Get Enough.flac
-256:Cage The Elephant - Come a Little Closer.flac
-257:Cypress Hill - I Ain't Goin' Out Like That.flac
-258:A Change of Pace - Weekend Warriors.flac
-259:Flobots - Handlebars.flac
-260:G-Eazy - Me, Myself & I.flac
-261:Post Malone - Take What You Want.flac
-262:Yellowcard - Ocean Avenue.flac
-263:Sleeping With Sirens - Alone (feat. MGK).flac
-264:ZAYN - Dusk Till Dawn (Radio Edit).flac
-265:E-40 - Tell Me When to Go (feat. Keak da Sneak).flac
-266:Andy Mineo - The Saints.flac
-267:Drake - Money In The Grave.flac
-268:Imagine Dragons - Thunder.flac
-269:The White Tie Affair - You Look Better When I'm Drunk.flac
-270:There For Tomorrow - A Little Faster.flac
-271:Lil Jon - Outta Your Mind.flac
-272:Meg & Dia - Monster.flac
-273:Danny Brown - 3 Tearz.flac
-274:Fall Out Boy - The Phoenix.flac
-275:Taylor Swift - Bad Blood.flac
-276:Swollen Members - Bottom Line.flac
-277:Logic - Flexicution.flac
-278:Playa Circle & Lil Wayne - Duffle Bag Boy.flac
-279:Eminem - Rap God.flac
-280:Hollywood Undead - Everywhere I Go.flac
-281:Childish Gambino - Bonfire.flac
-282:e-dubble - Janky.flac
-283:Danny Brown - Really Doe.flac
-284:Yogi - Burial (feat. Pusha T).flac
-285:Bullet for My Valentine - Your Betrayal.flac
-286:Bassnectar - Vava Voom.flac
-287:Imagine Dragons - Radioactive.flac
-288:The Returners, King Magnetic, Reef The Lost Cauze, Crypt The Warchild & Planetary  - Ready for war.flac
-289:Empire Cast - Snitch Bitch.flac
-290:Bobby Brackins - 143.flac
-291:Taking Back Sunday - Cute Without The 'E' (Cut From The Team).flac
-292:Childish Gambino - Retro (Rough).flac
-293:Fall Out Boy - Miss Missing You.flac
-294:Vo - Payback.flac
-295:Various Artists - Treat Me Like a Pirate (feat. Whatchyamacallit).flac
-296:Fifth Harmony - All In My Head (Flex).flac
-297:Cage The Elephant - Ready To Let Go.flac
-298:Katy Perry - E.T.flac
-299:Linkin Park - Bleed It Out.flac
-300:Danny Brown - Dirty Laundry.flac
-301:Timeflies - Monsters.flac
-302:Eminem - Business.flac
-303:Sum 41 - In Too Deep.flac
-304:A$AP Rocky - Praise The Lord (Da Shine).flac
-305:Childish Gambino - 3005.flac
-306:Party Favor - Shut It Down.flac
-307:X Ambassadors - Jungle.flac
-308:MGK feat. Lord-J - Run This Town.flac
-309:City Girls - Act Up.flac
-310:Eminem - Sing For The Moment.flac
-311:Disturbed - Down with the Sickness.flac
-312:Kayden - Useless.flac
-313:Empire Cast - Whatever Makes You Happy (feat. Jennifer Hudson and Juicy J).flac
-314:Big Sean - Beware.flac
-315:Bülow - Sweet Little Lies.flac
-316:The All-American Rejects - Move Along.flac
-317:Muse - Uprising.flac
-318:Fifth Harmony - Worth It.flac
-319:Deliri0us - Delirious Outta My Mind.flac
-320:Waka Flocka Flame - Game On (feat. Good Charlotte).flac
-321:Twisted Insane - Twisted Insane.flac
-322:Crizzly - FRL feat. J. Goods and Rumuzik (Original Mix).flac
-323:Empire Cast - Money For Nothing (feat. Jussie Smollett and Yazz).flac
-324:Kovas - Wax on Wax Off.flac
-325:Weezer - Island In The Sun.flac
-326:Dizzee Rascal - I Don't Need A Reason.flac
-327:Linkin Park - New Divide.flac
-328:Empire Cast - All Nite (Yo Gotti Remix).flac
-329:Childish Gambino - This Is America.flac
-330:League of Legends - Get Jinxed.flac
-331:The Killers - Human.flac
-332:Travie McCoy - Keep on Keeping On (feat. Brendon Urie).flac
-333:N.A.S.A. - Hide (Tropkillaz Remix) [feat. Childish Gambino & Aynzli Jones].flac
-334:A Static Lullaby - Toxic.flac
-335:Childish Gambino - IV. Sweatpants.flac
-336:Hozier - Take Me to Church.flac
-337:Louis Tomlinson - Back to You.flac
-338:The Red Jumpsuit Apparatus - Face Down.flac
-339:Taking Back Sunday - Liar (It Takes One To Know One).flac
-340:Modest Mouse - Float On.flac
-341:Childish Gambino - Freaks And Geeks.flac
-342:G-Eazy - Him & I.flac
-343:Rihanna - Don't Stop The Music.flac
-344:Papa Roach - Last Resort.flac
-345:Mega Ran - O.P. (feat. Richie Branson & Storyville).flac
-346:Schoolboy Q - Collard Greens.flac
-347:Jesse Novak - Get Dat Fetus Kill Dat Fetus.flac
-348:Gorillaz - November Has Come.flac
-349:Murs - Lookin' Fly (feat. will.i.am).flac
-350:Five for Fighting - Superman (It's Not Easy).flac
-351:Empire Cast - No Competition.flac
-352:BTS - 21st Century Girl.flac
-353:Bullet for My Valentine - Tears Don't Fall.flac
-354:The Killers - Somebody Told Me.flac
-355:Papa Roach - Scars.flac
-356:Dillon Francis - All That.flac
-357:Fall Out Boy - Nobody Puts Baby In The Corner.flac
-358:Knife Party - Bonfire.flac
-359:Skillet - Whispers in the Dark.flac
-360:Big Sean - Bezerk.flac
-361:League of Legends - RISE.flac
-362:Ol' Dirty Bastard - Shimmy Shimmy Ya.flac
-363:Pentakill - Lightbringer.flac
-364:Tyga - Taste.flac
-365:Harry Nilsson - Gotta Get Up (As heard in the Netflix series Russian Doll).flac
-366:Fall Out Boy - Thnks fr th Mmrs.flac
-367:Ludacris - My Chick Bad.flac
-368:Linkin Park - Runaway.flac
-369:Empire Cast - Factz.flac
-370:Blind Melon - No Rain.flac
-371:New Politics - Harlem.flac
-372:Taking Back Sunday - There's No 'I' In Team.flac
-373:The Offspring - You're Gonna Go Far, Kid.flac
-374:Switchfoot - Gone.flac
-375:Imagine Dragons - Bad Liar.flac
-376:Deuce - Werk.flac
-377:Belief - Watchu Want.flac
-378:Geto Boys - Damn It Feels Good to Be a Gangsta.flac
-379:Knox Hill - Creatures Lie Here.flac
-380:Cage The Elephant - Ain't No Rest for the Wicked.flac
-381:G-Eazy - Lady Killers (feat. Hoodie Allen).flac
-382:Maroon 5 - She Will Be Loved.flac
-383:Huey - Pop, Lock & Drop It (Remix Version).flac
-384:Ces Cru - Klick Clack Bang.flac
-385:Kelis - Bossy.flac
-386:Vampire Weekend - Step.flac
-387:Imagine Dragons - Warriors.flac
-388:Lil Wayne - A Milli.flac
-389:KDA - POPSTARS.flac
-390:Lil Wayne - MegaMan.flac
-391:Poppy - Lowlife.flac
-392:Bebe Rexha - Meant to Be (feat. Florida Georgia Line).flac
-393:Young Thug - Liger.flac
-394:DJ Khaled - We Takin' Over.flac
-395:M.O.P. - Ante Up (Robbin Hoodz Theory).flac
-396:Incubus - Anna Molly.flac
-397:Danny Brown - Fresh Off the Boat Main Title Theme.flac
-398:Lil Wayne - Mahogany.flac
-399:League of Legends - Phoenix.flac
-400:Travis Barker - Gimme Brain.flac
-401:Gym Class Heroes - Stereo Hearts (feat. Adam Levine).flac
-402:The Lonely Island - Jack Sparrow (Album Version).flac
-403:Breaking Benjamin - The Diary Of Jane.flac
-404:Shaggy - It Wasn't Me.flac
-405:DeStorm Power feat. T-Coles - Victory Dance (Explicit).flac
-406:Shaggy - Boombastic.flac
-407:Anilyst - Triple Threat.flac
-408:Run The Jewels - Panther Like a Panther (Miracle Mix) [feat. Trina].flac
-409:Empire Cast - Boom Boom Boom Boom.flac
-410:Taylor Swift - Blank Space.flac
-411:Gorillaz - Clint Eastwood.flac
-412:Panic! At the Disco - Collar Full.flac
-413:Jay-Z - Dirt off Your Shoulder - Lying From You.flac
-414:Empire Cast - Drip Drop (feat. Yazz and Serayah McNeill).flac
-415:The Offspring - The Kids Aren't Alright.flac
-416:Raptile - Go Faster.flac
-417:Lil Wayne - 6 Foot 7 Foot.flac
-418:Matt Hoffman - Can't Take My Eyes off of You.flac
-419:Empire Cast - Get No Better (2.0).flac
-420:Tyga - Switch Lanes.flac
-421:Dwayne Johnson - You're Welcome.flac
-422:Bonnie Tyler - Total Eclipse of the Heart.flac
-423:Al Fatz - Came Down.flac
-424:B.o.B - Airplanes, Pt. II (feat. Eminem & Hayley Williams).flac
-425:Grant Gustin - Runnin' Home to You.flac
-426:Sum 41 - The Hell Song (Album Version).flac
-427:Spin Doctors - Two Princes.flac
-428:Gucci Mane - Wake Up in the Sky.flac
-429:Backstreet Boys - I Want It That Way.flac
-430:Travis Barker - Let's Go.flac
+2:The Cab - Angel With a Shotgun.mp3
+3:Lily Allen - Littlest Things.flac
+4:Nelly Furtado - Promiscuous.flac
+5:System of a Down - Chop Suey!.flac
+6:Empire Cast - No Apologies (feat. Jussie Smollett, Yazz).flac
+7:ACDC - You Shook Me All Night Long.flac
+8:The White Stripes - Seven Nation Army.flac
+9:Empire Cast - Keep It Movin' (feat. Serayah McNeill and Yazz).flac
+10:Pettidee - Represent.flac
+11:Kanye West - Gold Digger.flac
+12:Kendrick Lamar - King Kunta.flac
+13:Pac Div - Anti Freeze (Expilcit Version).flac
+14:Gorillaz - Feel Good Inc.flac
+15:Nicki Minaj - Good Form.flac
+16:Bad Meets Evil - Lighters.flac
+17:Kesha - TiK ToK.flac
+18:ACDC - Back In Black.flac
+19:New Boyz - You're a Jerk.flac
+20:P.L. - In the Zone.flac
+21:DJ Felli Fel - Get Buck In Here.flac
+22:J. Cole - No Role Modelz.flac
+23:Logic - Young Jesus.flac
+24:Train - Hey, Soul Sister.flac
+25:T.I. - Go Get It.flac
+26:Death Cab for Cutie - I Will Follow You into the Dark.flac
+27:Eminem - Godzilla.flac
+28:Taking Back Sunday - A Decade Under The Influence.flac
+29:Set It Off - Partners in Crime (feat. Ash Costello).flac
+30:Bullet for My Valentine - Waking the Demon.flac
+31:Deuce - Here I Come.flac
+32:Billie Eilish - bad guy.flac
+33:Tech N9ne - The Beast (Album Version Explicit).flac
+34:updog - goodbye.flac
+35:OneRepublic - Counting Stars.flac
+36:Set It Off - Wolf in Sheep's Clothing (feat. William Beckett).flac
+37:Linkin Park - Lying from You.flac
+38:Family Force 5 - Chainsaw (feat. Tedashii).flac
+39:Tyga - Rack City.flac
+40:Boys Like Girls - The Great Escape.flac
+41:Slaughterhouse - Frat House.flac
+42:Breaking Benjamin - I Will Not Bow.flac
+43:Forensic - Cali Step.flac
+44:Oliver Tree - Hurt.flac
+45:Eminem - Lose Yourself.flac
+46:Yo Gotti - King Shit.flac
+47:A.S.N. - Made For This.flac
+48:Shinedown - Enemies.flac
+49:Vampire Weekend - A-Punk.flac
+50:Yung Wun - Tear It Up (Dirty).flac
+51:Rise Against - Ready To Fall.flac
+52:blink-182 - First Date (Album Version).flac
+53:Rise Against - Prayer Of The Refugee.flac
+54:M.I.A. - Paper Planes.flac
+55:Linkin Park - Figure.09.flac
+56:New Found Glory - Kiss Me.flac
+57:Panic! At the Disco - Nine in the Afternoon (Single Mix).flac
+58:League of Legends - Raise Up The Lights (2018 All-Star Event).flac
+59:Ini Kamoze - Here Comes the Hotstepper (Heartical Mix).flac
+60:Clint Mansell - Lux Aeterna.flac
+61:The Cardigans - Lovefool.flac
+62:Dawin - Dessert.flac
+63:Eminem - Like Toy Soldiers.flac
+64:Chumbawamba - Tubthumping (Radio Edit).flac
+65:Papa Roach - Do Or Die.flac
+66:Why Don't We - What Am I.flac
+67:Run The Jewels - Legend Has It.flac
+68:Falling In Reverse - Fashionably Late.flac
+69:Rise Against - Injection.flac
+70:Jemaine Clement - Shiny.flac
+71:Luis Fonsi - Despacito.flac
+72:Danny Brown - Dip.flac
+73:Kina - Can We Kiss Forever (feat. Adriana Proenza).flac
+74:Onyx - Slam.flac
+75:B.o.B - HeadBand (feat. 2 Chainz).flac
+76:Pusha T - Trouble On My Mind.flac
+77:Panic! At the Disco - But It's Better If You Do.flac
+78:Lil Wayne - Best Rapper Alive.flac
+79:Flo Rida - GDFR (feat. Sage the Gemini & Lookas) (K Theory Remix).flac
+80:Lil Dicky - $ave Dat Money (feat. Fetty Wap & Rich Homie Quan).flac
+81:Watsky - Talking to Myself.flac
+82:Rob Level - Friends and Enemies.flac
+83:St. Vincent - Los Ageless.flac
+84:Gorillaz - On Melancholy Hill.flac
+85:Kidz In The Hall - Break It Down.flac
+86:Jay-Z - Numb Encore.flac
+87:Childish Gambino - Sober.flac
+88:A$AP Rocky - Goldie.flac
+89:Jibbs - King Kong.flac
+90:Red Hot Chili Peppers - Snow (Hey Oh).flac
+91:Diplo - CROWN.flac
+92:Breaking Benjamin - Until The End (Album Version).flac
+93:Senses Fail - Can't Be Saved.flac
+94:Imagine Dragons - Natural.flac
+95:Schoolboy Q - Los Awesome.flac
+96:The Fray - How to Save a Life.flac
+97:Catherine Feeny - Mr Blue.flac
+98:Juice Wrld - Bandit.flac
+99:Watsky - Whoa Whoa Whoa.flac
+100:Ember Island - Umbrella.flac
+101:Starset - My Demons.flac
+102:Three Days Grace - Animal I Have Become.flac
+103:Alan Walker - Lily.flac
+104:Owl City - Fireflies.flac
+105:Disturbed - Stricken.flac
+106:TRUSTcompany - Downfall.flac
+107:O.T. Genasis - Touchdown.flac
+108:Rittz - In My Zone.flac
+109:Linkin Park - What I've Done.flac
+110:Fall Out Boy - Alone Together.flac
+111:Tyga - Get Loose.flac
+112:Sage The Gemini - Gas Pedal (feat. IamSu).flac
+113:Iyaz - Replay.flac
+114:No Wyld - Odyssey.flac
+115:Empire Cast - Can't Truss 'Em (feat. Yazz).flac
+116:A$AP Rocky - Fuckin' Problems.flac
+117:Sam Smith - How Do You Sleep.flac
+118:Panic! At the Disco - Miss Jackson (feat. LOLO).flac
+119:Just Blaze - Higher.flac
+120:Yellow Claw - DJ Turn It Up.flac
+121:John Nonny - Se7en.flac
+122:Katy Perry - Harleys In Hawaii.flac
+123:Splitbreed - Freakshow (feat. Varien) (Original Mix).flac
+124:Apathy - Drive It Like I Stole It.flac
+125:The Raconteurs - Steady, as She Goes.flac
+126:Panic! At the Disco - High Hopes.flac
+127:Rise Against - Under The Knife.flac
+128:Ying Yang Twins - Get Low.flac
+129:Panic! At the Disco - Camisado.flac
+130:Fetty Wap - Trap Queen.flac
+131:Machine Gun Kelly - Bad Things.flac
+132:Bülow - Lines.flac
+133:Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up).flac
+134:Kai Wachi - In My Blood feat. Uffy Lane Snyder (Original Mix).flac
+135:True Damage - GIANTS.flac
+136:King Fantastic - Why Where What.flac
+137:Rise Against - The Violence.flac
+138:DMX - X Gon' Give It To Ya.flac
+139:A$AP Rocky - Everyday.flac
+140:A$AP Rocky - Lord Pretty Flacko Jodye 2 (LPFJ2).flac
+141:Sum 41 - Some Say.flac
+142:Brevis & Drama B - I Can Flex.flac
+143:Sum 41 - Over My Head (Better Off Dead) (Album Version).flac
+144:Savage - Swing.flac
+145:Chris Brown - Look At Me Now.flac
+146:Shinedown - Second Chance.flac
+147:The Decemberists - Sons & Daughters.flac
+148:Jason Mraz - Lucky.flac
+149:Nicki Minaj - Chun-Li.flac
+150:C.I.U - Put It On the Line.flac
+151:YG - Go Loko.flac
+152:Tyga - Ayy Macarena.flac
+153:Page - I'm Still Fly feat. Drake (Dirty).flac
+154:Empire Cast - Crown.flac
+155:Kingspade - Drunk in the Club.flac
+156:Taking Back Sunday - MakeDamnSure.flac
+157:Lloyd Banks - Beamer, Benz, Or Bentley.flac
+158:League of Legends - Awaken.flac
+159:Jay-Z - Niggas In Paris.flac
+160:Imagine Dragons - Demons.flac
+161:DJ Shadow - Nobody Speak.flac
+162:Jimmy Eat World - The Middle.flac
+163:The Darkness - I Believe in a Thing Called Love.flac
+164:All Time Low - Umbrella.flac
+165:Young Thug - The London (feat. J. Cole & Travis Scott).flac
+166:Eminem - Stan.flac
+167:Red Hot Chili Peppers - By the Way.flac
+168:Eminem - 'Till I Collapse.flac
+169:Bad Meets Evil - Fast Lane.flac
+170:Dizzee Rascal - Heart Of A Warrior.flac
+171:King Shark - The Anthem (Hulk Hogan).flac
+172:Empire Cast - What The DJ Says (feat. Jussie Smollett and Yazz).flac
+173:Boy In Space - On A Prayer.flac
+174:Rise Against - Worth Dying For.flac
+175:Frankie Goes to Hollywood - Relax.flac
+176:Weezer - Buddy Holly.flac
+177:A$AP Ferg - Plain Jane.flac
+178:Lil Jon - Bend Ova.flac
+179:Maxence Cyrin - Where Is My Mind.flac
+180:Tyga - Faded.flac
+181:Eminem - Without Me.flac
+182:Major Look - No Hope City (Explicit).flac
+183:Breaking Benjamin - Never Again.flac
+184:Sean Kingston - Beautiful Girls.flac
+185:Calvin Harris - Here 2 China.flac
+186:Bridgit Mendler - Top of the World.flac
+187:Skillet - Monster.flac
+188:The Downtown Fiction - I Just Wanna Run.flac
+189:Uss - This Is The Best.flac
+190:Young Problemz - Boi!.flac
+191:Kelly Clarkson - Stronger (What Doesn't Kill You).flac
+192:Lil Nas X - Old Town Road (Remix).flac
+193:Danny Brown - Ain't it Funny.flac
+194:Huey Mack - Take It All Back.flac
+195:Boys Like Girls - Love Drunk.flac
+196:Everclear - Everything To Everyone.flac
+197:Hoodie Allen - No Interruption.flac
+198:Six Reasons - Wobble.flac
+199:Kendrick Lamar - m.A.A.d city.flac
+200:Vance Joy - Riptide.flac
+201:Linkin Park - Somewhere I Belong.flac
+202:Doughboyz Cashout - Mob Life.flac
+203:DJ Thoro, Cassidy & Big Mike - On To The Next One (feat. Jag).flac
+204:Sam Smith - Writing's On The Wall.flac
+205:Green Day - American Idiot.flac
+206:Childish Gambino - Heartbeat.flac
+207:Sub Urban - Cradles.flac
+208:Kottonmouth Kings - 4-2-0.flac
+209:Dizzee Rascal - Money, Money.flac
+210:Kendrick Lamar - Swimming Pools (Drank).flac
+211:The Struts - Could Have Been Me.flac
+212:Pentakill - Thornmail.flac
+213:B.o.B - Nothin' on You (feat. Bruno Mars).flac
+214:Dumbfoundead - Green.flac
+215:Toto - Africa.flac
+216:Linkin Park - Breaking the Habit.flac
+217:YG - BIG BANK.flac
+218:French Montana - Snap Backs Tattoos.flac
+219:Maino - All The Above.flac
+220:Rise Against - The Good Left Undone.flac
+221:The Living Tombstone - My Ordinary Life.flac
+222:Trapt - Headstrong (Radio Version).flac
+223:Knife Party - Internet Friends.flac
+224:Bullet for My Valentine - Hand Of Blood.flac
+225:Smash Mouth - All Star.flac
+226:Kendrick Lamar - Backseat Freestyle.flac
+227:Kanye West - Monster.flac
+228:Eminem - Go To Sleep.flac
+229:Logic - The Return.flac
+230:Imagine Dragons - Believer.flac
+231:Schoolboy Q - Man Of The Year.flac
+232:Far East Movement - Like A G6.flac
+233:Dr. Dre - I Need A Doctor.flac
+234:Lady Gaga - Paparazzi.flac
+235:Empire Cast - Dynasty.flac
+236:Gang Starr - Moment Of Truth.flac
+237:Big Sean - What U Doin' (Explicit Version).flac
+238:Auli'i Cravalho - How Far I'll Go.flac
+239:Fetty Wap - 679 (feat. Remy Boyz).flac
+240:Promoting Sounds - Test Me.flac
+241:The 88 - At Least It Was Here (Community Main Title).flac
+242:Ratatat - Seventeen Years.flac
+243:Oliver Tree - Fuck.flac
+244:The Killers - Mr. Brightside.flac
+245:Ana Tijoux - 1977.flac
+246:Sonya Belousova - Toss A Coin To Your Witcher.flac
+247:The Proclaimers - I'm Gonna Be (500 Miles).flac
+248:Donnis - Gone.flac
+249:Cage The Elephant - Trouble.flac
+250:Drake - Headlines.flac
+251:Linkin Park - In the End.flac
+252:Meghan Trainor - NO.flac
+253:Empire Cast - The Clap Back.flac
+254:Rich Boy - Drop Explicit Version.flac
+255:Sum 41 - Still Waiting (Album Version).flac
+256:Dirty Heads - My Sweet Summer.flac
+257:Black Eyed Peas - Just Can’t Get Enough.flac
+258:Cage The Elephant - Come a Little Closer.flac
+259:Cypress Hill - I Ain't Goin' Out Like That.flac
+260:A Change of Pace - Weekend Warriors.flac
+261:Flobots - Handlebars.flac
+262:G-Eazy - Me, Myself & I.flac
+263:Post Malone - Take What You Want.flac
+264:Yellowcard - Ocean Avenue.flac
+265:Sleeping With Sirens - Alone (feat. MGK).flac
+266:ZAYN - Dusk Till Dawn (Radio Edit).flac
+267:E-40 - Tell Me When to Go (feat. Keak da Sneak).flac
+268:Andy Mineo - The Saints.flac
+269:Drake - Money In The Grave.flac
+270:Imagine Dragons - Thunder.flac
+271:The White Tie Affair - You Look Better When I'm Drunk.flac
+272:There For Tomorrow - A Little Faster.flac
+273:Lil Jon - Outta Your Mind.flac
+274:Meg & Dia - Monster.flac
+275:Danny Brown - 3 Tearz.flac
+276:Fall Out Boy - The Phoenix.flac
+277:Taylor Swift - Bad Blood.flac
+278:Swollen Members - Bottom Line.flac
+279:Logic - Flexicution.flac
+280:Playa Circle & Lil Wayne - Duffle Bag Boy.flac
+281:Eminem - Rap God.flac
+282:Hollywood Undead - Everywhere I Go.flac
+283:Childish Gambino - Bonfire.flac
+284:e-dubble - Janky.flac
+285:Danny Brown - Really Doe.flac
+286:Yogi - Burial (feat. Pusha T).flac
+287:Bullet for My Valentine - Your Betrayal.flac
+288:Bassnectar - Vava Voom.flac
+289:Imagine Dragons - Radioactive.flac
+290:The Returners, King Magnetic, Reef The Lost Cauze, Crypt The Warchild & Planetary  - Ready for war.flac
+291:Empire Cast - Snitch Bitch.flac
+292:Bobby Brackins - 143.flac
+293:Taking Back Sunday - Cute Without The 'E' (Cut From The Team).flac
+294:Childish Gambino - Retro (Rough).flac
+295:Fall Out Boy - Miss Missing You.flac
+296:Vo - Payback.flac
+297:Various Artists - Treat Me Like a Pirate (feat. Whatchyamacallit).flac
+298:Fifth Harmony - All In My Head (Flex).flac
+299:Cage The Elephant - Ready To Let Go.flac
+300:Katy Perry - E.T.flac
+301:Linkin Park - Bleed It Out.flac
+302:Danny Brown - Dirty Laundry.flac
+303:Timeflies - Monsters.flac
+304:Eminem - Business.flac
+305:Sum 41 - In Too Deep.flac
+306:A$AP Rocky - Praise The Lord (Da Shine).flac
+307:Childish Gambino - 3005.flac
+308:Party Favor - Shut It Down.flac
+309:X Ambassadors - Jungle.flac
+310:MGK feat. Lord-J - Run This Town.flac
+311:City Girls - Act Up.flac
+312:Eminem - Sing For The Moment.flac
+313:Disturbed - Down with the Sickness.flac
+314:Kayden - Useless.flac
+315:Empire Cast - Whatever Makes You Happy (feat. Jennifer Hudson and Juicy J).flac
+316:Big Sean - Beware.flac
+317:Bülow - Sweet Little Lies.flac
+318:The All-American Rejects - Move Along.flac
+319:Muse - Uprising.flac
+320:Fifth Harmony - Worth It.flac
+321:Deliri0us - Delirious Outta My Mind.flac
+322:Waka Flocka Flame - Game On (feat. Good Charlotte).flac
+323:Twisted Insane - Twisted Insane.flac
+324:Crizzly - FRL feat. J. Goods and Rumuzik (Original Mix).flac
+325:Empire Cast - Money For Nothing (feat. Jussie Smollett and Yazz).flac
+326:Kovas - Wax on Wax Off.flac
+327:Weezer - Island In The Sun.flac
+328:Dizzee Rascal - I Don't Need A Reason.flac
+329:Linkin Park - New Divide.flac
+330:Empire Cast - All Nite (Yo Gotti Remix).flac
+331:Childish Gambino - This Is America.flac
+332:League of Legends - Get Jinxed.flac
+333:The Killers - Human.flac
+334:Travie McCoy - Keep on Keeping On (feat. Brendon Urie).flac
+335:N.A.S.A. - Hide (Tropkillaz Remix) [feat. Childish Gambino & Aynzli Jones].flac
+336:A Static Lullaby - Toxic.flac
+337:Childish Gambino - IV. Sweatpants.flac
+338:Hozier - Take Me to Church.flac
+339:Louis Tomlinson - Back to You.flac
+340:The Red Jumpsuit Apparatus - Face Down.flac
+341:Taking Back Sunday - Liar (It Takes One To Know One).flac
+342:Modest Mouse - Float On.flac
+343:Childish Gambino - Freaks And Geeks.flac
+344:G-Eazy - Him & I.flac
+345:Rihanna - Don't Stop The Music.flac
+346:Papa Roach - Last Resort.flac
+347:Mega Ran - O.P. (feat. Richie Branson & Storyville).flac
+348:Schoolboy Q - Collard Greens.flac
+349:Jesse Novak - Get Dat Fetus Kill Dat Fetus.flac
+350:Gorillaz - November Has Come.flac
+351:Murs - Lookin' Fly (feat. will.i.am).flac
+352:Five for Fighting - Superman (It's Not Easy).flac
+353:Empire Cast - No Competition.flac
+354:BTS - 21st Century Girl.flac
+355:Bullet for My Valentine - Tears Don't Fall.flac
+356:The Killers - Somebody Told Me.flac
+357:Papa Roach - Scars.flac
+358:Dillon Francis - All That.flac
+359:Fall Out Boy - Nobody Puts Baby In The Corner.flac
+360:Knife Party - Bonfire.flac
+361:Skillet - Whispers in the Dark.flac
+362:Big Sean - Bezerk.flac
+363:League of Legends - RISE.flac
+364:Ol' Dirty Bastard - Shimmy Shimmy Ya.flac
+365:Pentakill - Lightbringer.flac
+366:Tyga - Taste.flac
+367:Harry Nilsson - Gotta Get Up (As heard in the Netflix series Russian Doll).flac
+368:Fall Out Boy - Thnks fr th Mmrs.flac
+369:Ludacris - My Chick Bad.flac
+370:Linkin Park - Runaway.flac
+371:Empire Cast - Factz.flac
+372:Blind Melon - No Rain.flac
+373:New Politics - Harlem.flac
+374:Taking Back Sunday - There's No 'I' In Team.flac
+375:The Offspring - You're Gonna Go Far, Kid.flac
+376:Switchfoot - Gone.flac
+377:Imagine Dragons - Bad Liar.flac
+378:Deuce - Werk.flac
+379:Belief - Watchu Want.flac
+380:Geto Boys - Damn It Feels Good to Be a Gangsta.flac
+381:Knox Hill - Creatures Lie Here.flac
+382:Cage The Elephant - Ain't No Rest for the Wicked.flac
+383:G-Eazy - Lady Killers (feat. Hoodie Allen).flac
+384:Maroon 5 - She Will Be Loved.flac
+385:Huey - Pop, Lock & Drop It (Remix Version).flac
+386:Ces Cru - Klick Clack Bang.flac
+387:Kelis - Bossy.flac
+388:Vampire Weekend - Step.flac
+389:Imagine Dragons - Warriors.flac
+390:Lil Wayne - A Milli.flac
+391:KDA - POPSTARS.flac
+392:Lil Wayne - MegaMan.flac
+393:Poppy - Lowlife.flac
+394:Bebe Rexha - Meant to Be (feat. Florida Georgia Line).flac
+395:Young Thug - Liger.flac
+396:DJ Khaled - We Takin' Over.flac
+397:M.O.P. - Ante Up (Robbin Hoodz Theory).flac
+398:Incubus - Anna Molly.flac
+399:Danny Brown - Fresh Off the Boat Main Title Theme.flac
+400:Lil Wayne - Mahogany.flac
+401:League of Legends - Phoenix.flac
+402:Travis Barker - Gimme Brain.flac
+403:Gym Class Heroes - Stereo Hearts (feat. Adam Levine).flac
+404:The Lonely Island - Jack Sparrow (Album Version).flac
+405:Breaking Benjamin - The Diary Of Jane.flac
+406:Shaggy - It Wasn't Me.flac
+407:DeStorm Power feat. T-Coles - Victory Dance (Explicit).flac
+408:Shaggy - Boombastic.flac
+409:Anilyst - Triple Threat.flac
+410:Run The Jewels - Panther Like a Panther (Miracle Mix) [feat. Trina].flac
+411:Empire Cast - Boom Boom Boom Boom.flac
+412:Taylor Swift - Blank Space.flac
+413:Gorillaz - Clint Eastwood.flac
+414:Panic! At the Disco - Collar Full.flac
+415:Jay-Z - Dirt off Your Shoulder - Lying From You.flac
+416:Empire Cast - Drip Drop (feat. Yazz and Serayah McNeill).flac
+417:The Offspring - The Kids Aren't Alright.flac
+418:Raptile - Go Faster.flac
+419:Lil Wayne - 6 Foot 7 Foot.flac
+420:Matt Hoffman - Can't Take My Eyes off of You.flac
+421:Empire Cast - Get No Better (2.0).flac
+422:Tyga - Switch Lanes.flac
+423:Dwayne Johnson - You're Welcome.flac
+424:Bonnie Tyler - Total Eclipse of the Heart.flac
+425:Al Fatz - Came Down.flac
+426:B.o.B - Airplanes, Pt. II (feat. Eminem & Hayley Williams).flac
+427:Grant Gustin - Runnin' Home to You.flac
+428:Sum 41 - The Hell Song (Album Version).flac
+429:Spin Doctors - Two Princes.flac
+430:Gucci Mane - Wake Up in the Sky.flac
+431:Backstreet Boys - I Want It That Way.flac
+432:Travis Barker - Let's Go.flac
+433:Clean Bandit - Tick Tock (feat. 24kGoldn).flac
 playlist_end
