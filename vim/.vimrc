@@ -120,14 +120,13 @@ set tabstop=4                   " tabs are 4 spaces
 set shiftwidth=4                " number of space characters used for indentation
 set expandtab                   " pressing Tab key inserts spaces
 set whichwrap=b,s,<,>,h,l,[,]   " traverse line breaks with navigation keys
+set path+=**                    " adds recursive partial search
 filetype plugin on
 
 " ---- Key mappings ---------------------
 
 nnoremap H ^
 nnoremap L $
-nnoremap J <C-d>
-nnoremap K <C-u>
 
 " Move between tiles
 nnoremap <C-J> <C-W><C-J>

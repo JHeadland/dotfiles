@@ -10,7 +10,7 @@ export TERMINAL=/usr/bin/termite
 # Set Vim as default editor
 export EDITOR=/usr/bin/vim
 # Set Chromium as default browser
-export BROWSER='chromium'
+export BROWSER='/usr/bin/chromium'
 # Erase and ignore duplicate lines in history
 export HISTCONTROL="erasedups:ignoreboth"
 # Don't record some commands in history
@@ -45,6 +45,9 @@ PS1='\[\e[31m\] \h\[\e[m\]  \[\e[38;5;048m\] \u\[\e[m\]  \[\e[38;5;0
 
 # Add ~/Scripts to PATH
 export PATH="~/Scripts:$PATH"
+
+export PATH_TO_FX_MODS=~/Downloads/javafx-sdk-15/lib
+export PATH_TO_FX_MODS=~/Downloads/javafx-jmods-15
 
 # Add bash aliases
 if [ -f ~/.bash_aliases ]; then
@@ -90,9 +93,9 @@ mkcd() { mkdir -p "$@" && cd "$@"; }
 # cd directly to school course directory
 school() {
     if [ -z "$1" ]; then
-        cd ~/School/UH/FA20
+        cd ~/School/UH/SP21
     else
-        cd ~/School/UH/FA20/*${1^^}*
+        cd ~/School/UH/SP21/*${1^^}*
     fi
 }
 

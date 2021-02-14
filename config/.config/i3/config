@@ -3,9 +3,9 @@
 # Please see http://i3wm.org/docs/userguide.html for a complete reference!
 
 # Set $mod key as Alt key
-set $mod Mod1
+#set $mod Mod1
 # Set $mod key as Super (Windows) key
-#set $mod Mod4
+set $mod Mod4
 
 #------------#
 # Appearance #
@@ -18,7 +18,7 @@ font pango:Cantarell 8
 exec_always --no-startup-id ~/.config/polybar/bar.sh
 
 # Startup script with Windows+s
-bindsym Mod4+s exec --no-startup-id ~/Scripts/startup
+bindsym Mod1+s exec --no-startup-id ~/Scripts/startup
 exec_always --no-startup-id ~/Scripts/startup
 
 #--------------#
@@ -198,3 +198,4 @@ for_window [class=Thunar|music|calendar|feh|Pavucontrol] floating enable, border
 for_window [window_role=pop-up] floating enable
 for_window [class=calendar] move right 550px,move down 280px
 for_window [class="Hydrus Client" instance="client"] floating enable
+for_window [class="com.example.trellomock.JavaFXApp"] floating enable
