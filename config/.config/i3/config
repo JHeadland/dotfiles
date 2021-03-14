@@ -17,6 +17,9 @@ font pango:Cantarell 8
 # Polybar
 exec_always --no-startup-id ~/.config/polybar/bar.sh
 
+# Bluetooth manager applet
+exec_always --no-startup-id blueman-applet
+
 # Startup script with Windows+s
 bindsym Mod1+s exec --no-startup-id ~/Scripts/startup
 exec_always --no-startup-id ~/Scripts/startup
@@ -150,6 +153,7 @@ bindsym $mod+Shift+9 move container to workspace $ws9
 bindsym XF86AudioRaiseVolume exec --no-startup-id pamixer --allow-boost -i 5 && notify-send -t 700 $(pamixer --get-volume)
 bindsym XF86AudioLowerVolume exec --no-startup-id pamixer --allow-boost -d 5 && notify-send -t 700 $(pamixer --get-volume)
 bindsym XF86AudioMute exec --no-startup-id pamixer -t
+bindsym XF86AudioMicMute exec --no-startup-id pamixer --default-source -t
 
 # Change brightness
 bindsym XF86MonBrightnessDown exec --no-startup-id xbacklight -dec 5
